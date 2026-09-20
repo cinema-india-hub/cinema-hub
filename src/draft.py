@@ -1,12 +1,9 @@
-"""Turn candidates (or the release calendar) into pending drafts using a free-tier LLM API.
-Usage: python src/draft.py trends | python src/draft.py calendar
-"""
 import csv, datetime as dt, hashlib, json, os, pathlib, re, sys
 import requests
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DRAFTS = ROOT / "drafts"
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")  # check current free-tier model names
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")  
 KEY = os.environ.get("GEMINI_API_KEY", "")
 
 RULES = """You write for an English-language film & OTT site aimed at Indian readers.
