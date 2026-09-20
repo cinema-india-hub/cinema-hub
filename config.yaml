@@ -18,7 +18,7 @@ entertainment_terms:
   - jiohotstar
   - hotstar
   - imax
-  - season
+  - new season
   - web series
   - bollywood
   - hollywood
@@ -29,7 +29,7 @@ entertainment_terms:
   - marvel
   - oscars
   - teaser
-  - streaming
+  - streaming date
 
 # A trend is DROPPED if title/headlines contain any of these (safety gate)
 block_terms:
