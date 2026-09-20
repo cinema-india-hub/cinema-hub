@@ -1,0 +1,73 @@
+# ---------- CONFIG: edit this file ----------
+site_url: "https://YOURUSER.github.io/YOURREPO"   # your GitHub Pages URL
+site_name: "Cinema India Hub"
+geos: ["IN", "US"]              # Google Trends regions to watch
+min_traffic: 200                # ignore trends below this approx. search count
+max_candidates: 4               # drafts generated per run
+
+# A trend is kept only if title/headlines contain one of these words
+entertainment_terms:
+  - film
+  - movie
+  - trailer
+  - box office
+  - release date
+  - ott
+  - netflix
+  - prime video
+  - jiohotstar
+  - hotstar
+  - imax
+  - season
+  - web series
+  - bollywood
+  - hollywood
+  - tollywood
+  - kollywood
+  - cast
+  - sequel
+  - marvel
+  - oscars
+  - teaser
+  - streaming
+
+# A trend is DROPPED if title/headlines contain any of these (safety gate)
+block_terms:
+  - dies
+  - died
+  - death
+  - dead
+  - passes away
+  - funeral
+  - suicide
+  - arrested
+  - arrest
+  - lawsuit
+  - sues
+  - allegation
+  - assault
+  - rape
+  - affair
+  - divorce
+  - separation
+  - rehab
+  - cancer
+  - hospitalised
+  - hospitalized
+  - leaked
+  - mms
+  - nude
+
+# Headline feeds used only to corroborate a trend (never copied)
+signal_feeds:
+  - https://variety.com/feed/
+  - https://deadline.com/feed/
+  - https://www.hollywoodreporter.com/feed/
+  # ADD 2-3 Indian film-news RSS URLs here (open the outlet's site, look for its RSS link)
+
+# Your tracked affiliate links (get them after joining the programs)
+affiliate:
+  tickets_label: "Book tickets"
+  tickets_url: "https://REPLACE_WITH_YOUR_BOOKMYSHOW_TRACKED_LINK"
+  gear_label: "Home-theatre gear on Amazon India"
+  gear_url: "https://REPLACE_WITH_YOUR_AMAZON_ASSOCIATES_LINK"
