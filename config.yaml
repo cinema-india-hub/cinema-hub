@@ -1,5 +1,5 @@
 # ---------- CONFIG: edit this file ----------
-site_url: "https://YOURUSER.github.io/YOURREPO"   # your GitHub Pages URL
+site_url: "https://cinema-india-hub.github.io/cinema-hub"   # your GitHub Pages URL
 site_name: "Cinema India Hub"
 geos: ["IN", "US"]              # Google Trends regions to watch
 min_traffic: 200                # ignore trends below this approx. search count
