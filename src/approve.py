@@ -1,7 +1,3 @@
-"""Telegram approval gate + publisher.
-  python src/approve.py notify  -> send pending drafts to your Telegram
-  python src/approve.py poll    -> read your replies ('ok ab12cd' / 'no ab12cd'), publish approved drafts
-"""
 import datetime as dt, json, os, pathlib, re, sys
 import requests, yaml
 
