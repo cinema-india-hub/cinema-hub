@@ -1,70 +1,47 @@
 [
   {
     "geo": "US",
-    "title": "movie",
-    "traffic": 500,
-    "pubDate": "Sun, 20 Sep 2026 23:20:00 -0700",
+    "title": "dictionary",
+    "traffic": 5000,
+    "pubDate": "Mon, 21 Sep 2026 06:10:00 -0700",
     "news": [
       {
-        "title": "Box Office: ‘Resident Evil’ Breaks Franchise Records With $60 Million Opening Weekend",
-        "url": "https://variety.com/2026/film/box-office/resident-evil-box-office-zach-cregger-reboot-opening-weekend-record-breaking-1236867659/",
-        "source": "Variety"
+        "title": "Merriam-Webster welcomes ‘looksmaxxing,’ ‘vibe coding’ and ‘cuffing season’ to new word list",
+        "url": "https://www.foxbusiness.com/lifestyle/merriam-webster-welcomes-looksmaxxing-vibe-coding-cuffing-season-new-word-list",
+        "source": "Fox Business"
       },
       {
-        "title": "The New Movie That Finally Cracks Cinema’s Most Maligned Genre",
-        "url": "https://slate.com/culture/2026/09/resident-evil-movie-2026-game-new-horror-zach-cregger.html",
-        "source": "Slate Magazine"
+        "title": "US dictionary adds 1,400 words, including neckbeard, trash panda and cuffing season",
+        "url": "https://www.bbc.com/news/articles/cj1dlkydv7ezo",
+        "source": "BBC"
       },
       {
-        "title": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
-        "url": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review",
-        "source": "The Guardian"
+        "title": "From ‘Sunday Scaries’ and ‘Whack-a-Mole’ to ‘Looksmaxxing’ and ‘Cuffing Season,’ These Are the Newest Words in the Dictionary",
+        "url": "https://www.smithsonianmag.com/smart-news/from-sunday-scaries-and-whack-a-mole-to-looksmaxxing-and-cuffing-season-these-are-the-newest-words-in-the-dictionary-180989529/",
+        "source": "Smithsonian Magazine"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "sharon stone",
-    "traffic": 500,
-    "pubDate": "Sun, 20 Sep 2026 22:30:00 -0700",
-    "news": [
-      {
-        "title": "Sharon Stone claims ex-husband signed her up for brain surgery without her consent after stroke",
-        "url": "https://www.foxnews.com/entertainment/sharon-stone-claims-ex-husband-signed-her-up-brain-surgery-without-her-consent-after-stroke",
-        "source": "Fox News"
-      },
-      {
-        "title": "Sharon Stone Alleges Ex-Husband Authorized Brain Surgery Without Consent",
-        "url": "https://suaragarut.id/en/sharon-stone-alleges-unauthorized-brain-surgery",
-        "source": "SuaraGarut.ID"
-      },
-      {
-        "title": "Sharon Stone bashes ‘Sliver’ movie days after co-star Billy Baldwin ripped into her",
-        "url": "https://pagesix.com/2026/09/18/entertainment/sharon-stone-bashes-sliver-movie-after-co-star-billy-baldwin-ripped-into-her/",
-        "source": "Page Six"
-      }
-    ]
-  },
-  {
-    "geo": "IN",
-    "title": "batman knightfall part 2",
+    "title": "hope davis",
     "traffic": 200,
-    "pubDate": "Mon, 21 Sep 2026 00:50:00 -0700",
+    "pubDate": "Mon, 21 Sep 2026 07:20:00 -0700",
     "news": [
       {
-        "title": "Box Office: Spider-Man: Brand New Day Makes Tom Holland’s Franchise The Only One With 2 Films Among All-Time Domestic Top 5!",
-        "url": "https://www.imdb.com/news/ni66021885/?ref_=ttnw_art_perm",
-        "source": "IMDb"
+        "title": "‘Brothers’ and 7 More Things to Stream This Week",
+        "url": "https://www.nytimes.com/2026/09/21/arts/music/brothers-and-7-more-things-to-stream-this-week.html",
+        "source": "The New York Times"
       },
       {
-        "title": "‘Spider-Man: Brand New Day’ Overtakes ‘Star Wars: Force Awakens’ as Highest-Grossing Movie of All Time at Domestic Box Office",
-        "url": "https://variety.com/2026/film/box-office/spider-man-beats-star-wars-biggest-movie-domestic-box-office-1236836593/",
-        "source": "Variety"
+        "title": "New and streaming TV: Peter Krause, Hope Davis in ‘Line of Fire,’ Jasmine Guy in ‘A Different World,’ and more",
+        "url": "https://www.bostonglobe.com/2026/09/21/arts/new-streaming-tv-line-of-fire-brothers/",
+        "source": "The Boston Globe"
       },
       {
-        "title": "‘Spider-Man: Brand New Day’ Hits No. 1 on All-Time Domestic Chart, Topping ‘Force Awakens’",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-domestic-box-office-force-awakens-1236703398/",
-        "source": "The Hollywood Reporter"
+        "title": "7 biggest new shows to stream this week,including a Matthew McConaughey and Woody Harrelson team-up",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/7-biggest-shows-stream-week-040000262.html",
+        "source": "Yahoo"
       }
     ]
   }
