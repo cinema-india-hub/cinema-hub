@@ -1,47 +1,24 @@
 [
   {
     "geo": "US",
-    "title": "dictionary",
-    "traffic": 5000,
-    "pubDate": "Mon, 21 Sep 2026 06:10:00 -0700",
+    "title": "baseball",
+    "traffic": 2000,
+    "pubDate": "Mon, 21 Sep 2026 10:10:00 -0700",
     "news": [
       {
-        "title": "Merriam-Webster welcomes ‘looksmaxxing,’ ‘vibe coding’ and ‘cuffing season’ to new word list",
-        "url": "https://www.foxbusiness.com/lifestyle/merriam-webster-welcomes-looksmaxxing-vibe-coding-cuffing-season-new-word-list",
-        "source": "Fox Business"
+        "title": "Pirates ace Paul Skenes opens up about his struggles — and the role the World Baseball Classic played",
+        "url": "https://www.post-gazette.com/sports/pirates/2026/09/21/paul-skenes-world-baseball-classic-pirates/stories/202609210013",
+        "source": "Pittsburgh Post-Gazette"
       },
       {
-        "title": "US dictionary adds 1,400 words, including neckbeard, trash panda and cuffing season",
-        "url": "https://www.bbc.com/news/articles/cj1dlkydv7ezo",
-        "source": "BBC"
+        "title": "Why Paul Skenes blames the World Baseball Classic for decreased velocity as Pirates ace wraps up down season",
+        "url": "https://www.cbssports.com/mlb/news/paul-skenes-world-baseball-classic-velocity-pirates/",
+        "source": "CBS Sports"
       },
       {
-        "title": "From ‘Sunday Scaries’ and ‘Whack-a-Mole’ to ‘Looksmaxxing’ and ‘Cuffing Season,’ These Are the Newest Words in the Dictionary",
-        "url": "https://www.smithsonianmag.com/smart-news/from-sunday-scaries-and-whack-a-mole-to-looksmaxxing-and-cuffing-season-these-are-the-newest-words-in-the-dictionary-180989529/",
-        "source": "Smithsonian Magazine"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "hope davis",
-    "traffic": 200,
-    "pubDate": "Mon, 21 Sep 2026 07:20:00 -0700",
-    "news": [
-      {
-        "title": "‘Brothers’ and 7 More Things to Stream This Week",
-        "url": "https://www.nytimes.com/2026/09/21/arts/music/brothers-and-7-more-things-to-stream-this-week.html",
-        "source": "The New York Times"
-      },
-      {
-        "title": "New and streaming TV: Peter Krause, Hope Davis in ‘Line of Fire,’ Jasmine Guy in ‘A Different World,’ and more",
-        "url": "https://www.bostonglobe.com/2026/09/21/arts/new-streaming-tv-line-of-fire-brothers/",
-        "source": "The Boston Globe"
-      },
-      {
-        "title": "7 biggest new shows to stream this week,including a Matthew McConaughey and Woody Harrelson team-up",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/7-biggest-shows-stream-week-040000262.html",
-        "source": "Yahoo"
+        "title": "Paul Skenes Blames WBC Play for Affecting Velocity Drop in 2026 MLB Season",
+        "url": "https://bleacherreport.com/articles/25501473-paul-skenes-blames-wbc-play-affecting-velocity-drop-2026-mlb-season",
+        "source": "Bleacher Report"
       }
     ]
   }
