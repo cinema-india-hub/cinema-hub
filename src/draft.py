@@ -1,24 +1,24 @@
+"""Turn candidates (or the release calendar) into pending drafts using a free-tier LLM API.
+Usage: python src/draft.py trends | python src/draft.py calendar
+"""
 import csv, datetime as dt, hashlib, json, os, pathlib, re, sys
 import requests
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DRAFTS = ROOT / "drafts"
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite") 
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")  # check current free-tier model names
 KEY = os.environ.get("GEMINI_API_KEY", "")
 
-RULES = """You write for an English-language film, TV and OTT site aimed at Indian readers.
-SCOPE: only movies, TV series and streaming/OTT. If the topic is sports, music, politics, business or anything else, return {"skip": true, "reason": "off-topic"}.
+RULES = """You write for an English-language film & OTT site aimed at Indian readers.
 HARD RULES:
 - Use ONLY the facts given in FACTS. Never invent dates, numbers, quotes, casting, plot or box-office figures.
-- BE SPECIFIC OR SKIP. The article must contain at least three concrete facts from FACTS (a title, a date, a platform, a confirmed role, a figure with its source). If FACTS do not support that, return {"skip": true, "reason": "too thin"}. Do not pad.
-- Never use filler such as: "fans are following", "stay tuned", "coverage details", "across major platforms", "experts say", "it remains to be seen", "not yet confirmed" repeated more than once.
+- If a detail is not in FACTS, say it is "not yet confirmed" or leave it out.
 - No rumours, no personal-life, relationship, family or health claims about any real person.
 - No song lyrics, no long quotes (max 10 words, and only if in FACTS), no copied sentences.
-- Plain, direct style like a good newsroom brief: lead with the news in the first sentence, short sentences, no hype, no rhetorical questions.
-- Include one short 'For Indian viewers' line ONLY if FACTS give a real India angle (release date, platform, ticket window). Otherwise omit it entirely.
-- 120-200 words for the article body, Markdown, no headings.
-Return ONLY valid JSON: {"title": str, "body_md": str, "short_script": str, "tags": [str]} or {"skip": true, "reason": str}
-title = a plain factual headline under 80 characters. short_script = a 30-second voice-over, plain sentences, no emojis, no calls to action."""
+- Neutral, useful tone. Add a short 'What it means for Indian viewers' section (release, streaming or ticket angle) using only FACTS, otherwise say what to watch for.
+- 150-250 words for the article body, Markdown, with one H2 subheading at most.
+Return ONLY valid JSON: {"title": str, "body_md": str, "short_script": str, "tags": [str]}
+short_script = a 35-second voice-over for a vertical video, plain sentences, no emojis."""
 
 
 def call_llm(prompt):
@@ -55,9 +55,6 @@ def from_trends():
         except Exception as e:
             print(f"[draft] LLM failed for {c['title']}: {e}")
             continue
-        if data.get("skip") or not data.get("body_md"):
-            print(f"[draft] skipped '{c['title']}': {data.get('reason', 'no content')}")
-            continue
         sources = [{"title": n["title"], "url": n["url"], "source": n["source"]} for n in c["news"][:4]]
         print("[draft] saved", save_draft("trend", facts, sources, data))
 
@@ -79,9 +76,6 @@ def from_calendar():
     prompt = (f"{RULES}\n\nTask: write a 'Releasing this week' roundup. One short paragraph per film.\n\n"
               f"FACTS:\n{json.dumps(rows, ensure_ascii=False)}")
     data = call_llm(prompt)
-    if data.get("skip") or not data.get("body_md"):
-        print(f"[draft] skipped calendar roundup: {data.get('reason', 'no content')}")
-        return
     print("[draft] saved", save_draft("release", rows, [], data))
 
 

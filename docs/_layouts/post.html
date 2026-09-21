@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="article-shell">
+  <div class="article-topline"><a href="{{ '/' | relative_url }}">← Back to desk</a><span>{{ page.date | date: "%d %B %Y" }}</span></div>
+  <header class="article-header">
+    <div class="article-kicker">{% if page.tags %}{{ page.tags | join: ' · ' | upcase }}{% else %}CINEMA DESK{% endif %}</div>
+    <h1>{{ page.title }}</h1>
+    <p class="article-dek">A concise, source-led update for Indian film and OTT viewers.</p>
+  </header>
+  <div class="article-layout">
+    <aside class="article-rail">
+      <div class="rail-card"><span>EDITORIAL MODE</span><strong>Human approved</strong><small>Automated discovery · manual publication</small></div>
+      <div class="rail-card"><span>READ</span><strong>{{ content | number_of_words | divided_by: 200 | plus: 1 }} min</strong><small>Short, focused coverage</small></div>
+    </aside>
+    <div class="article-content">
+      <div class="post-art"><div class="post-ring"></div><div class="post-glow"></div><span>{{ page.tags.first | default: 'FILM' | upcase }}</span></div>
+      {{ content }}
+      {% if page.sources %}<div class="sources"><h2>Sources</h2>{{ page.sources }}</div>{% endif %}
+    </div>
+  </div>
+</article>

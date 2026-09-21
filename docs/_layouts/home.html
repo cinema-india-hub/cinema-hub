@@ -1,0 +1,67 @@
+---
+layout: default
+---
+<section class="hero-shell">
+  <div class="hero-copy">
+    <p class="eyebrow"><span class="live-dot"></span> CINEMA SIGNAL DESK · INDIA</p>
+    <h1>Know what’s moving.<br><em>Know what matters.</em></h1>
+    <p class="hero-lede">A human-approved cinema workflow tracking film, OTT and release signals across India and the world.</p>
+    <div class="hero-actions">
+      <a class="button button-primary" href="#latest">Explore the latest <span>↗</span></a>
+      <a class="text-link" href="#how-it-works">See the workflow ↓</a>
+    </div>
+  </div>
+  <div class="hero-visual" aria-hidden="true">
+    <div class="orb orb-a"></div><div class="orb orb-b"></div>
+    <div class="signal-panel">
+      <div class="panel-top"><span>LIVE SIGNAL MAP</span><span>IN / US</span></div>
+      <div class="signal-line"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+      <div class="signal-row"><b>FILM</b><span>trend detected</span><strong>+82%</strong></div>
+      <div class="signal-row"><b>OTT</b><span>release window</span><strong>+41%</strong></div>
+      <div class="signal-row"><b>THEATRE</b><span>India angle</span><strong>READY</strong></div>
+    </div>
+    <div class="reel" aria-hidden="true"><span></span><span></span><span></span><span></span><b></b></div>
+  </div>
+</section>
+
+<section id="how-it-works" class="workflow-section">
+  <div class="section-heading"><div><p class="eyebrow">THE ENGINE</p><h2>From signal to story.</h2></div><p>Automation handles the repetitive work. A human decides what deserves to go live.</p></div>
+  <div class="workflow-grid">
+    <article class="workflow-card"><span>01</span><div class="workflow-icon">⌁</div><h3>Detect</h3><p>Google Trends surfaces fresh film and OTT signals from India and the US.</p></article>
+    <article class="workflow-card"><span>02</span><div class="workflow-icon">◌</div><h3>Filter</h3><p>Safety terms, topic rules, traffic and corroboration remove weak or risky stories.</p></article>
+    <article class="workflow-card"><span>03</span><div class="workflow-icon">✦</div><h3>Draft</h3><p>Gemini turns verified facts into a compact, India-first article and short script.</p></article>
+    <article class="workflow-card featured"><span>04</span><div class="workflow-icon">✓</div><h3>Approve</h3><p>You review the draft in Telegram and decide whether it reaches the site.</p></article>
+    <article class="workflow-card"><span>05</span><div class="workflow-icon">↗</div><h3>Publish</h3><p>Approved posts land on GitHub Pages with sources, disclosure and useful links.</p></article>
+  </div>
+</section>
+
+<section id="latest" class="latest-section">
+  <div class="section-heading compact"><div><p class="eyebrow">THE EDITORIAL DESK</p><h2>Latest stories</h2></div><span class="section-note">{{ site.posts | size }} published</span></div>
+  {% if site.posts.size > 0 %}
+  <div class="story-grid">
+    {% for post in site.posts limit:12 %}
+    <a class="story-card" href="{{ post.url | relative_url }}">
+      <div class="story-art {% cycle 'art-cinema','art-ott','art-release','art-signal' %}">
+        <span class="art-label">{{ post.tags.first | default: 'FILM' | upcase }}</span>
+        <div class="art-ring"></div><div class="art-glow"></div><div class="art-lines"></div>
+        <span class="art-index">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+      </div>
+      <div class="story-body">
+        <div class="story-meta"><span>{{ post.date | date: "%d %b %Y" }}</span><span>{{ post.tags | join: ' · ' }}</span></div>
+        <h3>{{ post.title }}</h3>
+        <p>{{ post.excerpt | strip_html | truncate: 125 }}</p>
+        <span class="read-link">Read story <b>↗</b></span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="empty-state"><span class="empty-icon">◎</span><h3>The desk is warming up.</h3><p>Your first approved story will appear here automatically.</p></div>
+  {% endif %}
+</section>
+
+<section class="trust-strip">
+  <div><span>✓</span><strong>Human approved</strong><small>Every automated draft passes your review.</small></div>
+  <div><span>◎</span><strong>Source led</strong><small>Stories carry the sources used to build them.</small></div>
+  <div><span>↗</span><strong>India first</strong><small>Release, streaming and ticket context stays useful.</small></div>
+</section>

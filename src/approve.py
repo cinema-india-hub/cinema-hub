@@ -48,7 +48,9 @@ def publish(d):
     src = "\n".join(f"- {s['source']}: [{s['title']}]({s['url']})" for s in d.get("sources", []) if s.get("url"))
     today = dt.date.today().isoformat()
     title = d["title"].replace('"', "'")
-    md = (f'---\nlayout: post\ntitle: "{title}"\ndate: {today}\ntags: {json.dumps(d.get("tags", []))}\n---\n\n'
+    tags = d.get("tags", []) or []
+    tag_yaml = json.dumps(tags, ensure_ascii=False)
+    md = (f'---\nlayout: post\ntitle: "{title}"\ndate: {today}\ntags: {tag_yaml}\ntype: {d.get("type", "trend")}\nsource_count: {len(d.get("sources", []))}\n---\n\n'
           f"{d['body_md']}\n\n{block}\n\n" + (f"**Sources**\n{src}\n\n" if src else "") + f"{DISCLOSURE}\n")
     POSTS.mkdir(parents=True, exist_ok=True)
     (POSTS / f"{today}-{slugify(d['title'])}.md").write_text(md, encoding="utf-8")

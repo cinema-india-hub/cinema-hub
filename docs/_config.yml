@@ -1,5 +1,8 @@
 title: Cinema India Hub
 description: Film and OTT release guides for Indian viewers
-theme: minima
-url: "https://cinema-india-hub.github.io"
-baseurl: "/cinema-hub"
+url: "https://YOURUSER.github.io"
+baseurl: "/YOURREPO"
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
