@@ -1,24 +1,47 @@
 [
   {
-    "geo": "IN",
-    "title": "sonyliv",
+    "geo": "US",
+    "title": "pierce brosnan",
     "traffic": 1000,
-    "pubDate": "Mon, 21 Sep 2026 22:20:00 -0700",
+    "pubDate": "Tue, 22 Sep 2026 05:40:00 -0700",
     "news": [
       {
-        "title": "IMDbवर ९.२ रेटिंग मिळालेला ‘हबीबी’ ओटीटीवर ‘या’ दिवशी होणार प्रदर्शित; कधी व कुठे? वाचा..",
-        "url": "https://www.loksatta.com/manoranjan/ott/habibi-ott-release-date-sony-liv-imdb-rating-love-story-of-muslim-couple-nsp-98-6148298/",
-        "source": "Loksatta"
+        "title": "Pierce Brosnan and Helen Mirren break silence on their off-screen relationship: 'We don't hang'",
+        "url": "https://currently.att.yahoo.com/att/pierce-brosnan-helen-mirren-break-070000986.html",
+        "source": "Currently.com"
       },
       {
-        "title": "Romantic Drama OTT : ఓటీటీలోకి ధనుష్ తండ్రి మూవీ - రొమాంటిక్ ఎమోషనల్ డ్రామా ఎప్పుడు, ఎందులో",
-        "url": "https://telugu.abplive.com/entertainment/ott-webseries/habeebi-ott-release-date-kasthuri-raja-malavika-manoj-periodical-romantic-drama-when-to-watch-on-sonyliv-259536",
-        "source": "ABP Desam"
+        "title": "MobLand season two review – why is Pierce Brosnan’s tedious crime drama so obsessed with testicle jokes?",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/18/mobland-season-two-review-guy-ritchie-tom-hardy-pierce-brosnan-helen-mirren-paramount-now",
+        "source": "The Guardian"
       },
       {
-        "title": "హీరో ధనుష్‌ తండ్రి సినిమా ‘హబీబీ’.. ఓటీటీలోకి వచ్చేస్తోంది!",
-        "url": "https://www.sakshi.com/telugu-news/movies/dhanush-father-kasturi-raja-periodic-romantic-drama-stream-ott-telugu-2909677",
-        "source": "Sakshi"
+        "title": "Who Is Johnny Flynn’s Frankie? Meet the Harrigans’ Scariest New Enemy in ‘MobLand’",
+        "url": "https://www.imdb.com/news/ni66023456/?ref_=nm_nwr_1",
+        "source": "IMDb"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "helen mirren",
+    "traffic": 200,
+    "pubDate": "Tue, 22 Sep 2026 05:40:00 -0700",
+    "news": [
+      {
+        "title": "The iconic British movie series Helen Mirren despises: “It was not my thing”",
+        "url": "https://faroutmagazine.co.uk/iconic-british-movie-series-helen-mirren-despises/",
+        "source": "Far Out Magazine"
+      },
+      {
+        "title": "Helen Mirren and the role she has always refused to play",
+        "url": "https://www.martincid.com/people/helen-mirren/",
+        "source": "Martin Cid Magazine"
+      },
+      {
+        "title": "SCAD Savannah Film Festival to Open With ‘A Talent for Murder’ and Legend of Entertainment Honor for Helen Mirren",
+        "url": "https://variety.com/2026/film/awards/helen-mirren-scad-film-festival-talent-for-murder-1236871208/",
+        "source": "Variety"
       }
     ]
   }
