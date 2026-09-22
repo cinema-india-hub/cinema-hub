@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "what time is dancing with the stars on",
+    "traffic": 2000,
+    "pubDate": "Tue, 22 Sep 2026 15:50:00 -0700",
+    "news": [
+      {
+        "title": "Who left 'Dancing With the Stars' in Week 1? 2 celebrities sent home.",
+        "url": "https://www.yahoo.com/entertainment/tv/article/who-left-dancing-with-the-stars-last-night-2nd-celebrity-sent-home-084418558.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "‘Dancing With the Stars’ Voting Change: What Fans Need to Know",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/dancing-stars-voting-change-fans-214513003.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Who Was Eliminated on Dancing with the Stars Last Night? See Every Season 35 Pair Voted Off So Far",
+        "url": "https://people.com/who-was-eliminated-from-dancing-with-the-stars-season-35-12122717",
+        "source": "People.com"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "sun vs mystics",
+    "traffic": 1000,
+    "pubDate": "Tue, 22 Sep 2026 15:40:00 -0700",
+    "news": [
+      {
+        "title": "‘Born a leader,’ Shakira Austin has guided youthful Mystics back to playoffs",
+        "url": "https://www.washingtonpost.com/sports/2026/09/22/born-leader-shakira-austin-has-guided-youthful-mystics-back-playoffs/",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "Final Injury Report for Sun-Mystics: Will Shakira Austin, Brittney Griner Play?",
+        "url": "https://sports.yahoo.com/articles/final-injury-report-sun-mystics-183000520.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "How to watch Sun vs. Mystics: TV channel and streaming options for September 22",
+        "url": "https://www.nytimes.com/athletic/7620320/2026/09/22/sun-vs-mystics-stream-how-to-watch-sept-22/",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "survivor 51",
+    "traffic": 200,
+    "pubDate": "Tue, 22 Sep 2026 16:00:00 -0700",
+    "news": [
+      {
+        "title": "Jeff Probst Reveals Major ‘Survivor 51’ Twist — and It Could Change the Game for Years (Exclusive)",
+        "url": "https://www.hollywoodreporter.com/tv/tv-features/jeff-probst-reveals-survivor-51-twist-1236706626/",
+        "source": "The Hollywood Reporter"
+      },
+      {
+        "title": "'Survivor' Season 51: Where to stream, premiere date, castaways and everything else you need to know",
+        "url": "https://www.yahoo.com/entertainment/article/survivor-season-51-where-to-stream-premiere-date-castaways-and-everything-else-you-need-to-know-123000597.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "'Survivor 51' Cast Reveals One Thing Fans Need to Know About Them Before Episode 1 (Exclusive)",
+        "url": "https://www.tvinsider.com/gallery/survivor-51-cast-interviews-get-to-know-players/",
+        "source": "TV Insider"
+      }
+    ]
+  }
+]
