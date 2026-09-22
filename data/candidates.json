@@ -1,24 +1,24 @@
 [
   {
     "geo": "US",
-    "title": "baseball",
-    "traffic": 2000,
-    "pubDate": "Mon, 21 Sep 2026 10:10:00 -0700",
+    "title": "pat mcafee",
+    "traffic": 500,
+    "pubDate": "Mon, 21 Sep 2026 18:40:00 -0700",
     "news": [
       {
-        "title": "Pirates ace Paul Skenes opens up about his struggles — and the role the World Baseball Classic played",
-        "url": "https://www.post-gazette.com/sports/pirates/2026/09/21/paul-skenes-world-baseball-classic-pirates/stories/202609210013",
-        "source": "Pittsburgh Post-Gazette"
+        "title": "Pat McAfee Just Said the Words Every WVU Fan Wants to Hear About Morgantown",
+        "url": "https://sports.yahoo.com/articles/pat-mcafee-just-said-words-225550306.html",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "Why Paul Skenes blames the World Baseball Classic for decreased velocity as Pirates ace wraps up down season",
-        "url": "https://www.cbssports.com/mlb/news/paul-skenes-world-baseball-classic-velocity-pirates/",
-        "source": "CBS Sports"
+        "title": "FILM ROOM: Michael Hawkins making big-time throws down the field against Virginia",
+        "url": "https://247sports.com/college/west-virginia/longformarticle/film-room-michael-hawkins-making-big-time-throws-down-the-field-against-virginia-290256451/",
+        "source": "247Sports"
       },
       {
-        "title": "Paul Skenes Blames WBC Play for Affecting Velocity Drop in 2026 MLB Season",
-        "url": "https://bleacherreport.com/articles/25501473-paul-skenes-blames-wbc-play-affecting-velocity-drop-2026-mlb-season",
-        "source": "Bleacher Report"
+        "title": "WVU's Mike Hawkins Jr. is PFF's Top-Graded QB in the Country This Season",
+        "url": "https://www.si.com/college/westvirginia/football/wvu-s-mike-hawkins-jr-is-pff-s-top-graded-qb-in-the-country-this-season",
+        "source": "Sports Illustrated"
       }
     ]
   }
