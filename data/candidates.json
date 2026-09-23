@@ -1,32 +1,9 @@
 [
   {
     "geo": "IN",
-    "title": "personality rights",
-    "traffic": 10000,
-    "pubDate": "Wed, 23 Sep 2026 10:20:00 -0700",
-    "news": [
-      {
-        "title": "Bollywood Actor Rakesh Bedi Moves Delhi High Court Seeking Protection Of Personality Rights",
-        "url": "https://www.livelaw.in/high-court/delhi-high-court/rakesh-bedi-actor-personality-rights-protection-suit-filed-551358",
-        "source": "Live Law"
-      },
-      {
-        "title": "Rakesh Bedi, Dhurandhar's Jameel Jamali, approaches court to protect his personality: What happened?",
-        "url": "https://m.economictimes.com/news/new-updates/rakesh-bedi-dhurandhars-jameel-jamali-approaches-court-to-protect-his-personality-why-happened/articleshow/134433530.cms",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Delhi High Court: Actor Rakesh Bedi Files Personality Rights Suit Seeking Protection Of His Name, Voice And Likeness Against Misuse",
-        "url": "https://lawchakra.in/high-court/delhi-high-court-rakesh-bedi-personality-rights-suit-name-voice-likeness/",
-        "source": "LawChakra"
-      }
-    ]
-  },
-  {
-    "geo": "IN",
-    "title": "ott releases this week",
+    "title": "new ott releases",
     "traffic": 5000,
-    "pubDate": "Wed, 23 Sep 2026 08:50:00 -0700",
+    "pubDate": "Wed, 23 Sep 2026 13:00:00 -0700",
     "news": [
       {
         "title": "New OTT releases (September 21-September 27): 12 new movies & shows arriving on Netflix, JioHotstar, ZEE5 & more",
@@ -47,24 +24,47 @@
   },
   {
     "geo": "US",
-    "title": "dart",
+    "title": "lioness season 4",
     "traffic": 1000,
-    "pubDate": "Wed, 23 Sep 2026 09:50:00 -0700",
+    "pubDate": "Wed, 23 Sep 2026 16:00:00 -0700",
     "news": [
       {
-        "title": "Sources: Jaxson Dart to have season-ending knee surgery",
-        "url": "https://www.espn.com/nfl/story/_/id/50013861/sources-jaxson-dart-season-ending-knee-surgery",
-        "source": "ESPN"
+        "title": "'Lioness' star weighs in on what drove Taylor Sheridan's unexpected decision for her character",
+        "url": "https://www.foxnews.com/entertainment/lioness-star-weighs-what-drove-taylor-sheridans-unexpected-decision-her-character",
+        "source": "Fox News"
       },
       {
-        "title": "NFL Network: Giants QB Jaxson Dart expected to undergo season-ending knee surgery",
-        "url": "https://www.nfl.com/news/giants-qb-jaxson-dart-season-ending-knee-surgery",
-        "source": "NFL.com"
+        "title": "Taylor Sheridan Is ‘Such an MF,’ Says Zoe Saldaña After Lioness Season 3 Finale",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/taylor-sheridan-mf-says-zoe-153151600.html",
+        "source": "Yahoo"
       },
       {
-        "title": "Giants QB Jaxson Dart could miss rest of season with knee injury: Source - The Athletic",
-        "url": "https://www.nytimes.com/athletic/7620114/2026/09/22/jaxson-dart-new-york-giants-knee-injury/",
-        "source": "The New York Times"
+        "title": "\"Lioness\" star Michael Kelly talks season 3 finale",
+        "url": "https://www.cbsnews.com/video/lioness-star-michael-kelly-talks-season-3-finale/",
+        "source": "CBS News"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "aldi prices",
+    "traffic": 1000,
+    "pubDate": "Wed, 23 Sep 2026 15:50:00 -0700",
+    "news": [
+      {
+        "title": "Aldi is cutting prices on a third of its products. Here's when",
+        "url": "https://www.usatoday.com/story/grocery/shopping/2026/09/23/aldi-price-cuts-groceries-products/91894051007/",
+        "source": "USA Today"
+      },
+      {
+        "title": "Aldi cuts U.S. grocery prices for fall season amid inflation, competition pressure",
+        "url": "https://www.reuters.com/business/aldi-cuts-us-grocery-prices-fall-season-amid-inflation-competition-pressure-2026-09-23/",
+        "source": "Reuters"
+      },
+      {
+        "title": "Aldi Just Dropped Prices On Popular Fall Staples—Here Are The Best Deals To Shop",
+        "url": "https://www.yahoo.com/lifestyle/articles/aldi-just-dropped-prices-popular-165732375.html",
+        "source": "Yahoo"
       }
     ]
   }
