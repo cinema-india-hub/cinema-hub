@@ -1,32 +1,32 @@
 [
   {
     "geo": "IN",
-    "title": "marvel avengers endgame encore",
-    "traffic": 2000,
-    "pubDate": "Wed, 23 Sep 2026 05:30:00 -0700",
+    "title": "personality rights",
+    "traffic": 10000,
+    "pubDate": "Wed, 23 Sep 2026 10:20:00 -0700",
     "news": [
       {
-        "title": "Avengers: Endgame returns Friday with a first look at Doomsday",
-        "url": "https://www.imdb.com/news/ni66026133/?ref_=nmnw_art_perm",
-        "source": "IMDb"
+        "title": "Bollywood Actor Rakesh Bedi Moves Delhi High Court Seeking Protection Of Personality Rights",
+        "url": "https://www.livelaw.in/high-court/delhi-high-court/rakesh-bedi-actor-personality-rights-protection-suit-filed-551358",
+        "source": "Live Law"
       },
       {
-        "title": "Avengers: Endgame Encore Leaks Reveal New Ending and Additional Scenes That Connect to Avengers: Doomsday, Including Several Unannounced Cast Members",
-        "url": "https://www.ign.com/articles/avengers-endgame-encore-leaks-reveal-new-ending-and-additional-scenes-that-connect-to-avengers-doomsday-including-several-unannounced-cast-members",
-        "source": "IGN"
+        "title": "Rakesh Bedi, Dhurandhar's Jameel Jamali, approaches court to protect his personality: What happened?",
+        "url": "https://m.economictimes.com/news/new-updates/rakesh-bedi-dhurandhars-jameel-jamali-approaches-court-to-protect-his-personality-why-happened/articleshow/134433530.cms",
+        "source": "The Economic Times"
       },
       {
-        "title": "‘Avengers Endgame: Encore’: Release date, runtime, and how many new scenes the re-release includes",
-        "url": "https://www.marca.com/en/lifestyle/movies/2026/09/23/avengers-endgame-encore-release-date-runtime-and-how-many-new-scenes-the-re-release-includes.html",
-        "source": "MARCA"
+        "title": "Delhi High Court: Actor Rakesh Bedi Files Personality Rights Suit Seeking Protection Of His Name, Voice And Likeness Against Misuse",
+        "url": "https://lawchakra.in/high-court/delhi-high-court-rakesh-bedi-personality-rights-suit-name-voice-likeness/",
+        "source": "LawChakra"
       }
     ]
   },
   {
     "geo": "IN",
-    "title": "new ott releases september 25 2026",
-    "traffic": 2000,
-    "pubDate": "Wed, 23 Sep 2026 05:30:00 -0700",
+    "title": "ott releases this week",
+    "traffic": 5000,
+    "pubDate": "Wed, 23 Sep 2026 08:50:00 -0700",
     "news": [
       {
         "title": "New OTT releases (September 21-September 27): 12 new movies & shows arriving on Netflix, JioHotstar, ZEE5 & more",
@@ -34,14 +34,37 @@
         "source": "GQ India"
       },
       {
-        "title": "OTT releases this week (September 21-September 27): 'Shaque: Trust No One', 'Hunkkaar: The Roar', 'Brothers', 'The Love Hypothesis', 'Wonka’s The Golden Ticket' and more",
-        "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/ott-releases-this-week-september-21-september-27-shaque-trust-no-one-hunkkaar-the-roar-brothers-the-love-hypothesis-wonkas-the-golden-ticket-and-more/photostory/134388730.cms",
-        "source": "The Times of India"
-      },
-      {
         "title": "OTT releases this week: Suriya, Taapsee Pannu, R Madhavan among new picks",
         "url": "https://telanganatoday.com/ott-releases-this-week-suriya-taapsee-pannu-r-madhavan-among-new-picks",
         "source": "Telangana Today"
+      },
+      {
+        "title": "OTT releases this week (September 21-September 27): 'Shaque: Trust No One', 'Hunkkaar: The Roar', 'Brothers', 'The Love Hypothesis', 'Wonka’s The Golden Ticket' and more",
+        "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/ott-releases-this-week-september-21-september-27-shaque-trust-no-one-hunkkaar-the-roar-brothers-the-love-hypothesis-wonkas-the-golden-ticket-and-more/photostory/134388730.cms",
+        "source": "The Times of India"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "dart",
+    "traffic": 1000,
+    "pubDate": "Wed, 23 Sep 2026 09:50:00 -0700",
+    "news": [
+      {
+        "title": "Sources: Jaxson Dart to have season-ending knee surgery",
+        "url": "https://www.espn.com/nfl/story/_/id/50013861/sources-jaxson-dart-season-ending-knee-surgery",
+        "source": "ESPN"
+      },
+      {
+        "title": "NFL Network: Giants QB Jaxson Dart expected to undergo season-ending knee surgery",
+        "url": "https://www.nfl.com/news/giants-qb-jaxson-dart-season-ending-knee-surgery",
+        "source": "NFL.com"
+      },
+      {
+        "title": "Giants QB Jaxson Dart could miss rest of season with knee injury: Source - The Athletic",
+        "url": "https://www.nytimes.com/athletic/7620114/2026/09/22/jaxson-dart-new-york-giants-knee-injury/",
+        "source": "The New York Times"
       }
     ]
   }
