@@ -1,70 +1,93 @@
 [
   {
     "geo": "US",
-    "title": "amber glenn",
-    "traffic": 20000,
-    "pubDate": "Tue, 22 Sep 2026 18:10:00 -0700",
-    "news": [
-      {
-        "title": "Plano's Amber Glenn teases 'Heated Rivalry' tango on 'Dancing with the Stars'",
-        "url": "https://www.dallasnews.com/arts-entertainment/tv/article/amber-glenn-heated-rivalry-dancing-with-the-stars-22443618.php",
-        "source": "Dallas News"
-      },
-      {
-        "title": "See which Baton Rouge native will compete in the new season of 'Dancing with the Stars'",
-        "url": "https://www.wbrz.com/news/see-which-baton-rouge-native-will-compete-in-the-new-season-of-dancing-with-the-stars-/",
-        "source": "WBRZ"
-      },
-      {
-        "title": "Deadline Hollywood. . Amber Glenn and Pasha Pashkov tease what’s in store for their dance next week on #DWTS : “It’s a cool tie in very personal to Amber something she did earlier this year”",
-        "url": "https://www.facebook.com/deadline/videos/amber-glenn-and-pasha-pashkov-tease-whats-in-store-for-their-dance-next-week-on-/1868541451004968/",
-        "source": "Facebook"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "sparks vs aces",
+    "title": "austin abrams",
     "traffic": 2000,
-    "pubDate": "Tue, 22 Sep 2026 18:10:00 -0700",
+    "pubDate": "Tue, 22 Sep 2026 21:50:00 -0700",
     "news": [
       {
-        "title": "Sparks vs Aces Game Overview, Stats, Injuries, Records - WNBA Game on September 22, 2026",
-        "url": "https://www.covers.com/sport/basketball/wnba/matchup/374165",
-        "source": "Covers.com"
+        "title": "‘Resident Evil’ Is an Ode to De-Elevated Horror",
+        "url": "https://www.theringer.com/2026/09/22/movies/resident-evil-review-zach-cregger-austin-abrams-video-game-adaptation",
+        "source": "The Ringer"
       },
       {
-        "title": "How to watch Las Vegas Aces-Los Angeles Sparks WNBA game for free tonight",
-        "url": "https://www.al.com/tv/2026/09/how-to-watch-las-vegas-aces-los-angeles-sparks-wnba-game-for-free-tonight.html",
-        "source": "AL.com"
+        "title": "Review: Resident Evil might just be the best gaming adaptation yet",
+        "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+        "source": "Ars Technica"
       },
       {
-        "title": "How to watch Sparks vs. Aces: TV channel and streaming options for September 22",
-        "url": "https://www.nytimes.com/athletic/7621001/2026/09/22/sparks-vs-aces-stream-how-to-watch-sept-22/",
-        "source": "The New York Times"
+        "title": "Box Office Global: 'Resident Evil' $108M WW Franchise, Zach Cregger Record; 'Coyote vs. Acme' Approaches $100M",
+        "url": "https://deadline.com/2026/09/box-office-global-resident-evil-1237108765/",
+        "source": "Deadline"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "blair underwood",
-    "traffic": 1000,
-    "pubDate": "Tue, 22 Sep 2026 18:30:00 -0700",
+    "title": "jon hamm",
+    "traffic": 500,
+    "pubDate": "Tue, 22 Sep 2026 22:10:00 -0700",
     "news": [
       {
-        "title": "Blair Underwood on ‘Doc’ Season 3 & Hot Doctor Days on ‘Sex and the City’ (Exclusive)",
-        "url": "https://extratv.com/2026/09/22/blair-underwood-on-doc-season-3-and-hot-doctor-days-on-sex-and-the-city-exclusive/",
-        "source": "Extra"
+        "title": "‘American Hostage’ Review: Jon Hamm Plays Radio Host to a Kidnapping",
+        "url": "https://www.wsj.com/arts-culture/television/american-hostage-review-jon-hamm-plays-radio-host-to-a-kidnapping-193c91e1",
+        "source": "WSJ"
       },
       {
-        "title": "Video Blair Underwood talks role in 'Doc'",
-        "url": "https://abcnews.com/video/136622100/",
-        "source": "ABC News - Breaking News, Latest News and Videos"
+        "title": "'American Hostage' recreates a thrilling 70s crime that pulled attention from the Oscars",
+        "url": "https://thenationaldesk.com/news/entertainment/american-hostage-recreates-a-thrilling-70s-crime-that-pulled-attention-from-the-oscars",
+        "source": "National News Desk"
       },
       {
-        "title": "Blair Underwood Addresses His ‘Doc’ Character’s Surprise Change in Season 3 Premiere",
-        "url": "https://www.usmagazine.com/entertainment/news/blair-underwood-addresses-doc-characters-season-3-change/",
-        "source": "Us Weekly"
+        "title": "Kiritsis hostage crisis series portrays role of legendary Indy newsman",
+        "url": "https://fox59.com/news/kiritsis-hostage-crisis-series-portrays-role-of-legendary-indy-newsman/",
+        "source": "Fox 59"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "will smith",
+    "traffic": 500,
+    "pubDate": "Tue, 22 Sep 2026 22:00:00 -0700",
+    "news": [
+      {
+        "title": "I Am Legend 2 writer shares update on highly anticipated sequel – and promises no dogs will be killed",
+        "url": "https://www.radiotimes.com/movies/scifi/i-am-legend-2-status-akiva-goldsman-exclusive-newsupdate/",
+        "source": "Radio Times"
+      },
+      {
+        "title": "Goldsman Still Keen On \"I Am Legend 2\"",
+        "url": "https://www.darkhorizons.com/goldsman-still-keen-on-i-am-legend-2/",
+        "source": "Dark Horizons"
+      },
+      {
+        "title": "I Am Legend 2 writer says he's doing everything he can to get it made, but they are facing \"a series of obstacles\"",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/am-legend-2-writer-says-152426352.html",
+        "source": "Yahoo"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "el niño weather induced mortality",
+    "traffic": 200,
+    "pubDate": "Wed, 23 Sep 2026 00:20:00 -0700",
+    "news": [
+      {
+        "title": "Newsom declares state of emergency for California ahead of super El Niño storm season",
+        "url": "https://www.cnn.com/2026/09/22/weather/el-nino-california-state-of-emergency",
+        "source": "CNN"
+      },
+      {
+        "title": "What is an El Niño and how could it cause the hottest year on record? – video",
+        "url": "https://www.theguardian.com/environment/video/2026/sep/23/what-is-an-el-nino-and-how-could-it-cause-the-hottest-year-on-record-video",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Long Beach declares local emergency as El Niño looms after Hurricane Marie damage",
+        "url": "https://abc7.com/post/long-beach-declares-local-emergency-el-nio-looms-hurricane-marie-damage/19859262/",
+        "source": "ABC7 Los Angeles"
       }
     ]
   }
