@@ -1,70 +1,42 @@
 [
   {
     "geo": "IN",
-    "title": "sa vs aus",
-    "traffic": 20000,
-    "pubDate": "Thu, 24 Sep 2026 00:00:00 -0700",
+    "title": "japan vs uruguay",
+    "traffic": 5000,
+    "pubDate": "Thu, 24 Sep 2026 05:00:00 -0700",
     "news": [
       {
-        "title": "SA vs AUS, 1st ODI LIVE streaming info: When, where to watch South Africa vs Australia match?",
-        "url": "https://sportstar.thehindu.com/cricket/sa-vs-aus-1st-odi-live-streaming-when-where-to-watch-south-africa-vs-australia-match/article71502824.ece",
-        "source": "Sportstar"
+        "title": "Japan vs Uruguay International Football Friendly Match Live Streaming: Date, Time, Venue, Best Ways to Watch Online Country-Wise | Here’s All You Need To Know",
+        "url": "https://sundayguardianlive.com/sports/japan-vs-uruguay-international-football-friendly-match-live-streaming-date-time-venue-best-ways-to-watch-online-country-wise-heres-all-you-need-to-know-291698/",
+        "source": "The Sunday Guardian"
       },
       {
-        "title": "All You Need to Know About Australia Tour of South Africa 2026",
-        "url": "https://www.indiafantasy.com/cricket/cricket-news/all-you-need-to-know-about-australia-tour-of-south-africa-2026/",
-        "source": "India Fantasy"
-      },
-      {
-        "title": "South Africa Vs Australia Live Score, 1st ODI: Follow Scorecard And Match Action From Durban",
-        "url": "https://www.news18.com/cricket/south-africa-vs-australia-live-cricket-score-1st-odi-sa-vs-aus-latest-scorecard-kingsmead-durban-match-updates-liveblog-ws-l-10350300.html",
-        "source": "News18"
+        "title": "Japan vs Uruguay Preview – prediction, team news, lineups | International Friendly 2026",
+        "url": "https://khelnow.com/football/japan-vs-uruguay-preview-international-friendly-202609",
+        "source": "Khel Now"
       }
     ]
   },
   {
-    "geo": "IN",
-    "title": "hong kong vs malaysia",
-    "traffic": 20000,
-    "pubDate": "Wed, 23 Sep 2026 21:40:00 -0700",
-    "news": [
-      {
-        "title": "HKC vs MAL Today’s Match Prediction & Cricket Betting Tips: Asian Games 2026, Match 2, September 24",
-        "url": "https://www.indiafantasy.com/cricket-betting/tips/hkc-vs-mal-september-24/",
-        "source": "India Fantasy"
-      },
-      {
-        "title": "Hong Kong vs Malaysia Live Streaming: When And Where To Watch HK vs MAS Asian Games 2026 Match",
-        "url": "https://www.ndtvprofit.com/sports/hong-kong-vs-malaysia-live-streaming-when-and-where-to-watch-hk-vs-mas-asian-games-2026-match-online-12086146",
-        "source": "NDTV Profit"
-      },
-      {
-        "title": "Hong Kong, China vs Malaysia Live Scorecard: Live Cricket Score HK vs MAS, Match 2, Asian Games Men’s T20I, 2026",
-        "url": "https://www.indiatoday.in/live-score/cricket/hong-kong-china-malaysia-live-cricket-scorecard-274297",
-        "source": "India Today"
-      }
-    ]
-  },
-  {
-    "geo": "IN",
-    "title": "neet pg result 2026",
+    "geo": "US",
+    "title": "john hamm",
     "traffic": 1000,
-    "pubDate": "Thu, 24 Sep 2026 00:20:00 -0700",
+    "pubDate": "Thu, 24 Sep 2026 06:20:00 -0700",
     "news": [
       {
-        "title": "NEET-PG 2026 examination results are likely to be declared soon by NBEMS: Sources",
-        "url": "https://www.aninews.in/news/national/general-news/neet-pg-2026-examination-results-are-likely-to-be-declared-soon-by-nbems-sources16020260924092253",
-        "source": "ANI News"
+        "title": "‘American Hostage’ Review: Jon Hamm Plays Radio Host to a Kidnapping",
+        "url": "https://www.wsj.com/arts-culture/television/american-hostage-review-jon-hamm-plays-radio-host-to-a-kidnapping-193c91e1",
+        "source": "WSJ"
       },
       {
-        "title": "NBEMS to announce NEET-PG 2026 results following re-exam in Jaipur",
-        "url": "https://thenewsmill.com/2026/09/nbems-to-announce-neet-pg-2026-results-following-re-exam-in-jaipur/",
-        "source": "The News Mill"
+        "title": "'American Hostage' cast previews Jon Hamm-led crime thriller based on 1977 infamous incident",
+        "url": "https://www.10tv.com/article/entertainment/in-the-spotlight/american-hostage-giovanni-ribisi-mireille-enos-kristoffer-polaha-interview-john-hamm-mgm-plus/507-26746f13-0a03-4e2a-9d5a-5f1898022710",
+        "source": "10TV"
       },
       {
-        "title": "NEET PG Result 2026 Live Updates: Release Date, Time, Direct Link at natboard.edu.in",
-        "url": "https://medicine.careers360.com/articles/neet-pg-2026-result-link-live-updates",
-        "source": "Careers360"
+        "title": "Kiritsis hostage crisis series portrays role of legendary Indy newsman",
+        "url": "https://fox59.com/news/kiritsis-hostage-crisis-series-portrays-role-of-legendary-indy-newsman/",
+        "source": "Fox 59"
       }
     ]
   }
