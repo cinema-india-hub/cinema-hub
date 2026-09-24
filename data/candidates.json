@@ -1,42 +1,93 @@
 [
   {
     "geo": "IN",
-    "title": "japan vs uruguay",
-    "traffic": 5000,
-    "pubDate": "Thu, 24 Sep 2026 05:00:00 -0700",
+    "title": "norway vs denmark",
+    "traffic": 10000,
+    "pubDate": "Thu, 24 Sep 2026 10:50:00 -0700",
     "news": [
       {
-        "title": "Japan vs Uruguay International Football Friendly Match Live Streaming: Date, Time, Venue, Best Ways to Watch Online Country-Wise | Here’s All You Need To Know",
-        "url": "https://sundayguardianlive.com/sports/japan-vs-uruguay-international-football-friendly-match-live-streaming-date-time-venue-best-ways-to-watch-online-country-wise-heres-all-you-need-to-know-291698/",
-        "source": "The Sunday Guardian"
+        "title": "Norway vs Denmark: UEFA Nations League stats & head-to-head",
+        "url": "https://www.bbc.com/sport/football/live/cm4g54yj48gwt",
+        "source": "BBC"
       },
       {
-        "title": "Japan vs Uruguay Preview – prediction, team news, lineups | International Friendly 2026",
-        "url": "https://khelnow.com/football/japan-vs-uruguay-preview-international-friendly-202609",
-        "source": "Khel Now"
+        "title": "Norway vs Denmark: Where to watch, live stream, TV channel and kick-off time",
+        "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-norway-v-denmark/blt0afe54977f8a12a2",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Norway vs Denmark Live Streaming: When and where to watch UEFA Nations League",
+        "url": "https://sportstar.thehindu.com/football/norway-vs-denmark-live-streaming-where-to-watch-uefa-nations-league/article71505606.ece",
+        "source": "Sportstar"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "john hamm",
-    "traffic": 1000,
-    "pubDate": "Thu, 24 Sep 2026 06:20:00 -0700",
+    "title": "países bajos - alemania",
+    "traffic": 5000,
+    "pubDate": "Thu, 24 Sep 2026 10:50:00 -0700",
     "news": [
       {
-        "title": "‘American Hostage’ Review: Jon Hamm Plays Radio Host to a Kidnapping",
-        "url": "https://www.wsj.com/arts-culture/television/american-hostage-review-jon-hamm-plays-radio-host-to-a-kidnapping-193c91e1",
-        "source": "WSJ"
+        "title": "Países Bajos - Alemania, en directo: UEFA Nations League, hoy en vivo",
+        "url": "https://as.com/futbol/internacional/paises-bajos-alemania-en-directo-uefa-nations-league-hoy-en-vivo-f202609-d/",
+        "source": "Diario AS"
       },
       {
-        "title": "'American Hostage' cast previews Jon Hamm-led crime thriller based on 1977 infamous incident",
-        "url": "https://www.10tv.com/article/entertainment/in-the-spotlight/american-hostage-giovanni-ribisi-mireille-enos-kristoffer-polaha-interview-john-hamm-mgm-plus/507-26746f13-0a03-4e2a-9d5a-5f1898022710",
-        "source": "10TV"
+        "title": "¿Cómo ver el partido Países Bajos vs Alemania en TV y streaming?",
+        "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-paises-bajos-vs-alemania-en-tv-y-streaming-24-9-2026",
+        "source": "Sports Illustrated"
       },
       {
-        "title": "Kiritsis hostage crisis series portrays role of legendary Indy newsman",
-        "url": "https://fox59.com/news/kiritsis-hostage-crisis-series-portrays-role-of-legendary-indy-newsman/",
-        "source": "Fox 59"
+        "title": "Cambios masivos: Klopp y Xavi anuncian el once inicial de Alemania y los Países Bajos",
+        "url": "https://es-us.noticias.yahoo.com/deportes/cambios-bloque-klopp-xavi-anuncian-155540446.html",
+        "source": "Yahoo"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "love hypothesis movie",
+    "traffic": 500,
+    "pubDate": "Thu, 24 Sep 2026 11:30:00 -0700",
+    "news": [
+      {
+        "title": "‘The Love Hypothesis’ Review: Steady Results From a Fake Relationship",
+        "url": "https://www.nytimes.com/2026/09/23/movies/the-love-hypothesis-review.html",
+        "source": "The New York Times"
+      },
+      {
+        "title": "‘The Love Hypothesis’ movie review: A charming rom-com that disappoints book-tok",
+        "url": "https://www.thehindu.com/entertainment/movies/the-love-hypothesis-movie-review-a-charming-rom-com-that-disappoints-book-tok/article71502997.ece",
+        "source": "The Hindu"
+      },
+      {
+        "title": "The Love Hypothesis review – hit BookTok romcom lacks spark on screen",
+        "url": "https://www.theguardian.com/film/2026/sep/23/the-love-hypothesis-review-booktok-romcom",
+        "source": "The Guardian"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "guy ritchie",
+    "traffic": 500,
+    "pubDate": "Thu, 24 Sep 2026 11:00:00 -0700",
+    "news": [
+      {
+        "title": "Guy Ritchie's The Gentlemen Season 2 Sets All-Time Career Rotten Tomatoes Record",
+        "url": "https://www.imdb.com/news/ni66029872/?ref_=ttnw_art_perm",
+        "source": "IMDb"
+      },
+      {
+        "title": "‘The Gentlemen’ Fans Are Begging Netflix Not to Cancel It, but Season 3 Was Already Ordered",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/gentlemen-fans-begging-netflix-not-211516025.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "10 Best TV Shows Like The Gentlemen",
+        "url": "https://www.tvline.com/2262941/best-tv-shows-like-the-gentlemen/",
+        "source": "TVLine"
       }
     ]
   }
