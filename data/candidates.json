@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "toxic ott",
+    "traffic": 2000,
+    "pubDate": "Fri, 25 Sep 2026 11:00:00 -0700",
+    "news": [
+      {
+        "title": "New OTT releases to watch this weekend: 10 new movies & shows on ZEE5, Netflix, JioHotstar & more",
+        "url": "https://www.gqindia.com/content/new-ott-releases-to-watch-this-weekend-10-new-movies-shows-zee5-netflix-jiohotstar",
+        "source": "GQ India"
+      },
+      {
+        "title": "Friday OTT releases (September 25, 2026): 'Don’t Be Shy', 'Hunkkaar: The Roar', 'Bakaiti' Season 2, 'Mang",
+        "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/friday-ott-releases-september-25-2026-dont-be-shy-hunkkaar-the-roar-bakaiti-season-2-mango-pachcha-unabomber-and-more-to-stream-this-week/articleshow/134458834.cms",
+        "source": "The Times of India"
+      },
+      {
+        "title": "What to watch on OTT this week: Aneet Padda-led Hunkkaar, Alia Bhatt-produced Don’t Be Shy",
+        "url": "https://indianexpress.com/article/entertainment/web-series/what-to-watch-on-ott-this-week-aneet-padda-led-hunkkaar-alia-bhatt-produced-dont-be-shy-10893354/",
+        "source": "The Indian Express"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "heart of the beast",
+    "traffic": 500,
+    "pubDate": "Fri, 25 Sep 2026 11:00:00 -0700",
+    "news": [
+      {
+        "title": "‘Heart of the Beast’ Review: Brad Pitt and a Loyal Pet",
+        "url": "https://www.wsj.com/arts-culture/film/heart-of-the-beast-review-brad-pitt-and-a-loyal-pet-070c10b7",
+        "source": "WSJ"
+      },
+      {
+        "title": "Brad Pitt feels Indie cinema is as strong as in ’90s",
+        "url": "https://www.ap7am.com/en/136351/brad-pitt-feels-indie-cinema-is-as-strong-as-in-90s",
+        "source": "AP7AM"
+      },
+      {
+        "title": "Heart Of The Beast Movie Show Time in KakiNada | Heart Of The Beast in KakiNada Theaters | eTimes",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-details/heart-of-the-beast/movie-showtimes/kakinada/236/131683903",
+        "source": "The Times of India"
+      }
+    ]
+  }
+]
