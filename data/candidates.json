@@ -1,47 +1,93 @@
 [
   {
-    "geo": "IN",
-    "title": "toxic ott",
+    "geo": "US",
+    "title": "rangers vs twins",
     "traffic": 2000,
-    "pubDate": "Fri, 25 Sep 2026 11:00:00 -0700",
+    "pubDate": "Fri, 25 Sep 2026 16:20:00 -0700",
     "news": [
       {
-        "title": "New OTT releases to watch this weekend: 10 new movies & shows on ZEE5, Netflix, JioHotstar & more",
-        "url": "https://www.gqindia.com/content/new-ott-releases-to-watch-this-weekend-10-new-movies-shows-zee5-netflix-jiohotstar",
-        "source": "GQ India"
+        "title": "Texas Rangers lineup for September 25, 2026",
+        "url": "https://www.lonestarball.com/rangers-game-day-lineups/93981/texas-rangers-lineup-for-september-25-2026",
+        "source": "Lone Star Ball"
       },
       {
-        "title": "Friday OTT releases (September 25, 2026): 'Don’t Be Shy', 'Hunkkaar: The Roar', 'Bakaiti' Season 2, 'Mang",
-        "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/friday-ott-releases-september-25-2026-dont-be-shy-hunkkaar-the-roar-bakaiti-season-2-mango-pachcha-unabomber-and-more-to-stream-this-week/articleshow/134458834.cms",
-        "source": "The Times of India"
+        "title": "Game 160: Rangers at Twins",
+        "url": "https://sports.yahoo.com/articles/game-160-rangers-twins-231000537.html",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "What to watch on OTT this week: Aneet Padda-led Hunkkaar, Alia Bhatt-produced Don’t Be Shy",
-        "url": "https://indianexpress.com/article/entertainment/web-series/what-to-watch-on-ott-this-week-aneet-padda-led-hunkkaar-alia-bhatt-produced-dont-be-shy-10893354/",
-        "source": "The Indian Express"
+        "title": "Live: Joe Ryan and Twins enter final weekend of the season hoping to play spoiler",
+        "url": "https://www.startribune.com/minnesota-twins-texas-rangers-score-today-how-to-watch-tv-joe-ryan-stats-walker-jenkins-jacob-degrom/601882953",
+        "source": "Star Tribune"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "prime time movie",
+    "traffic": 2000,
+    "pubDate": "Fri, 25 Sep 2026 16:00:00 -0700",
+    "news": [
+      {
+        "title": "New movies to watch this weekend: See 'Primetime' and 'Heart of the Beast' in theaters, rent or buy 'Super Troopers 3,' stream 'Tuner' on Paramount+",
+        "url": "https://www.yahoo.com/entertainment/movies/article/new-movies-to-watch-this-weekend-see-primetime-and-heart-of-the-beast-in-theaters-rent-or-buy-super-troopers-3-stream-tuner-on-paramount-125435067.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "12 New Movies Our Critics Are Talking About This Week",
+        "url": "https://www.nytimes.com/2026/09/25/movies/new-movies-this-week-critics.html",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Opening: New movie releases",
+        "url": "https://www.tampabaybeacons.com/2026/09/24/opening-new-movie-releases/",
+        "source": "www.tampabaybeacons.com"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "cardinals vs brewers",
+    "traffic": 2000,
+    "pubDate": "Fri, 25 Sep 2026 15:50:00 -0700",
+    "news": [
+      {
+        "title": "The Brewers are going to play to win this weekend – but carefully",
+        "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/09/25/the-brewers-are-going-to-play-to-win-this-weekend-but-carefully/91909445007/",
+        "source": "Milwaukee Journal Sentinel"
+      },
+      {
+        "title": "St. Louis Cardinals vs Milwaukee Brewers Game Discussion Friday Night",
+        "url": "https://sports.yahoo.com/articles/st-louis-cardinals-vs-milwaukee-232000293.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "How to watch Cardinals vs. Brewers: TV channel and streaming options for September 25 - The Athletic",
+        "url": "https://www.nytimes.com/athletic/7630173/2026/09/25/cardinals-vs-brewers-stream-how-to-watch-sept-25/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "geo": "IN",
-    "title": "heart of the beast",
-    "traffic": 500,
-    "pubDate": "Fri, 25 Sep 2026 11:00:00 -0700",
+    "title": "italy national football team vs belgium national football team standings",
+    "traffic": 1000,
+    "pubDate": "Fri, 25 Sep 2026 13:50:00 -0700",
     "news": [
       {
-        "title": "‘Heart of the Beast’ Review: Brad Pitt and a Loyal Pet",
-        "url": "https://www.wsj.com/arts-culture/film/heart-of-the-beast-review-brad-pitt-and-a-loyal-pet-070c10b7",
-        "source": "WSJ"
+        "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+        "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins",
+        "source": "Al Jazeera"
       },
       {
-        "title": "Brad Pitt feels Indie cinema is as strong as in ’90s",
-        "url": "https://www.ap7am.com/en/136351/brad-pitt-feels-indie-cinema-is-as-strong-as-in-90s",
-        "source": "AP7AM"
+        "title": "Images: Mika Godts brilliantly scores his first goal for Belgium and Van Bommel",
+        "url": "https://www.goal.com/en-in/news/images-mika-godts-brilliantly-scores-his-first-goal-for-belgium-and-van-bommel/bltbbc38bea3e4a4243",
+        "source": "Goal.com"
       },
       {
-        "title": "Heart Of The Beast Movie Show Time in KakiNada | Heart Of The Beast in KakiNada Theaters | eTimes",
-        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-details/heart-of-the-beast/movie-showtimes/kakinada/236/131683903",
-        "source": "The Times of India"
+        "title": "Italy vs Belgium, LIVE streaming info: When, where to watch UEFA Nations League match?",
+        "url": "https://sportstar.thehindu.com/football/italy-vs-belgium-live-streaming-info-when-where-to-watch-uefa-nations-league-match/article71507734.ece",
+        "source": "Sportstar"
       }
     ]
   }
