@@ -1,47 +1,93 @@
 [
   {
     "geo": "US",
-    "title": "fever vs lynx",
-    "traffic": 20000,
-    "pubDate": "Thu, 24 Sep 2026 16:10:00 -0700",
+    "title": "nick folk",
+    "traffic": 10000,
+    "pubDate": "Thu, 24 Sep 2026 18:10:00 -0700",
     "news": [
       {
-        "title": "Lynx clinch No. 1 seed despite 'embarrassing' loss to Fever, Olivia Miles dealing with calf injury",
-        "url": "https://sports.yahoo.com/wnba/article/lynx-clinch-no-1-seed-despite-embarrassing-loss-to-fever-olivia-miles-dealing-with-calf-injury-043654494.html",
+        "title": "Nick Folk Age: Long NFL Career Leads to Falcons’ Kicker Job",
+        "url": "https://heavy.com/sports/nfl/atlanta-falcons/nick-folk-age-nfl-career-falcons-kicker/",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Falcons Kicker Nick Folk Gets Vote of Confidence Amid Early Season Misses",
+        "url": "https://www.si.com/nfl/falcons/onsi/falcons-kicker-nick-folk-gets-vote-of-confidence-amid-early-season-misses",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Fromal’s Kicking Notebook: Assessing Nick Folk panic and NFL Week 1 standouts",
+        "url": "https://fansided.com/nfl/fromal-s-kicking-notebook-nick-folk-panic-and-nfl-week-1-standouts",
+        "source": "FanSided"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "cj henderson",
+    "traffic": 2000,
+    "pubDate": "Thu, 24 Sep 2026 18:20:00 -0700",
+    "news": [
+      {
+        "title": "Why CJ Henderson’s Helmet is Bigger Than Falcons Teammates",
+        "url": "https://heavy.com/sports/nfl/atlanta-falcons/why-cj-henderson-helmet-biggerq-falcons-teammates/",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Christian Watson scores his fourth TD of the season, giving Green Bay a 7-0 lead",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-watson-scores-his-fourth-td-of-the-season-giving-green-bay-a-7-0-lead",
+        "source": "NBC Sports"
+      },
+      {
+        "title": "Packers highlights vs Falcons on TNF in home opener at Lambeau Field",
+        "url": "https://sports.yahoo.com/articles/packers-highlights-vs-falcons-tnf-014105817.html",
         "source": "Yahoo Sports"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "special forces show",
+    "traffic": 2000,
+    "pubDate": "Thu, 24 Sep 2026 18:20:00 -0700",
+    "news": [
+      {
+        "title": "Mauricio Umansky feared daughter Alexia wasn't 'coming back’ during ‘Special Forces’ challenge",
+        "url": "https://www.foxnews.com/video/6405515870112",
+        "source": "Fox News"
       },
       {
-        "title": "How to watch Caitlin Clark in WNBA regular-season finale tonight",
-        "url": "https://www.hawkcentral.com/story/sports/college/iowa/basketball-women/2026/09/24/where-to-watch-caitlin-clark-indiana-fever-game-tonight-minnesota-lynx-wnba-games/91905167007/",
-        "source": "Hawk Central"
+        "title": "Meet the Cast of ‘Special Forces’ Season 5",
+        "url": "https://people.com/special-forces-season-5-cast-12132963",
+        "source": "People.com"
       },
       {
-        "title": "Lynx pull starters vs. Fever but clinch 1-seed with Valkyries' loss",
-        "url": "https://www.espn.com/wnba/story/_/id/50010938/stumbling-lynx-pull-starters-vs-fever-top-seed-line",
-        "source": "ESPN"
+        "title": "How to watch ‘Special Forces: World’s Toughest Test’ tonight for free, on demand",
+        "url": "https://www.oregonlive.com/tv/2026/09/how-to-watch-special-forces-worlds-toughest-test-tonight-for-free-on-demand.html",
+        "source": "OregonLive.com"
       }
     ]
   },
   {
     "geo": "IN",
-    "title": "portugal fc match",
-    "traffic": 200,
-    "pubDate": "Thu, 24 Sep 2026 13:10:00 -0700",
+    "title": "haiti vs trinidad and tobago",
+    "traffic": 500,
+    "pubDate": "Thu, 24 Sep 2026 17:30:00 -0700",
     "news": [
       {
-        "title": "Portugal vs Pays de Galles - Pronostic, diffusion TV, horaire et compositions 24-09-2026",
-        "url": "https://onefootball.com/fr/paris-sportif/pronostics/portugal-vs-pays-de-galles-24-09-2026",
-        "source": "OneFootball"
+        "title": "Haiti vs Trinidad and Tobago LIVE Streaming info — When, where to watch HAI v TRI in CONCACAF Nations League?",
+        "url": "https://sportstar.thehindu.com/football/haiti-vs-trinidad-tobago-live-streaming-info-when-where-to-watch-hai-v-tri-kick-off-time-venue/article71505981.ece",
+        "source": "Sportstar"
       },
       {
-        "title": "Joao Neves sur le banc et Cristiano Ronaldo bien titulaire pour la première de Jorge Jesus sur le banc du Portugal",
-        "url": "https://www.lequipe.fr/Football/Actualites/Joao-neves-sur-le-banc-et-cristiano-ronaldo-bien-titulaire-pour-la-premiere-de-jorge-jesus-sur-le-banc-du-portugal/1720984",
-        "source": "L'Équipe"
+        "title": "BACK TO FOOTBALL",
+        "url": "https://trinidadexpress.com/sports/local/back-to-football/article_3c82f3e5-9b65-44ed-bf57-ad0def11ca19.html",
+        "source": "Trinidad Express Newspapers"
       },
       {
-        "title": "$$~~[TV/Streaming] Pays de Galles - Portugal match en direct diffusion TV et streaming 24 Septembre 2026",
-        "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9iLnhtbCIvPjwva3JwYW5vPg==&id=video-portugal-galles-fr-18",
-        "source": "CzechInvest"
+        "title": "How to watch Haiti vs Trinidad and Tobago: Live stream CONCACAF Nations League, TV channel",
+        "url": "https://sports.yahoo.com/articles/watch-haiti-vs-trinidad-tobago-232000730.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
