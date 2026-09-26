@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "missouri vs ms state",
+    "traffic": 1000,
+    "pubDate": "Sat, 26 Sep 2026 15:50:00 -0700",
+    "news": [
+      {
+        "title": "How to watch Missouri football at Mississippi State. TV channel, kickoff, streaming",
+        "url": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2026/09/26/missouri-football-mississippi-state-tv-channel-kickoff-time-streaming/91832140007/",
+        "source": "Columbia Daily Tribune"
+      },
+      {
+        "title": "Live Game Thread: Mizzou Opens SEC Slate in Starkville",
+        "url": "https://www.rockmnation.com/missouri-tigers-football/157206/live-game-thread-mizzou-opens-sec-slate-in-starkville",
+        "source": "Rock M Nation"
+      },
+      {
+        "title": "No. 19 Tigers Prepped for SEC Opener at No. 24 Mississippi State",
+        "url": "https://mutigers.com/news/2026/09/24/tigers-prepped-for-sec-opener-at-no-24-mississippi-state",
+        "source": "Mizzou Athletics"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "arizona vs washington st",
+    "traffic": 1000,
+    "pubDate": "Sat, 26 Sep 2026 15:40:00 -0700",
+    "news": [
+      {
+        "title": "How WSU can pull an upset on visiting Arizona in a primetime matchup",
+        "url": "https://www.spokesman.com/stories/2026/sep/25/how-wsu-can-pull-an-upset-on-visiting-arizona-in-a/",
+        "source": "The Spokesman-Review"
+      },
+      {
+        "title": "Arizona vs. Washington State live updates: Wildcats go on the road for tough test against Cougars",
+        "url": "https://www.cbssports.com/college-football/news/arizona-washington-state-live-updates-scores-college-football-week-4live/live/",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "Arizona football at Washington State: Game time, TV schedule, odds, streaming and more",
+        "url": "https://www.azdesertswarm.com/football/83599/arizona-wildcats-football-washington-state-wsu-cougars-tv-info-kickoff-odds-stream-radio-big12-pac12-2026",
+        "source": "Arizona Desert Swarm"
+      }
+    ]
+  }
+]
