@@ -1,47 +1,70 @@
 [
   {
-    "geo": "US",
-    "title": "taylor sheridan",
-    "traffic": 2000,
-    "pubDate": "Sun, 27 Sep 2026 06:30:00 -0700",
+    "geo": "IN",
+    "title": "drishyam 3",
+    "traffic": 1000,
+    "pubDate": "Sun, 27 Sep 2026 09:20:00 -0700",
     "news": [
       {
-        "title": "Zoe Saldaña Says She’s Not Ready to Join Another Taylor Sheridan Show for This Reason (Exclusive)",
-        "url": "https://people.com/zoe-saldana-isnt-ready-star-another-taylor-sheridan-show-exclusive-12139400",
-        "source": "People.com"
+        "title": "Decoding how Drishyam became part of desi pop culture and Vijay Salgaonkar an unlikely underdog icon | Bollywood",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/decoding-how-drishyam-became-part-of-desi-pop-culture-vijay-salgaonkar-an-unlikely-underdog-icon-ajay-devgn-drishyam-3-101790518569960.html",
+        "source": "Hindustan Times"
       },
       {
-        "title": "A Guide To All Taylor Sheridan Shows From ‘Landman’ To ‘Lioness’",
-        "url": "https://www.forbes.com/sites/paultassi/2026/09/26/a-guide-to-all-taylor-sheridan-shows-from-landman-to-lioness/",
-        "source": "Forbes"
+        "title": "Drishyam 3 Advance Booking Update: Ajay Devgn starrer off to fantastic start, Sells 35,000 tickets at national chains",
+        "url": "https://www.pinkvilla.com/entertainment/box-office/drishyam-3-advance-booking-update-ajay-devgn-starrer-off-to-fantastic-start-sells-30000-tickets-at-national-chains-1405635",
+        "source": "Pinkvilla"
       },
       {
-        "title": "Zoe Saldaña Says Even Taylor Sheridan Didn’t Know That “Lioness” Season 1 Character Would Eventually Return (Exclusive)",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/zoe-salda-says-even-taylor-184408712.html",
-        "source": "Yahoo"
+        "title": "Ajay Devgn’s Drishyam 3 end of Hindi franchise, says director: ‘Not like Mohanlal-starrer’",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/ajay-devgns-drishyam-3-end-of-hindi-franchise-says-director-malayalam-film-different-story-10890287/",
+        "source": "The Indian Express"
       }
     ]
   },
   {
-    "geo": "IN",
-    "title": "नेटफ्लिक्स",
-    "traffic": 200,
-    "pubDate": "Sun, 27 Sep 2026 05:00:00 -0700",
+    "geo": "US",
+    "title": "harlan coben",
+    "traffic": 1000,
+    "pubDate": "Sun, 27 Sep 2026 11:20:00 -0700",
     "news": [
       {
-        "title": "Netflix पर आते ही चमकी 3 महीने पुरानी फिल्म की किस्मत,Top Trending में बनी हुई है 'डिजास्टर' मूवी",
-        "url": "https://www.jagran.com/entertainment/web-series-review-baby-do-die-do-ott-release-huma-qureshi-dark-comedy-thriller-movie-in-top-trending-on-netflix-40386791.html",
-        "source": "Jagran"
+        "title": "Forget Harlan Coben, Netflix's New 7-Part Mystery Thriller Is One of the Biggest Shows on Streaming",
+        "url": "https://www.imdb.com/news/ni66031473/?ref_=nmnw_art_perm",
+        "source": "IMDb"
       },
       {
-        "title": "बेबी डू डाई डू आई पसंद? नेटफ्लिक्स की ये 4 सस्पेंस थ्रिलर फिल्में उड़ा देंगी होश",
-        "url": "https://www.livehindustan.com/entertainment/web-series/ott-baby-do-die-do-like-suspense-thriller-movies-on-netflix-201790351983997.html",
-        "source": "Hindustan"
+        "title": "Netflix Scores the Perfect Harlan Coben Replacement Thriller – And It Hits Streaming Next Month",
+        "url": "https://movieweb.com/the-trap-netflix-thriller-streaming-october-2026/",
+        "source": "MovieWeb"
       },
       {
-        "title": "OTT पर आते ही 4 दिन टॉप ट्रेंड में छाई ये फ्लॉप फिल्म, तीन महीने पहले थियेटर में हुआ था बुरा हाल",
-        "url": "https://ndtv.in/bollywood/three-month-old-flop-film-trending-in-top-10-on-netflix-huma-qureshi-baby-do-die-do-was-a-box-office-disaster-12104801",
-        "source": "NDTV India"
+        "title": "13 shows in 8 years: how Harlan Coben became Netflix’s most bankable name",
+        "url": "https://3dvf.com/en/13-shows-in-8-years-how-harlan-coben-became-netflix-s-most-bankable-name/",
+        "source": "3DVF"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "hurricane central",
+    "traffic": 1000,
+    "pubDate": "Sun, 27 Sep 2026 11:10:00 -0700",
+    "news": [
+      {
+        "title": "2 tropical storms in the Atlantic after a slow start to the 2026 season",
+        "url": "https://wpde.com/weather/abc-15-weather-authority-blog/two-tropical-storms-in-the-atlantic-ocean-2026-hurricane-season-records-september-fay-gonzalo-dissipate-storms-season-record-09252026",
+        "source": "WPDE"
+      },
+      {
+        "title": "Tracking 2 tropical storms in the Atlantic Basin",
+        "url": "https://cbs12.com/news/local/tracking-2-tropical-storms-in-the-atlantic-basin",
+        "source": "WPEC"
+      },
+      {
+        "title": "Today's tropical weather forecast",
+        "url": "https://www.yahoo.com/news/videos/todays-tropical-weather-forecast-154825464.html",
+        "source": "Yahoo"
       }
     ]
   }
