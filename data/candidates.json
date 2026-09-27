@@ -1,47 +1,70 @@
 [
   {
-    "geo": "US",
-    "title": "malachi toney",
-    "traffic": 500,
-    "pubDate": "Sat, 26 Sep 2026 18:30:00 -0700",
+    "geo": "IN",
+    "title": "jiohotstar",
+    "traffic": 5000,
+    "pubDate": "Sun, 27 Sep 2026 01:20:00 -0700",
     "news": [
       {
-        "title": "No. 6 Miami loses RB Marty Brown, WR Joshua Moore for season",
-        "url": "https://www.espn.com/college-football/story/_/id/49998297/no-6-miami-loses-rb-marty-brown-wr-joshua-moore-season",
-        "source": "ESPN"
+        "title": "New OTT releases (September 21-September 27): 12 new movies & shows arriving on Netflix, JioHotstar, ZEE5 & more",
+        "url": "https://www.gqindia.com/content/new-ott-releases-september-21-september-27-12-new-movies-and-shows-arriving-on-netflix-jiohotstar-zee5-and-more",
+        "source": "GQ India"
       },
       {
-        "title": "Could the Hurricanes be without more key players against Central Michigan?",
-        "url": "https://www.miamiherald.com/sports/college/acc/university-of-miami/article317366992.html",
-        "source": "Miami Herald"
+        "title": "Six OTT releases bring crime, comedy and mystery to screens this week",
+        "url": "https://indiantelevision.com/iworld/six-ott-releases-bring-crime-comedy-and-mystery-to-screens-this-week/",
+        "source": "Indian Television Dot Com"
       },
       {
-        "title": "Two key Hurricanes likely out for Miami’s game vs. Central Michigan",
-        "url": "https://www.sun-sentinel.com/2026/09/26/um-fletcher-moten-injury/",
-        "source": "Sun Sentinel"
+        "title": "What to watch on OTT this week: Aneet Padda-led Hunkkaar, Alia Bhatt-produced Don’t Be Shy",
+        "url": "https://indianexpress.com/article/entertainment/web-series/what-to-watch-on-ott-this-week-aneet-padda-led-hunkkaar-alia-bhatt-produced-dont-be-shy-10893354/",
+        "source": "The Indian Express"
       }
     ]
   },
   {
     "geo": "IN",
-    "title": "train",
-    "traffic": 200,
-    "pubDate": "Sat, 26 Sep 2026 18:00:00 -0700",
+    "title": "hotstar",
+    "traffic": 5000,
+    "pubDate": "Sun, 27 Sep 2026 01:10:00 -0700",
     "news": [
       {
-        "title": "Roads reopened after being closed due to train and tractor-trailer crash",
-        "url": "https://www.wdbj7.com/2026/09/26/crash-involving-train-tractor-trailer-forces-roanoke-county-road-closures/",
-        "source": "WDBJ7"
+        "title": "Hunkkaar: The Roar Flirts With Competence and Few Novel Swings",
+        "url": "https://thewire.in/film/hunkkaar-the-roar-flirts-with-competence-and-few-novel-swings",
+        "source": "TheWire.in"
       },
       {
-        "title": "Roanoke roads blocked after train versus tractor-trailer crash",
-        "url": "https://wset.com/news/local/roanoke-roads-blocked-after-train-versus-tractor-trailer-crash-september-2026",
-        "source": "WSET"
+        "title": "Aneet Padda’s eyes to Raghubir Yadav’s menacing godman—what’s drawing viewers to Hunkkaar",
+        "url": "https://theprint.in/entertainment/aneet-paddas-raghubir-yadavs-godman-hunkkaar-jiohotstar/3054286/",
+        "source": "ThePrint"
       },
       {
-        "title": "Roads blocked in Roanoke County after vehicle, train collision",
-        "url": "https://www.wsls.com/news/local/2026/09/26/roads-blocked-in-roanoke-county-after-vehicle-and-train-collide/",
-        "source": "WSLS"
+        "title": "Fatima Sana Shaikh interview | Raghubir Yadav | Hunkkaar",
+        "url": "https://www.thehindu.com/videos/watch-fatima-sana-shaikh-interview-raghubir-yadav-hunkkaar/article71507828.ece",
+        "source": "The Hindu"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "marshals season 2",
+    "traffic": 200,
+    "pubDate": "Sun, 27 Sep 2026 00:40:00 -0700",
+    "news": [
+      {
+        "title": "Another ‘Yellowstone’ Actor Will Join ‘Marshals’ Season 2",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/another-yellowstone-actor-join-marshals-171214711.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "The last Dutton standing returns October 4, and he’s bringing Jimmy with him",
+        "url": "https://3dvf.com/en/the-last-dutton-standing-returns-october-4-and-he-s-bringing-jimmy-with-him/",
+        "source": "3DVF"
+      },
+      {
+        "title": "CBS Cancels Every Marshals Story Set Up For Season 2",
+        "url": "https://screenrant.com/marshals-season-2-set-up-story-cancel/",
+        "source": "ScreenRant"
       }
     ]
   }
