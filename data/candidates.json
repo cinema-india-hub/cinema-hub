@@ -1,70 +1,93 @@
 [
   {
-    "geo": "IN",
-    "title": "drishyam 3",
-    "traffic": 1000,
-    "pubDate": "Sun, 27 Sep 2026 09:20:00 -0700",
+    "geo": "US",
+    "title": "pak vs hk",
+    "traffic": 2000,
+    "pubDate": "Sun, 27 Sep 2026 16:10:00 -0700",
     "news": [
       {
-        "title": "Decoding how Drishyam became part of desi pop culture and Vijay Salgaonkar an unlikely underdog icon | Bollywood",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/decoding-how-drishyam-became-part-of-desi-pop-culture-vijay-salgaonkar-an-unlikely-underdog-icon-ajay-devgn-drishyam-3-101790518569960.html",
-        "source": "Hindustan Times"
+        "title": "New-look Pakistan take on inconsistent Hong Kong for semi-final spot",
+        "url": "https://www.cricinfo.com/series/asian-games-men-s-cricket-competition-2026-1552449/hong-kong-vs-pakistan-1st-quarter-final-1552772/match-preview",
+        "source": "Cricinfo"
       },
       {
-        "title": "Drishyam 3 Advance Booking Update: Ajay Devgn starrer off to fantastic start, Sells 35,000 tickets at national chains",
-        "url": "https://www.pinkvilla.com/entertainment/box-office/drishyam-3-advance-booking-update-ajay-devgn-starrer-off-to-fantastic-start-sells-30000-tickets-at-national-chains-1405635",
-        "source": "Pinkvilla"
+        "title": "Pakistan vs Hong Kong live streaming Asian Games 2026 men's cricket quarter-final live telecast: When and where to watch",
+        "url": "https://www.msn.com/en-in/sports/cricket/pakistan-vs-hong-kong-live-streaming-asian-games-2026-men-s-cricket-quarter-final-live-telecast-when-and-where-to-watch/ar-AA2d4buX",
+        "source": "MSN"
       },
       {
-        "title": "Ajay Devgn’s Drishyam 3 end of Hindi franchise, says director: ‘Not like Mohanlal-starrer’",
-        "url": "https://indianexpress.com/article/entertainment/bollywood/ajay-devgns-drishyam-3-end-of-hindi-franchise-says-director-malayalam-film-different-story-10890287/",
-        "source": "The Indian Express"
+        "title": "Asian Games in Japan Mens 2026: Pakistan vs Hong Kong and India vs Afghanistan quarter-final predictions",
+        "url": "https://www.cricketworld.com/asian-games-in-japan-mens-2026-pakistan-vs-hong-kong-and-india-vs-afghanistan-quarter-final-predictions/113525.htm",
+        "source": "Cricket World"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "harlan coben",
-    "traffic": 1000,
-    "pubDate": "Sun, 27 Sep 2026 11:20:00 -0700",
+    "title": "street fighter movie",
+    "traffic": 2000,
+    "pubDate": "Sun, 27 Sep 2026 15:50:00 -0700",
     "news": [
       {
-        "title": "Forget Harlan Coben, Netflix's New 7-Part Mystery Thriller Is One of the Biggest Shows on Streaming",
-        "url": "https://www.imdb.com/news/ni66031473/?ref_=nmnw_art_perm",
-        "source": "IMDb"
-      },
-      {
-        "title": "Netflix Scores the Perfect Harlan Coben Replacement Thriller – And It Hits Streaming Next Month",
-        "url": "https://movieweb.com/the-trap-netflix-thriller-streaming-october-2026/",
-        "source": "MovieWeb"
-      },
-      {
-        "title": "13 shows in 8 years: how Harlan Coben became Netflix’s most bankable name",
-        "url": "https://3dvf.com/en/13-shows-in-8-years-how-harlan-coben-became-netflix-s-most-bankable-name/",
-        "source": "3DVF"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "hurricane central",
-    "traffic": 1000,
-    "pubDate": "Sun, 27 Sep 2026 11:10:00 -0700",
-    "news": [
-      {
-        "title": "2 tropical storms in the Atlantic after a slow start to the 2026 season",
-        "url": "https://wpde.com/weather/abc-15-weather-authority-blog/two-tropical-storms-in-the-atlantic-ocean-2026-hurricane-season-records-september-fay-gonzalo-dissipate-storms-season-record-09252026",
-        "source": "WPDE"
-      },
-      {
-        "title": "Tracking 2 tropical storms in the Atlantic Basin",
-        "url": "https://cbs12.com/news/local/tracking-2-tropical-storms-in-the-atlantic-basin",
-        "source": "WPEC"
-      },
-      {
-        "title": "Today's tropical weather forecast",
-        "url": "https://www.yahoo.com/news/videos/todays-tropical-weather-forecast-154825464.html",
+        "title": "'Street Fighter' Popcorn Bucket Flips Guile's Hair Into Wearable Merch",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/street-fighter-popcorn-bucket-flips-170124832.html",
         "source": "Yahoo"
+      },
+      {
+        "title": "10 Movies To Watch If You Can't Wait For Street Fighter",
+        "url": "https://screenrant.com/street-fighter-movies-similar-watch/",
+        "source": "ScreenRant"
+      },
+      {
+        "title": "WWE's Roman Reigns, Cody Rhodes Star in New Gameplay-Movie Comparison Trailer Ahead of Release Date",
+        "url": "https://bleacherreport.com/articles/25501613-wwes-roman-reigns-cody-rhodes-star-new-gameplay-movie-comparison-trailer-ahead-release-date",
+        "source": "Bleacher Report"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "visionquest",
+    "traffic": 1000,
+    "pubDate": "Sun, 27 Sep 2026 16:00:00 -0700",
+    "news": [
+      {
+        "title": "The First ‘VisionQuest’ Promo Introduces a New Family Member",
+        "url": "https://gizmodo.com/the-first-visionquest-promo-introduces-a-new-family-member-2000817827",
+        "source": "Gizmodo"
+      },
+      {
+        "title": "\"VisionQuest\" TV Spot Reveals Villain Jocasta",
+        "url": "https://www.darkhorizons.com/visionquest-tv-spot-reveals-villain-jocasta/",
+        "source": "Dark Horizons"
+      },
+      {
+        "title": "VisionQuest’s New Trailer Offers First Look at T’Nia Miller’s Jocasta MCU Villain",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/visionquest-trailer-offers-first-look-205909432.html",
+        "source": "Yahoo"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "haití - costa rica",
+    "traffic": 1000,
+    "pubDate": "Sun, 27 Sep 2026 15:50:00 -0700",
+    "news": [
+      {
+        "title": "How to watch Haiti vs Costa Rica: Live stream Nations League, TV channel",
+        "url": "https://www.thebiglead.com/how-to-watch-haiti-vs-costa-rica-live-stream-nations-league-tv-channel/",
+        "source": "The Big Lead"
+      },
+      {
+        "title": "Haiti vs Costa Rica: How to watch, Live Stream, TV Channel and Time for Concacaf Nations League game on Sep...",
+        "url": "https://bolavip.com/en/soccer/haiti-vs-costa-rica-how-to-watch-live-stream-tv-channel-and-time-for-concacaf-nations-league-game-on-september-27-2026",
+        "source": "Bolavip US"
+      },
+      {
+        "title": "Haiti vs. Costa Rica Lineups, Live Streaming, How & Where to Watch on TV",
+        "url": "https://athlonsports.com/soccer/haiti-vs-costa-rica-lineups-live-streaming-how-where-watch-tv",
+        "source": "Athlon Sports"
       }
     ]
   }
