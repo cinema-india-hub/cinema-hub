@@ -1,47 +1,47 @@
 [
   {
     "geo": "US",
-    "title": "netflix movies",
-    "traffic": 1000,
-    "pubDate": "Sun, 27 Sep 2026 18:30:00 -0700",
+    "title": "hurricanes weather",
+    "traffic": 2000,
+    "pubDate": "Mon, 28 Sep 2026 00:10:00 -0700",
     "news": [
       {
-        "title": "R-Rated Alan Ritchson Action Hit Among the Most Popular Movies on Netflix Right Now",
-        "url": "https://www.mensjournal.com/entertainment/r-rated-alan-ritchson-action-hit-among-the-most-popular-movies-on-netflix-right-now",
-        "source": "Men's Journal"
+        "title": "Hurricane season is broken. Two oceans are historically out of whack",
+        "url": "https://www.usatoday.com/story/news/weather/2026/09/27/hurricane-season-is-broken/91919723007/",
+        "source": "USA Today"
       },
       {
-        "title": "Henry Cavill's 98-Minute Action Thriller Flop Is Finding Redemption on Streaming",
-        "url": "https://movieweb.com/henry-cavill-night-hunter-stream-september-2026/",
-        "source": "MovieWeb"
+        "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
+        "url": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
+        "source": "NPR"
       },
       {
-        "title": "Alan Ritchson’s Hawkeye-Style Movie Is Netflix’s No. 1 on Streaming Now",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/alan-ritchson-hawkeye-style-movie-053315283.html",
-        "source": "Yahoo"
+        "title": "Hurricane season maps tracker: latest forecasts and more",
+        "url": "https://weather.com/2026/09/28/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo",
+        "source": "The Weather Channel"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "ella bright",
-    "traffic": 1000,
-    "pubDate": "Sun, 27 Sep 2026 18:20:00 -0700",
+    "title": "raye and michael b jordan",
+    "traffic": 500,
+    "pubDate": "Sun, 27 Sep 2026 23:50:00 -0700",
     "news": [
       {
-        "title": "Belmont Cameli and Ella Bright Walked the MTV VMAs 2026 Red Carpet Together With Totally Different Vibes",
-        "url": "https://www.yahoo.com/entertainment/music/articles/belmont-cameli-ella-bright-walked-233202443.html",
-        "source": "Yahoo"
+        "title": "Raye Spills on Michael B. Jordan Dating Rumors at 2026 MTV VMAs! (Exclusive)",
+        "url": "https://extratv.com/2026/09/27/raye-spills-on-michael-b-jordan-dating-rumors-at-2026-mtv-vmas/",
+        "source": "Extra"
       },
       {
-        "title": "Ella Bright Ditches Her Signature Hair Color for Something Witchy at the 2026 VMAs",
-        "url": "https://www.vogue.com/article/ella-bright-dark-hair-vmas-2026-09-27-2026",
-        "source": "Vogue"
+        "title": "Raye breaks silence over Michael B Jordan romance rumors",
+        "url": "https://www.thenews.com.pk/amp/1417921-raye-breaks-silence-over-michael-b-jordan-romance-rumors",
+        "source": "The News International"
       },
       {
-        "title": "‘Off Campus’ season 2: Ella Bright on romance, fans at VMAs red carpet",
-        "url": "https://www.usatoday.com/videos/entertainment/music/awards/2026/09/27/off-campus-season-2-ella-bright-talks-romance-at-vmasoff-campus-season-2-is-bringing-the-romance-ell/91979365007/",
-        "source": "USA Today"
+        "title": "‘Jack & Christine’ Trailer: John Hawkes Turns A Dinner Party Into A Night of Chaos – Film News in Brief",
+        "url": "https://variety.com/2026/film/news/film-news-in-brief-sept-21-2026-1236867385/",
+        "source": "Variety"
       }
     ]
   }
