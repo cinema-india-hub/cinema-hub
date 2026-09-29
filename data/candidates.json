@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "ఓటీటీ",
+    "traffic": 1000,
+    "pubDate": "Tue, 29 Sep 2026 01:10:00 -0700",
+    "news": [
+      {
+        "title": "Netflix: ఓటీటీలో చిరంజీవి సంచలన పాడ్ కాస్ట్, ఇది కూతురి ప్లాన్.. సినిమాలు, రాజకీయాల్లో తెరవెనుక ఏం జరిగింది",
+        "url": "https://telugu.asianetnews.com/gallery/entertainment/chiranjeevi-netflix-debut-with-a-special-podcast-show-c0gxgur",
+        "source": "Asianet News Telugu"
+      },
+      {
+        "title": "ఓటీటీలోకి మెగాస్టార్ ఎంట్రీ.. బాలయ్యలానే టాక్ షోతో దుమ్ములేపనున్న చిరంజీవి.?",
+        "url": "https://tv9telugu.com/entertainment/tollywood/megastar-chiranjeevi-may-give-entry-on-ott-talk-show-1922204.html",
+        "source": "TV9 Telugu"
+      },
+      {
+        "title": "అభిమానులకు మరో అదిరిపోయే అప్డేట్.. డిజిటల్ మీడియాలోకి ఎంట్రీ ఇవ్వబోతున్న మెగాస్టార్!",
+        "url": "https://www.dishadaily.com/cinema/megastar-chiranjeevi-set-to-enter-the-digital-media-space-589042",
+        "source": "Disha daily"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "josh hartnett",
+    "traffic": 500,
+    "pubDate": "Mon, 28 Sep 2026 21:20:00 -0700",
+    "news": [
+      {
+        "title": "“Who Am I Rooting For?” – Anne Hathaway, Dakota Johnson and Josh Hartnett on Verity",
+        "url": "https://editorial.rottentomatoes.com/article/verity-interview-anne-hathaway-dakota-johnson-josh-hartnett/",
+        "source": "Rotten Tomatoes"
+      },
+      {
+        "title": "Best-Selling Author’s 2018 Novel, With Star-Studded Movie, Is the Top Thriller on Amazon Right Now",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/best-selling-author-2018-novel-010200970.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Colleen Hoover and Michael Showalter on How Anne Hathaway and Dakota Johnson Made ‘Verity’ More Erotic, ‘It Ends With Us’ Drama and Sex in Movies",
+        "url": "https://variety.com/2026/film/features/verity-colleen-hoover-anne-hathaway-dakota-johnson-erotic-1236872986/",
+        "source": "Variety"
+      }
+    ]
+  }
+]
