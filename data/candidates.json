@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "blackhawks vs golden knights",
+    "traffic": 5000,
+    "pubDate": "Tue, 29 Sep 2026 18:40:00 -0700",
+    "news": [
+      {
+        "title": "NHL On Tap: Kane to play first game with Blackhawks since 2023",
+        "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-september-29-2026",
+        "source": "NHL.com"
+      },
+      {
+        "title": "How to watch Blackhawks vs Golden Knights: Live Stream NHL, TV channel",
+        "url": "https://sports.yahoo.com/articles/watch-blackhawks-vs-golden-knights-013000744.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "‘I think we’re ready’: Golden Knights 10th season starts against Chicago",
+        "url": "https://www.reviewjournal.com/sports/goldenknights/it-starts-tomorrow-golden-knights-10th-season-starts-against-chicago-3892505/",
+        "source": "Las Vegas Review-Journal"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "bill murray",
+    "traffic": 1000,
+    "pubDate": "Tue, 29 Sep 2026 19:00:00 -0700",
+    "news": [
+      {
+        "title": "‘Meatballs’ star says no one knew if Bill Murray would even show up to shoot his film debut",
+        "url": "https://ew.com/meatballs-star-says-crew-scared-bill-murray-wouldnt-show-up-12147878",
+        "source": "Entertainment Weekly"
+      },
+      {
+        "title": "Dan Aykroyd celebrates Bill Murray’s birthday recounting wild ride in Central Park",
+        "url": "https://www.detroitnews.com/story/entertainment/people/2026/09/25/dan-aykroyd-celebrates-bill-murrays-birthday-recounting-wild-ride-central-park/91934088007/",
+        "source": "The Detroit News"
+      },
+      {
+        "title": "Dan Aykroyd Says He and Bill Murray Took Police Motorcycles on an Hour-Long ‘Ghostbusters II’ Joyride",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/dan-aykroyd-says-bill-murray-215017939.html",
+        "source": "Yahoo"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "ezra frech dwts",
+    "traffic": 1000,
+    "pubDate": "Tue, 29 Sep 2026 18:50:00 -0700",
+    "news": [
+      {
+        "title": "Why Ezra Frech’s week 3 ‘DWTS’ routine is his most difficult one yet",
+        "url": "https://ew.com/ezra-frech-week-3-dwts-routine-is-his-most-difficult-12145599",
+        "source": "Entertainment Weekly"
+      },
+      {
+        "title": "How these Olympic and Paralympic gold medalists are shaking up 'Dancing with the Stars'",
+        "url": "https://abcnews.com/GMA/Culture/how-gold-medalists-dancing-way-to-top-dwts/story?id=136697692",
+        "source": "ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "title": "Ezra Frech Becomes Frontrunner for 'DWTS' Season 35 After Incredible Dance in Week 2 - Watch Now!",
+        "url": "https://www.justjared.com/2026/09/23/ezra-frech-becomes-frontrunner-for-dwts-season-35-after-incredible-dance-in-week-2-watch-now/",
+        "source": "Just Jared"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "napheesa collier",
+    "traffic": 1000,
+    "pubDate": "Tue, 29 Sep 2026 18:50:00 -0700",
+    "news": [
+      {
+        "title": "WNBA playoffs: Why Caitlin Clark and Napheesa Collier need to step up to save their seasons",
+        "url": "https://www.cbssports.com/wnba/news/wnba-playoffs-caitlin-clark-napheesa-collier-step-up-save-seasons/",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "Valkyries Could Be Surprise Winners of a Lynx Upset in the First Round",
+        "url": "https://sports.yahoo.com/articles/valkyries-could-surprise-winners-lynx-123008995.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Napheesa Collier Must Meet ‘Be More Assertive’ Demand to Save Lynx’s Season",
+        "url": "https://www.si.com/onsi/womens-fastbreak/wnba/napheesa-collier-must-meet-be-more-assertive-demand-to-save-lynx-s-season-01m3kvch2d0w",
+        "source": "Sports Illustrated"
+      }
+    ]
+  }
+]
