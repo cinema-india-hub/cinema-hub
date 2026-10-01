@@ -1,47 +1,24 @@
 [
   {
     "geo": "IN",
-    "title": "verity movie",
+    "title": "samsung galaxy s27",
     "traffic": 2000,
-    "pubDate": "Thu, 1 Oct 2026 01:10:00 -0700",
+    "pubDate": "Thu, 1 Oct 2026 08:50:00 -0700",
     "news": [
       {
-        "title": "Verity review – Dakota Johnson leaves teethmarks as she goes back to Fifty Shades erotic thriller territory",
-        "url": "https://www.theguardian.com/film/2026/sep/30/verity-review-dakota-johnson-anne-hathaway-josh-hartnett",
-        "source": "The Guardian"
+        "title": "Galaxy S27 Ultra said to be heavier than Galaxy S26 Ultra - GSMArena.com news",
+        "url": "https://www.gsmarena.com/galaxy_s27_ultra_said_to_be_heavier_than_galaxy_s26_ultra-news-74840.php",
+        "source": "GSMArena.com"
       },
       {
-        "title": "‘Verity’ movie review: Anne Hathaway and Dakota Johnson stumble through a corny thriller",
-        "url": "https://www.thehindu.com/entertainment/movies/verity-movie-review-anne-hathaway-and-dakota-johnson-stumble-through-a-corny-thriller/article71527847.ece",
-        "source": "The Hindu"
-      },
-      {
-        "title": "Verity First Reviews: Anne Hathaway Carries a Campy, Faithful Adaptation That Should Have Gotten Weirder",
-        "url": "https://editorial.rottentomatoes.com/article/verity-first-reviews/",
-        "source": "Rotten Tomatoes"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "fortnite",
-    "traffic": 500,
-    "pubDate": "Thu, 1 Oct 2026 01:30:00 -0700",
-    "news": [
-      {
-        "title": "FNAF Fortnite Bundle Revealed: All Skins, Prices and Release Date",
-        "url": "https://www.vice.com/en/article/fnaf-fortnite-bundle-skins-prices-release-date/",
-        "source": "VICE"
-      },
-      {
-        "title": "‘Fortnite’ Getting ‘Obsession’ Skins For Fortnitemares In Record Turnaround Time",
-        "url": "https://www.forbes.com/sites/paultassi/2026/09/29/fortnite-getting-obsession-skins-for-fortnitemares-in-record-turnaround-time/",
+        "title": "Galaxy S27 Ultra Release Date: Samsung To Drop 3x Camera It Shrank Twice",
+        "url": "https://www.forbes.com/sites/paulmonckton/2026/09/29/galaxy-s27-ultra-release-date-3x-camera/",
         "source": "Forbes"
       },
       {
-        "title": "New 'Fortnitemares' Cinematic Trailer Teases 'Obsession' and Fully Reveals Freddy Krueger!",
-        "url": "https://bloody-disgusting.com/video-games/3969565/new-fortnitemares-cinematic-trailer-teases-obsession-teaser/",
-        "source": "Bloody Disgusting"
+        "title": "I didn't expect so many of you to snub the Galaxy S27 Ultra's M16 display for this instead",
+        "url": "https://www.phonearena.com/news/i-didnt-expect-so-many-of-you-to-snub-the-galaxy-s27-ultras-m16-display-for-this-instead_id183630",
+        "source": "PhoneArena"
       }
     ]
   }
