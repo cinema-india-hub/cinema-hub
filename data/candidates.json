@@ -1,24 +1,24 @@
 [
   {
-    "geo": "US",
-    "title": "dunkin halloween menu",
-    "traffic": 1000,
-    "pubDate": "Wed, 30 Sep 2026 14:00:00 -0700",
+    "geo": "IN",
+    "title": "rishad hossain",
+    "traffic": 500,
+    "pubDate": "Wed, 30 Sep 2026 19:10:00 -0700",
     "news": [
       {
-        "title": "Dunkin'® Kicks Off Spooky Season with New Green Apple Dunkin' Zero, Purple Marshmallow Cold Foam and All-New Halloween Sips",
-        "url": "https://news.dunkindonuts.com/news/dunkin-new-menu-september-2026",
-        "source": "Dunkin' Donuts"
+        "title": "Babar, Salt and Gurbaz among 400+ players for ILT20 auction",
+        "url": "https://www.cricbuzz.com/cricket-news/140322/babar-azam-phil-salt-and-rahmanullah-gurbaz-among-400-players-for-ilt20-auction-cricbuzzcom",
+        "source": "Cricbuzz"
       },
       {
-        "title": "Dunkin' is serving up new Halloween-inspired drinks",
-        "url": "https://www.usatoday.com/story/money/food/2026/09/30/dunkin-halloween-drinks/92003619007/",
-        "source": "USA Today"
+        "title": "UAE players availability uncertain ahead of ILT20 auction",
+        "url": "https://www.espn.in/cricket/story/_/id/50057204/uae-players-availability-uncertain-ahead-ilt20-auction",
+        "source": "ESPN India"
       },
       {
-        "title": "Dunkin’ Is Launching an All-New Halloween Menu—and We Tried It First",
-        "url": "https://www.allrecipes.com/dunkin-halloween-menu-2026-12146919",
-        "source": "Allrecipes"
+        "title": "ILT20 Season 5 Player Auction: Big names, purse remaining and everything you need to know",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-season-5-player-auction-big-names-purse-remaining-and-everything-you-need-to-know/articleshow/134591126.cms",
+        "source": "The Times of India"
       }
     ]
   }
