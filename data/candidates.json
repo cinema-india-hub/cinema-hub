@@ -1,24 +1,47 @@
 [
   {
     "geo": "IN",
-    "title": "samsung galaxy s27",
-    "traffic": 2000,
-    "pubDate": "Thu, 1 Oct 2026 08:50:00 -0700",
+    "title": "friday ott releases",
+    "traffic": 10000,
+    "pubDate": "Thu, 1 Oct 2026 11:50:00 -0700",
     "news": [
       {
-        "title": "Galaxy S27 Ultra said to be heavier than Galaxy S26 Ultra - GSMArena.com news",
-        "url": "https://www.gsmarena.com/galaxy_s27_ultra_said_to_be_heavier_than_galaxy_s26_ultra-news-74840.php",
-        "source": "GSMArena.com"
+        "title": "‘East of Eden’ to ‘Dupahiya’ Season 2: New films and web series to binge on this weekend",
+        "url": "https://www.telegraphindia.com/entertainment/east-of-eden-to-dupahiya-season-2-new-films-and-web-series-to-binge-on-this-weekend/cid/2182619",
+        "source": "Telegraph India"
       },
       {
-        "title": "Galaxy S27 Ultra Release Date: Samsung To Drop 3x Camera It Shrank Twice",
-        "url": "https://www.forbes.com/sites/paulmonckton/2026/09/29/galaxy-s27-ultra-release-date-3x-camera/",
-        "source": "Forbes"
+        "title": "Friday OTT releases (October 2, 2026): 6 new movies and shows on Netflix, JioHotstar and more",
+        "url": "https://www.gqindia.com/content/friday-ott-releases-october-2-2026-6-new-movies-and-shows-on-netflix-jiohotstar-and-more",
+        "source": "GQ India"
       },
       {
-        "title": "I didn't expect so many of you to snub the Galaxy S27 Ultra's M16 display for this instead",
-        "url": "https://www.phonearena.com/news/i-didnt-expect-so-many-of-you-to-snub-the-galaxy-s27-ultras-m16-display-for-this-instead_id183630",
-        "source": "PhoneArena"
+        "title": "What to watch on OTT this weekend: 9 new movies and shows coming to Netflix, JioHotstar, Prime Video and more",
+        "url": "https://m.economictimes.com/magazines/panache/what-to-watch-on-ott-this-weekend-9-new-movies-and-shows-coming-to-netflix-jiohotstar-prime-video-and-more/new-ott-releases-this-weekend/slideshow/134605839.cms",
+        "source": "The Economic Times"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "big brother finale",
+    "traffic": 5000,
+    "pubDate": "Thu, 1 Oct 2026 14:00:00 -0700",
+    "news": [
+      {
+        "title": "Big Brother: Dee Backlash About Jury, Julie’s Winner Pick & Afp Poll",
+        "url": "https://www.imdb.com/news/ni66040960/?ref_=nmnw_art_perm",
+        "source": "IMDb"
+      },
+      {
+        "title": "Who's winning America's Favorite Houseguest? 'Big Brother' AFH polls split",
+        "url": "https://www.northjersey.com/story/news/2026/09/30/who-is-winning-americas-favorite-houseguest-big-brother-afh-vote/92021456007/",
+        "source": "Bergen Record"
+      },
+      {
+        "title": "‘Big Brother’ season 28 finale: How to watch live for free tonight",
+        "url": "https://www.cleveland.com/tv/2026/10/big-brother-season-28-finale-how-to-watch-live-for-free-tonight.html",
+        "source": "Cleveland.com"
       }
     ]
   }
