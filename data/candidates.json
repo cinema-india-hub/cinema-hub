@@ -1,47 +1,70 @@
 [
   {
-    "geo": "IN",
-    "title": "friday ott releases",
-    "traffic": 10000,
-    "pubDate": "Thu, 1 Oct 2026 11:50:00 -0700",
+    "geo": "US",
+    "title": "tmz",
+    "traffic": 5000,
+    "pubDate": "Thu, 1 Oct 2026 19:00:00 -0700",
     "news": [
       {
-        "title": "‘East of Eden’ to ‘Dupahiya’ Season 2: New films and web series to binge on this weekend",
-        "url": "https://www.telegraphindia.com/entertainment/east-of-eden-to-dupahiya-season-2-new-films-and-web-series-to-binge-on-this-weekend/cid/2182619",
-        "source": "Telegraph India"
+        "title": "TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/tmz-streaming-live-come-newsroom-173037153.html",
+        "source": "Yahoo"
       },
       {
-        "title": "Friday OTT releases (October 2, 2026): 6 new movies and shows on Netflix, JioHotstar and more",
-        "url": "https://www.gqindia.com/content/friday-ott-releases-october-2-2026-6-new-movies-and-shows-on-netflix-jiohotstar-and-more",
-        "source": "GQ India"
+        "title": "TMZ Live - 09/30/2026",
+        "url": "https://www.tmz.com/watch/tmz-live-09-30-2026/",
+        "source": "TMZ"
       },
       {
-        "title": "What to watch on OTT this weekend: 9 new movies and shows coming to Netflix, JioHotstar, Prime Video and more",
-        "url": "https://m.economictimes.com/magazines/panache/what-to-watch-on-ott-this-weekend-9-new-movies-and-shows-coming-to-netflix-jiohotstar-prime-video-and-more/new-ott-releases-this-weekend/slideshow/134605839.cms",
-        "source": "The Economic Times"
+        "title": "TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!",
+        "url": "https://www.aol.com/articles/tmz-streaming-live-come-newsroom-173045000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "big brother finale",
-    "traffic": 5000,
-    "pubDate": "Thu, 1 Oct 2026 14:00:00 -0700",
+    "title": "concacaf nations league",
+    "traffic": 2000,
+    "pubDate": "Thu, 1 Oct 2026 18:50:00 -0700",
     "news": [
       {
-        "title": "Big Brother: Dee Backlash About Jury, Julie’s Winner Pick & Afp Poll",
-        "url": "https://www.imdb.com/news/ni66040960/?ref_=nmnw_art_perm",
-        "source": "IMDb"
+        "title": "Anguilla vs Antigua and Barbuda: Concacaf Nations League stats & head-to-head",
+        "url": "https://www.bbc.com/sport/football/live/cm209w14j638t",
+        "source": "BBC"
       },
       {
-        "title": "Who's winning America's Favorite Houseguest? 'Big Brother' AFH polls split",
-        "url": "https://www.northjersey.com/story/news/2026/09/30/who-is-winning-americas-favorite-houseguest-big-brother-afh-vote/92021456007/",
-        "source": "Bergen Record"
+        "title": "Goals and Highlights for Anguilla 0-3 Antigua and Barbuda in UEFA Nations League Match",
+        "url": "https://www.vavel.com/en-us/soccer/2026/10/01/1273497-anguilla-vs-antigua-and-barbuda-live-score-concacaf-nations-league.html",
+        "source": "VAVEL.com"
       },
       {
-        "title": "‘Big Brother’ season 28 finale: How to watch live for free tonight",
-        "url": "https://www.cleveland.com/tv/2026/10/big-brother-season-28-finale-how-to-watch-live-for-free-tonight.html",
-        "source": "Cleveland.com"
+        "title": "Nicaragua vs. Costa Rica Lineups, Live Streaming, How & Where to Watch on TV",
+        "url": "https://athlonsports.com/soccer/nicaragua-vs-costa-rica-lineups-live-streaming-how-where-watch-tv",
+        "source": "Athlon Sports"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "aliyah boston",
+    "traffic": 1000,
+    "pubDate": "Thu, 1 Oct 2026 18:50:00 -0700",
+    "news": [
+      {
+        "title": "Indiana Fever guard Ty Harris will miss WNBA playoffs with broken leg",
+        "url": "https://www.nytimes.com/athletic/7633102/2026/09/26/fever-ty-harris-injury-broken-leg-playoffs/",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Indiana Fever Announce Injury Report for Game 3 vs. Las Vegas Aces",
+        "url": "https://sports.yahoo.com/articles/indiana-fever-announce-injury-report-195325188.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Ty Harris injury update: Indiana Fever guard done for season with leg fracture",
+        "url": "https://www.usatoday.com/story/sports/wnba/2026/09/26/ty-harris-injury-update-indiana-fever-guard/91959904007/",
+        "source": "USA Today"
       }
     ]
   }
