@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "mahendragiri varahi",
+    "traffic": 2000,
+    "pubDate": "Fri, 2 Oct 2026 07:10:00 -0700",
+    "news": [
+      {
+        "title": "Mahendragiri Varahi OTT: ఓటీటీలో ‘మహేంద్రగిరి వారాహి’.. స్ట్రీమింగ్‌ ఎప్పుడంటే?",
+        "url": "https://www.eenadu.net/telugu-news/movies/mahendragiri-varahi-locks-ott-release-date/0209/126177712",
+        "source": "Eenadu"
+      },
+      {
+        "title": "Mahendragiri Varahi OTT : ఓటీటీలోకి సడన్‌గా వచ్చేసిన మహేంద్రగిరి వారాహి - ఎన్ని భాషల్లో స్ట్రీమింగ్",
+        "url": "https://telugu.abplive.com/entertainment/ott-webseries/mahendragiri-varahi-ott-streaming-sumanth-aishwarya-rajesh-mythological-thriller-available-to-watch-on-amazon-prime-video-260422",
+        "source": "ABP Desam"
+      },
+      {
+        "title": "OTT: ఈ రోజే ఓటీటీలోకి వచ్చేసిన మర్డర్ మిస్టరీ థ్రిల్లర్.. 8.5 రేటింగ్‌తో గత్తరలేపుతుంది.. తెలుగులో ఉంది.. అస్సలు మిస్సవ్వకండి!",
+        "url": "https://telugu.news18.com/photogallery/movies/dont-miss-this-murder-mystery-thriller-at-any-cost-imdb-ration-8-5-bh-3238831.html",
+        "source": "News18 Telugu"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "james gunn",
+    "traffic": 1000,
+    "pubDate": "Fri, 2 Oct 2026 07:20:00 -0700",
+    "news": [
+      {
+        "title": "Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close",
+        "url": "https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/",
+        "source": "Variety"
+      },
+      {
+        "title": "The Mike & Pam Era at Warner Bros. Is Ending",
+        "url": "https://puck.news/the-mike-and-pam-era-at-warner-bros-is-ending/",
+        "source": "Puck"
+      },
+      {
+        "title": "Warner Bros Film Bosses Michael De Luca, Pam Abdy Out As Paramount Takes Over",
+        "url": "https://deadline.com/2026/10/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-1237145206/",
+        "source": "Deadline"
+      }
+    ]
+  }
+]
