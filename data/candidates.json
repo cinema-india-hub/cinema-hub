@@ -1,24 +1,70 @@
 [
   {
     "geo": "US",
-    "title": "robot",
-    "traffic": 500,
-    "pubDate": "Fri, 2 Oct 2026 13:00:00 -0700",
+    "title": "digger",
+    "traffic": 5000,
+    "pubDate": "Fri, 2 Oct 2026 19:00:00 -0700",
     "news": [
       {
-        "title": "Robot umpires flip 54% of challenged calls as Reds lead way",
-        "url": "https://www.espn.com/mlb/story/_/id/50084448/robot-umpires-flip-54-challenged-calls-reds-lead-way",
-        "source": "ESPN"
-      },
-      {
-        "title": "In October, every ABS challenge carries more weight — and teams are still adjusting",
-        "url": "https://www.nytimes.com/athletic/7647581/2026/09/30/phillies-braves-abs-challenge-team-walk-off/",
+        "title": "‘Digger’ Review: Even Tom Cruise Can’t Save This Strained Satire",
+        "url": "https://www.nytimes.com/2026/10/01/movies/digger-review-tom-cruise-alejandro-inarritu.html",
         "source": "The New York Times"
       },
       {
-        "title": "MLB ABS Challenge Success Rate for 2026 Season Revealed, Full Rankings for Yankees, Dodgers, More",
-        "url": "https://bleacherreport.com/articles/25505912-mlb-abs-challenge-success-rate-2026-season-revealed-full-rankings-yankees-dodgers-more",
-        "source": "Bleacher Report"
+        "title": "Digger is poised to be one of the biggest box-office flops of the year",
+        "url": "https://www.cbc.ca/news/entertainment/digger-flop-9.7367864",
+        "source": "CBC"
+      },
+      {
+        "title": "How accurate is the climate disaster in Tom Cruise’s new movie Digger?",
+        "url": "https://www.scientificamerican.com/article/could-a-giant-iceberg-really-break-off-greenland-scientists-check-tom-cruises-new-movie-digger/",
+        "source": "Scientific American"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "veronica burton",
+    "traffic": 500,
+    "pubDate": "Fri, 2 Oct 2026 19:00:00 -0700",
+    "news": [
+      {
+        "title": "Veronica Burton went from overlooked to indispensable with the Golden State Valkyries",
+        "url": "https://www.nytimes.com/athletic/7649300/2026/10/02/veronica-burton-golden-state-valkyries-wnba-playoffs/",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Veronica Burton Shares the Mindset Fueling the Golden State Valkyries’ Historic Playoff Push",
+        "url": "https://sports.yahoo.com/articles/veronica-burton-shares-mindset-fueling-170000347.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "How Newton’s Veronica Burton went from cast-off to latest WNBA star",
+        "url": "https://www.bostonherald.com/2026/09/29/how-newtons-veronica-burton-went-from-cast-off-to-latest-wnba-star/",
+        "source": "Boston Herald"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "fire country",
+    "traffic": 500,
+    "pubDate": "Fri, 2 Oct 2026 18:50:00 -0700",
+    "news": [
+      {
+        "title": "‘Fire Country’ Star Max Thieriot Warns That Fans Need to Be “Worried” Ahead of Season 5",
+        "url": "https://www.goodhousekeeping.com/entertainment/tv-shows/a73978850/fire-country-season-5-episodes-max-thieriot-preview/",
+        "source": "Good Housekeeping"
+      },
+      {
+        "title": "Everything To Know About ‘Fire Country’ Season 5",
+        "url": "https://decider.com/2026/10/02/fire-country-season-5-release-date-when-does-fire-country-return-new-episodes-cbs/",
+        "source": "Decider"
+      },
+      {
+        "title": "I Am Sad Fire Country's Getting A Short Season. Max Thieriot Feels Differently",
+        "url": "https://www.cinemablend.com/television/i-sad-fire-countrys-short-season-max-thieriot-feels-different",
+        "source": "Cinemablend"
       }
     ]
   }
