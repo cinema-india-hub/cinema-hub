@@ -1,24 +1,47 @@
 [
   {
-    "geo": "IN",
-    "title": "canada vs peru",
-    "traffic": 1000,
-    "pubDate": "Sat, 3 Oct 2026 10:30:00 -0700",
+    "geo": "US",
+    "title": "bruins vs wild",
+    "traffic": 5000,
+    "pubDate": "Sat, 3 Oct 2026 16:10:00 -0700",
     "news": [
       {
-        "title": "Dónde y cómo ver en vivo y gratis Perú vs. Canadá hoy: TV y streaming online del amistoso internacional en Montreal",
-        "url": "https://es-us.noticias.yahoo.com/deportes/d%C3%B3nde-vivo-gratis-per%C3%BA-vs-130002980.html",
-        "source": "Yahoo"
+        "title": "Game Preview: Wild vs Bruins",
+        "url": "https://www.nhl.com/wild/news/game-preview-vs-boston-bruins-100226",
+        "source": "NHL.com"
       },
       {
-        "title": "Posible alineaciones de Canada y Perú en amistoso",
-        "url": "https://www.365scores.com/es/news/canada-peru-posibles-alineaciones-hoy/",
-        "source": "365Scores"
+        "title": "Live: After season-opening win, Wild take on Bruins in front of home fans",
+        "url": "https://www.startribune.com/minnesota-wild-boston-bruins-score-today-tv-channel-kirill-kaprizov-stats-jesper-wallstedt-nhl-game/601894060",
+        "source": "Star Tribune"
       },
       {
-        "title": "Menezes: \"Los jugadores mentalmente están muy fuertes y eso ayuda en la recuperación física\"",
-        "url": "https://ovacion.pe/noticias/seleccion-peruana/menezes-jugadores-mentalmente-estan-muy-fuertes-eso-ayuda-recuperacion",
-        "source": "ovacion.pe"
+        "title": "Preview: Bruins take on Minnesota after Wild game",
+        "url": "https://www.stanleycupofchowder.com/bruins-gameday/59345/preview-bruins-take-on-minnesota-after-wild-game",
+        "source": "Stanley Cup of Chowder"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "indiana vs rutgers",
+    "traffic": 5000,
+    "pubDate": "Sat, 3 Oct 2026 16:00:00 -0700",
+    "news": [
+      {
+        "title": "How to Watch Indiana vs. Rutgers: TV Channel, Live Stream, Time",
+        "url": "https://www.foxsports.com/stories/college-football/how-to-watch-indiana-vs-rutgers-tv-channel-live-stream-time-oct-3-2026",
+        "source": "FOX Sports"
+      },
+      {
+        "title": "Why Indiana football road trip to Rutgers is important after 4-0 start",
+        "url": "https://www.indystar.com/story/sports/college/indiana/2026/10/02/indiana-football-game-rutgers-coach-curt-cignetti-progress/92041409007/",
+        "source": "IndyStar"
+      },
+      {
+        "title": "KJ Duff presents IU football’s secondary with its biggest test yet in 2026 season",
+        "url": "https://www.insidethehall.com/2026/10/02/kj-duff-presents-iu-footballs-secondary-with-its-biggest-test-yet-in-2026-season/",
+        "source": "Inside the Hall"
       }
     ]
   }
