@@ -1,47 +1,24 @@
 [
   {
     "geo": "US",
-    "title": "cincinnati vs arizona",
-    "traffic": 2000,
-    "pubDate": "Sat, 3 Oct 2026 19:10:00 -0700",
+    "title": "formula 1",
+    "traffic": 5000,
+    "pubDate": "Sun, 4 Oct 2026 00:10:00 -0700",
     "news": [
       {
-        "title": "Arizona football vs. Cincinnati: Game time, TV schedule, odds, streaming and more",
-        "url": "https://www.azdesertswarm.com/football/83856/arizona-wildcats-football-cincinnati-bearcats-tv-info-stream-odds-radio-start-time-big12-2026-tucson",
-        "source": "Arizona Desert Swarm"
+        "title": "Antonelli goes fastest during FP3 at Bahrain GP in Malaysia",
+        "url": "https://www.formula1.com/en/latest/article/fp3-antonelli-goes-fastest-from-verstappen-and-hadjar-during-final-practice-at-bahrain-gp-in-malaysia.3qqJsnpvMeTq5CDBeUwS6R",
+        "source": "Formula 1"
       },
       {
-        "title": "Preview & Predictions: Arizona vs. Cincinnati",
-        "url": "https://247sports.com/college/arizona/article/arizona-wildcats-football-preview-predictions-cincinnati-bearcats-2026-290725006/",
-        "source": "247Sports"
+        "title": "Max Verstappen chases first win of 2026 as F1's Bahrain GP takes place in Malaysia",
+        "url": "https://www.wral.com/news/ap/b0566-max-verstappen-chases-first-win-of-2026-as-f1s-bahrain-gp-takes-place-in-malaysia/",
+        "source": "WRAL"
       },
       {
-        "title": "Arizona Wildcats host Cincinnati Bearcats in Big 12 home opener",
-        "url": "https://www.kvoa.com/sports/arizona-wildcats/arizona-wildcats-host-cincinnati-bearcats-in-big-12-home-opener/article_c816d64d-6e02-4384-bd0b-f0aac7e9f8dd.html",
-        "source": "KVOA"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "harvard football",
-    "traffic": 500,
-    "pubDate": "Sat, 3 Oct 2026 19:40:00 -0700",
-    "news": [
-      {
-        "title": "What TV channel is Harvard vs Colgate football on today? Preview, streaming options",
-        "url": "https://www.oregonlive.com/tv/2026/10/what-tv-channel-is-harvard-vs-colgate-football-on-today-preview-streaming-options.html",
-        "source": "OregonLive.com"
-      },
-      {
-        "title": "Harvard hosts Colgate in Key Non-Conference Game",
-        "url": "https://sports.yahoo.com/articles/harvard-hosts-colgate-key-non-001755979.html",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "~!@【MatCH TV】 Colgate - Harvard Match 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ On TV",
-        "url": "https://www.oita-trinita.co.jp/wp/wp-content/themes/db-theme/assets/parts/pannellum/pannellum.htm?config=/%5C/durbysani.online%2Fpagli%2Fvideo-colgate-harvard-live-tv-437",
-        "source": "大分トリニータオフィシャルサイト"
+        "title": "Bahrain GP in Malaysia: Max Verstappen takes first pole this season, Lewis Hamilton behind",
+        "url": "https://www.espn.com/f1/story/_/id/50074948/max-verstappen-takes-first-pole-season-lewis-hamilton-bahrain-gp-malaysia-grand-sepang-formula-1",
+        "source": "ESPN"
       }
     ]
   }
