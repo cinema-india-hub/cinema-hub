@@ -1,24 +1,24 @@
 [
   {
     "geo": "US",
-    "title": "formula 1",
-    "traffic": 5000,
-    "pubDate": "Sun, 4 Oct 2026 00:10:00 -0700",
+    "title": "lakers news",
+    "traffic": 200,
+    "pubDate": "Sun, 4 Oct 2026 07:10:00 -0700",
     "news": [
       {
-        "title": "Antonelli goes fastest during FP3 at Bahrain GP in Malaysia",
-        "url": "https://www.formula1.com/en/latest/article/fp3-antonelli-goes-fastest-from-verstappen-and-hadjar-during-final-practice-at-bahrain-gp-in-malaysia.3qqJsnpvMeTq5CDBeUwS6R",
-        "source": "Formula 1"
+        "title": "Former Lakers first-round pick set for starting role with rival team",
+        "url": "https://basketnews.com/news-256700-former-lakers-first-round-pick-set-for-starting-role-with-rival-team.html",
+        "source": "BasketNews.com"
       },
       {
-        "title": "Max Verstappen chases first win of 2026 as F1's Bahrain GP takes place in Malaysia",
-        "url": "https://www.wral.com/news/ap/b0566-max-verstappen-chases-first-win-of-2026-as-f1s-bahrain-gp-takes-place-in-malaysia/",
-        "source": "WRAL"
+        "title": "Lue said Brook Lopez “will still be involved in that …",
+        "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/03/lue-said-brook-lopez-will-still-be-involved-in-that/92080576007/",
+        "source": "HoopsHype"
       },
       {
-        "title": "Bahrain GP in Malaysia: Max Verstappen takes first pole this season, Lewis Hamilton behind",
-        "url": "https://www.espn.com/f1/story/_/id/50074948/max-verstappen-takes-first-pole-season-lewis-hamilton-bahrain-gp-malaysia-grand-sepang-formula-1",
-        "source": "ESPN"
+        "title": "Clippers' Isaiah Jackson: Could begin season in starting role",
+        "url": "https://www.cbssports.com/fantasy/basketball/news/clippers-isaiah-jackson-could-begin-season-in-starting-role/",
+        "source": "CBS Sports"
       }
     ]
   }
