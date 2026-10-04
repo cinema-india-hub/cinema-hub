@@ -1,24 +1,70 @@
 [
   {
-    "geo": "US",
-    "title": "lakers news",
-    "traffic": 200,
-    "pubDate": "Sun, 4 Oct 2026 07:10:00 -0700",
+    "geo": "IN",
+    "title": "greece vs germany",
+    "traffic": 5000,
+    "pubDate": "Sun, 4 Oct 2026 10:50:00 -0700",
     "news": [
       {
-        "title": "Former Lakers first-round pick set for starting role with rival team",
-        "url": "https://basketnews.com/news-256700-former-lakers-first-round-pick-set-for-starting-role-with-rival-team.html",
-        "source": "BasketNews.com"
+        "title": "Greece vs Germany: UEFA Nations League stats & head-to-head",
+        "url": "https://www.bbc.com/sport/football/live/cmn07lyw81y5t",
+        "source": "BBC"
       },
       {
-        "title": "Lue said Brook Lopez “will still be involved in that …",
-        "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/03/lue-said-brook-lopez-will-still-be-involved-in-that/92080576007/",
-        "source": "HoopsHype"
+        "title": "Greece vs Germany, LIVE streaming info: When, where to watch UEFA Nations League match?",
+        "url": "https://sportstar.thehindu.com/football/greece-vs-germany-uefa-nations-league-live-streaming-telecast-when-where-to-watch/article71543082.ece",
+        "source": "Sportstar"
       },
       {
-        "title": "Clippers' Isaiah Jackson: Could begin season in starting role",
-        "url": "https://www.cbssports.com/fantasy/basketball/news/clippers-isaiah-jackson-could-begin-season-in-starting-role/",
-        "source": "CBS Sports"
+        "title": "Who will be Germany’s Meister of the Match vs. Greece?",
+        "url": "https://www.bavarianfootballworks.com/question-of-the-day/262733/who-will-be-germanys-meister-of-the-match-vs-greece-bayern-munich-wirtz-pavlovic-bischof-urbig",
+        "source": "Bavarian Football Works"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "wales vs denmark",
+    "traffic": 1000,
+    "pubDate": "Sun, 4 Oct 2026 11:00:00 -0700",
+    "news": [
+      {
+        "title": "Wales vs Denmark: Uefa Nations League stats & head-to-head",
+        "url": "https://www.bbc.com/sport/football/live/cm209vzdegpwt",
+        "source": "BBC"
+      },
+      {
+        "title": "Wales vs Denmark - Prediction, where to watch, kick-off time and line-ups 04-10-2026",
+        "url": "https://onefootball.com/en/betting/in/predictions/wales-vs-denmark-04-10-2026",
+        "source": "OneFootball"
+      },
+      {
+        "title": "How to watch Wales vs Denmark for free – TV channel, streaming, kick-off time",
+        "url": "https://www.mirror.co.uk/sport/football/news/watch-wales-denmark-channel-stream-37726561",
+        "source": "Daily Mirror"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "ayushmann khurrana",
+    "traffic": 1000,
+    "pubDate": "Sun, 4 Oct 2026 09:40:00 -0700",
+    "news": [
+      {
+        "title": "Emiway Bantai Makes Bollywood Debut With ‘Choozay’ Starring Ayushmann Khurrana & Sara Ali Khan, Composed By Sachin-Jigar",
+        "url": "https://www.musiculture.in/emiway-bantai-choozay-ayushmann-khurrana-sara-ali-khan-sachin-jigar/",
+        "source": "MusiCulture"
+      },
+      {
+        "title": "Choozay | Udta Teer | Ayushmann Khurrana, Sara Ali Khan | Emiway Bantai, Sachin-Jigar, Amitabh Bhattacharya",
+        "url": "https://www.bollywoodhungama.com/videos/movie-songs/choozay-udta-teer-ayushmann-khurrana-sara-ali-khan-emiway-bantai-sachin-jigar-amitabh-bhattacharya/",
+        "source": "Bollywood Hungama"
+      },
+      {
+        "title": "Udta Teer begins its musical journey with a fun quirky song ‘Bhootni Ka’",
+        "url": "https://www.peepingmoon.com/entertainment-news/news/82469/Udta-Teer-begins-its-musical-journey-with-a-fun-quirky-song-Bhootni-Ka.html",
+        "source": "Peepingmoon.com"
       }
     ]
   }
