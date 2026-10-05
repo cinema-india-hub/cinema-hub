@@ -1,70 +1,47 @@
 [
   {
-    "geo": "US",
-    "title": "lanterns season 2",
-    "traffic": 5000,
-    "pubDate": "Sun, 4 Oct 2026 18:50:00 -0700",
+    "geo": "IN",
+    "title": "हनुमान अंश",
+    "traffic": 1000,
+    "pubDate": "Mon, 5 Oct 2026 02:00:00 -0700",
     "news": [
       {
-        "title": "Some Disappointing News About ‘Lanterns’ Season 2 On HBO Max",
-        "url": "https://www.forbes.com/sites/paultassi/2026/10/02/some-disappointing-news-about-lanterns-season-2-on-hbo-max/",
-        "source": "Forbes"
+        "title": "400 करोड़ पार 'हनुमान अंश' की कमाई, कैंची धाम में भक्तों का सैलाब, डायेरक्टर विशाल चतुर्वेदी ने श्रद्धालुओं से की अपील",
+        "url": "https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-movie-neem-karoli-baba-kainchi-dham-huge-rush-director-vishal-chaturvedi-urges-caution-tmovg-dskc-2661429-2026-10-05",
+        "source": "Aaj Tak"
       },
       {
-        "title": "‘Lanterns’ Season 2 Adds New Writers (Exclusive)",
-        "url": "https://nexuspointnews.com/lanterns-season-2-adds-new-writers-exclusive/",
-        "source": "Nexus Point News"
+        "title": "रविवार को Hanuman Ansh पर बरसी नीम करोली बाबा की कृपा, 59वें दिन Box Office पर छाप डाले करोड़ों",
+        "url": "https://www.jagran.com/entertainment/box-office-hanuman-ansh-box-office-collection-day-59-devotional-film-collects-3-crore-on-sunday-40394410.html",
+        "source": "Jagran"
       },
       {
-        "title": "‘Lanterns’ Episode 7 Hits 7 Million U.S. Viewers in Three Days as Season Reaches Average of Nearly 19 Million Globally",
-        "url": "https://variety.com/2026/tv/news/lanterns-episode-7-ratings-hbo-1236895280/",
-        "source": "Variety"
+        "title": "कैंची धाम में उमड़ा भक्तों का सैलाब, 'हनुमान अंश' के डायरेक्टर को सताई चिंता, श्रद्धालुओं के लिए शेयर किया",
+        "url": "https://www.indiatv.in/entertainment/bollywood/hanuman-ansh-director-vishal-chaturvedi-makes-humble-request-as-kainchi-dham-sees-massive-influx-of-devotees-2026-10-05-1246994",
+        "source": "India TV Hindi"
       }
     ]
   },
   {
     "geo": "IN",
-    "title": "nba",
+    "title": "sanjay leela bhansali",
     "traffic": 500,
-    "pubDate": "Sun, 4 Oct 2026 18:10:00 -0700",
+    "pubDate": "Mon, 5 Oct 2026 01:50:00 -0700",
     "news": [
       {
-        "title": "Golden State Warriors vs LA Clippers Oct 4, 2026 Box Scores",
-        "url": "https://www.nba.com/game/gsw-vs-lac-0012600066/box-score",
-        "source": "NBA.com"
+        "title": "After 'Love and War', Sanjay Leela Bhansali and Alia Bhatt in talks to revive shelved 'Inshallah' which S",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-love-and-war-sanjay-leela-bhansali-and-alia-bhatt-in-talks-to-revive-shelved-inshallah-which-salman-khan-had-exited-and-shah-rukh-khan-was-earlier-considered-for-report/articleshow/134686785.cms",
+        "source": "The Times of India"
       },
       {
-        "title": "Pelicans announce broadcast plans, personalities for season",
-        "url": "https://www.nola.com/sports/pelicans-announce-broadcast-plans-personalities-for-season/article_dba890fa-b7b9-4325-a95c-167da6663e54.html",
-        "source": "NOLA.com"
+        "title": "Bhatt and Bhansali revive long delayed 'Inshallah' with script makeover",
+        "url": "https://www.newsbytesapp.com/news/entertainment/bhatt-and-bhansali-revive-long-delayed-inshallah-with-script-makeover/tldr",
+        "source": "NewsBytes"
       },
       {
-        "title": "FOX 8 to simulcast 20 Pelicans games free during 2026-27 season",
-        "url": "https://www.fox8live.com/2026/09/30/fox-8-simulcast-20-pelicans-games-free-during-2026-27-season/",
-        "source": "FOX 8 Local First"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "man of tomorrow",
-    "traffic": 500,
-    "pubDate": "Sun, 4 Oct 2026 19:10:00 -0700",
-    "news": [
-      {
-        "title": "James Gunn Confirms He’s ‘Already’ Writing His Next Film Ahead of ‘Superman: Man of Tomorrow’",
-        "url": "https://variety.com/2026/film/news/james-gunn-next-project-superman-man-of-tomorrow-1236898696/",
-        "source": "Variety"
-      },
-      {
-        "title": "James Gunn Is Writing His Next Movie Following ‘Man of Tomorrow’: “Already In It”",
-        "url": "https://deadline.com/2026/10/james-gunn-writing-next-movie-following-man-of-tomorrow-1237146258/",
-        "source": "Deadline"
-      },
-      {
-        "title": "Man of Tomorrow Passed An Important Post-Production Milestone",
-        "url": "https://www.polygon.com/man-of-tomorrow-assembly-cut/",
-        "source": "Polygon.com"
+        "title": "Sanjay Leela Bhansali planning to revive dream project Inshallah; Alia Bhatt & Salman Khan to return or new cast?",
+        "url": "https://www.movietalkies.com/news/sanjay-leela-bhansali-to-revive-dream-project-inshallah-12624499",
+        "source": "MovieTalkies"
       }
     ]
   }
