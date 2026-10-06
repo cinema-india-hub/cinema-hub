@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "क्राइम थ्रिलर",
+    "traffic": 200,
+    "pubDate": "Tue, 6 Oct 2026 02:00:00 -0700",
+    "news": [
+      {
+        "title": "OTT : 3 एपिसोड की इस खौफनाक क्राइम थ्रिलर सीरीज को देख हिल जाएगा दिमाग, हर सीन देख खौल जाता है खून",
+        "url": "https://www.livehindustan.com/entertainment/web-series/ott-this-3-episode-crime-thriller-series-will-give-you-goosebump-based-on-real-life-story-201791261671551.html",
+        "source": "Hindustan"
+      },
+      {
+        "title": "हॉरर के साथ सस्पेंस और ट्विस्ट, OTT पर जरूर देखें ये खौफनाक सीरीज",
+        "url": "https://www.zoomtventertainment.com/hindi/web-series/bhram-web-series-review-zee5-kalki-koechlin-article-156279880",
+        "source": "Zoom TV"
+      },
+      {
+        "title": "अपने रिस्क पर ही देखना 8 एपिसोड की ये दिल दहला देने वाली सीरीज़, सस्पेंस इतना तगड़ा घूम जाएगा दिमाग",
+        "url": "https://www.digit.in/hi/news/entertainment/bhram-horror-psychological-thriller-series-kalki-koechlin-zee5-imdb-rating-6-3.html",
+        "source": "Digit Hindi"
+      }
+    ]
+  }
+]
