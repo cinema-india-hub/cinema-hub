@@ -1,24 +1,47 @@
 [
   {
     "geo": "IN",
-    "title": "zee 5",
+    "title": "hannibal",
     "traffic": 200,
-    "pubDate": "Tue, 6 Oct 2026 09:50:00 -0700",
+    "pubDate": "Tue, 6 Oct 2026 13:10:00 -0700",
     "news": [
       {
-        "title": "From Trailers to Swipes: How Short-Form Video is Changing Movie Discovery",
-        "url": "https://www.sify.com/ai-analytics/from-trailers-to-swipes-how-short-form-video-is-changing-movie-discovery/",
-        "source": "Sify News"
+        "title": "25 Years Later, Ridley Scott’s Most Controversial Thriller Is Officially Free on Youtube",
+        "url": "https://www.polygon.com/ridley-scott-hannibal-2001-controversy/",
+        "source": "Polygon.com"
       },
       {
-        "title": "Zee5 launches Clips with Google Cloud to turn movies, shows into AI-powered short videos",
-        "url": "https://m.economictimes.com/industry/media/entertainment/media/zee5-launches-clips-with-google-cloud-to-turn-movies-shows-into-ai-powered-short-videos/articleshow/134706082.cms",
-        "source": "The Economic Times"
+        "title": "REVIEW: ‘Manhunter’",
+        "url": "https://freebeacon.com/culture/review-manhunter/",
+        "source": "freebeacon.com"
       },
       {
-        "title": "ZEE5 taps Gemini AI to make long-form catalogue easier to discover",
-        "url": "https://indiantelevision.com/iworld/zee5-taps-gemini-ai-to-make-long-form-catalogue-easier-to-discover/",
-        "source": "Indian Television Dot Com"
+        "title": "Defending Hannibal, Ridley Scott’s Gruesome Sequel to The Silence of the Lambs",
+        "url": "https://www.denofgeek.com/movies/defending-hannibal-ridley-scott-gruesome-sequel-silence-of-the-lambs/",
+        "source": "Den of Geek"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "street fighter movie",
+    "traffic": 200,
+    "pubDate": "Tue, 6 Oct 2026 12:00:00 -0700",
+    "news": [
+      {
+        "title": "Street Fighter (2026)",
+        "url": "https://www.imdb.com/title/tt27419420/mediaviewer/rm1286337282/",
+        "source": "IMDb"
+      },
+      {
+        "title": "Ryu, Ken, and Chun-Li Reveal Their Favorite Games Besides Street Fighter",
+        "url": "https://in.ign.com/street-fighter-6/273688/ryu-ken-and-chun-li-reveal-their-favorite-games-besides-street-fighter",
+        "source": "IGN India"
+      },
+      {
+        "title": "Street Fighter Movie \"A Brotherhood Forged\" Trailer and Release Details",
+        "url": "https://www.themovieblog.com/2026/10/street-fighter-a-brotherhood-forged-trailer-release/",
+        "source": "The Movie Blog"
       }
     ]
   }
