@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "melissa barrera",
+    "traffic": 2000,
+    "pubDate": "Wed, 7 Oct 2026 01:20:00 -0700",
+    "news": [
+      {
+        "title": "Skeet Ulrich Reveals He Watched ‘Scream’ Only 3 Times, Weighs In on Possible Franchise Return",
+        "url": "https://www.usmagazine.com/entertainment/news/skeet-ulrich-explains-why-he-wont-return-to-scream-franchise/",
+        "source": "Us Weekly"
+      },
+      {
+        "title": "Skeet Ulrich Says His ‘Scream’ Arc Couldn’t Be Completed After Melissa Barrera’s Firing: ‘There’s No Billy Loomis’ Without Her",
+        "url": "https://variety.com/2026/film/news/skeet-ulrich-scream-melissa-barrera-1236903923/",
+        "source": "Variety"
+      },
+      {
+        "title": "Skeet Ulrich On Not Completing 'Scream' \"Three-Film Arc\": \"Without Melissa Barrera & Sam Loomis, There's No Billy Loomis\"",
+        "url": "https://deadline.com/2026/10/skeet-ulrich-scream-three-film-arc-melissa-barrera-1237148447/",
+        "source": "Deadline"
+      }
+    ]
+  }
+]
