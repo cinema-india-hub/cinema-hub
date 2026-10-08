@@ -1,24 +1,24 @@
 [
   {
     "geo": "US",
-    "title": "mayor of kingstown - season 5",
-    "traffic": 200,
-    "pubDate": "Thu, 8 Oct 2026 04:40:00 -0700",
+    "title": "ridley scott",
+    "traffic": 500,
+    "pubDate": "Thu, 8 Oct 2026 12:10:00 -0700",
     "news": [
       {
-        "title": "Netflix Adds 4-Season Crime Drama Series From Yellowstone Creator Taylor Sheridan",
-        "url": "https://www.imdb.com/de/news/ni66047337/?ref_=nwc_art_perm",
+        "title": "Ridley Scott's Hit New Series Quietly Cancelled After 1 Season",
+        "url": "https://collider.com/ridley-scott-series-cancelled-dope-thief/",
+        "source": "Collider"
+      },
+      {
+        "title": "Ridley Scott’s Divisive $460M Historical Epic Is Officially Getting New Life on Netflix",
+        "url": "https://www.imdb.com/news/ni66051330/?ref_=ttnw_art_perm",
         "source": "IMDb"
       },
       {
-        "title": "Is Mayor of Kingstown Right for You? Some Quick Facts to Help You Decide",
-        "url": "https://www.netflix.com/tudum/articles/mayor-of-kingstown-cast-release-date-news",
-        "source": "Netflix"
-      },
-      {
-        "title": "'Mayor of Kingstown' hits Netflix. Does the Michigan location exist?",
-        "url": "https://www.freep.com/story/entertainment/television/2026/10/06/mayor-of-kingstown-michigan-town-netflix-paramount/92115990007/",
-        "source": "Detroit Free Press"
+        "title": "Russell Crowe's 2000 Classic, Ranked Among the 'Greatest Movies of All Time,' Is Coming to Netflix This Month",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/russell-crowes-2000-classic-ranked-144754548.html",
+        "source": "Yahoo"
       }
     ]
   }
