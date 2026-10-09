@@ -1,24 +1,24 @@
 [
   {
-    "geo": "IN",
-    "title": "aaron sorkin the social reckoning",
-    "traffic": 500,
-    "pubDate": "Thu, 8 Oct 2026 15:20:00 -0700",
+    "geo": "US",
+    "title": "vaccinations",
+    "traffic": 2000,
+    "pubDate": "Fri, 9 Oct 2026 01:50:00 -0700",
     "news": [
       {
-        "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-        "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
-        "source": "The Guardian"
+        "title": "What vaccines doctors say you may need for respiratory virus season",
+        "url": "https://abcnews.com/Health/vaccines-doctors-respiratory-virus-season/story?id=137002349",
+        "source": "ABC News - Breaking News, Latest News and Videos"
       },
       {
-        "title": "The Interface | Facebook whistleblower Frances Haugen on the real Social Reckoning.",
-        "url": "https://www.bbc.com/audio/play/m00335kk",
-        "source": "BBC"
+        "title": "Flu season didn’t start when or where it was expected. Get your shot now, health officials say",
+        "url": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+        "source": "Los Angeles Times"
       },
       {
-        "title": "Why Mark Zuckerberg Is a Mere Supporting Character in the New Facebook Movie",
-        "url": "https://www.wsj.com/arts-culture/film/the-social-reckoning-mark-zuckerberg-jeremy-strong-meta-72c016dd",
-        "source": "WSJ"
+        "title": "An early flu season means it might be time to think about a flu shot",
+        "url": "https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine",
+        "source": "NPR"
       }
     ]
   }
