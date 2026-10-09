@@ -1,24 +1,24 @@
 [
   {
-    "geo": "US",
-    "title": "ted lasso - season 4",
-    "traffic": 1000,
-    "pubDate": "Fri, 9 Oct 2026 10:00:00 -0700",
+    "geo": "IN",
+    "title": "carrie 2026",
+    "traffic": 200,
+    "pubDate": "Fri, 9 Oct 2026 12:50:00 -0700",
     "news": [
       {
-        "title": "‘Ted Lasso’ Season 4, Episode 10 Recap: Wrapping Up",
-        "url": "https://www.nytimes.com/2026/10/07/arts/television/ted-lasso-season-finale-recap.html",
-        "source": "The New York Times"
+        "title": "Mike Flanagan interview: ‘Carrie and Chris might have been friends’",
+        "url": "https://www.thehindu.com/entertainment/movies/mike-flanagan-interview-carrie-series-prime-video/article71556400.ece",
+        "source": "The Hindu"
       },
       {
-        "title": "'Ted Lasso' Co-Creator & Star Brendan Hunt Explains Season 4 Ending",
-        "url": "https://deadline.com/2026/10/ted-lasso-season-4-ending-explained-brendan-hunt-1237149060/",
-        "source": "Deadline"
+        "title": "‘Carrie’ Review: A Horror Classic’s New Blood on Prime Video",
+        "url": "https://www.wsj.com/arts-culture/television/carrie-review-a-horror-classics-new-blood-on-prime-video-4010e836",
+        "source": "WSJ"
       },
       {
-        "title": "How Jason Sudeikis and 'Ted Lasso' became champions for women's soccer",
-        "url": "https://www.espn.com/soccer/story/_/id/50112795/ted-lasso-season-4-women-soccer",
-        "source": "ESPN"
+        "title": "Mike Flanagan on reuniting with Stephen King for 'Carrie'; calls author his childhood hero; says he was n",
+        "url": "https://timesofindia.indiatimes.com/web-series/news/english/mike-flanagan-on-reuniting-with-stephen-king-for-carrie-calls-author-his-childhood-hero-says-he-was-nervous-about-making-major-changes/articleshow/134804051.cms",
+        "source": "The Times of India"
       }
     ]
   }
