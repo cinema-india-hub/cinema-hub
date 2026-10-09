@@ -1,24 +1,24 @@
 [
   {
-    "geo": "US",
-    "title": "ridley scott",
+    "geo": "IN",
+    "title": "aaron sorkin the social reckoning",
     "traffic": 500,
-    "pubDate": "Thu, 8 Oct 2026 12:10:00 -0700",
+    "pubDate": "Thu, 8 Oct 2026 15:20:00 -0700",
     "news": [
       {
-        "title": "Ridley Scott's Hit New Series Quietly Cancelled After 1 Season",
-        "url": "https://collider.com/ridley-scott-series-cancelled-dope-thief/",
-        "source": "Collider"
+        "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
+        "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
+        "source": "The Guardian"
       },
       {
-        "title": "Ridley Scott’s Divisive $460M Historical Epic Is Officially Getting New Life on Netflix",
-        "url": "https://www.imdb.com/news/ni66051330/?ref_=ttnw_art_perm",
-        "source": "IMDb"
+        "title": "The Interface | Facebook whistleblower Frances Haugen on the real Social Reckoning.",
+        "url": "https://www.bbc.com/audio/play/m00335kk",
+        "source": "BBC"
       },
       {
-        "title": "Russell Crowe's 2000 Classic, Ranked Among the 'Greatest Movies of All Time,' Is Coming to Netflix This Month",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/russell-crowes-2000-classic-ranked-144754548.html",
-        "source": "Yahoo"
+        "title": "Why Mark Zuckerberg Is a Mere Supporting Character in the New Facebook Movie",
+        "url": "https://www.wsj.com/arts-culture/film/the-social-reckoning-mark-zuckerberg-jeremy-strong-meta-72c016dd",
+        "source": "WSJ"
       }
     ]
   }
