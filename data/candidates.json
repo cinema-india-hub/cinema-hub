@@ -1,24 +1,24 @@
 [
   {
     "geo": "US",
-    "title": "vaccinations",
-    "traffic": 2000,
-    "pubDate": "Fri, 9 Oct 2026 01:50:00 -0700",
+    "title": "ted lasso - season 4",
+    "traffic": 1000,
+    "pubDate": "Fri, 9 Oct 2026 10:00:00 -0700",
     "news": [
       {
-        "title": "What vaccines doctors say you may need for respiratory virus season",
-        "url": "https://abcnews.com/Health/vaccines-doctors-respiratory-virus-season/story?id=137002349",
-        "source": "ABC News - Breaking News, Latest News and Videos"
+        "title": "‘Ted Lasso’ Season 4, Episode 10 Recap: Wrapping Up",
+        "url": "https://www.nytimes.com/2026/10/07/arts/television/ted-lasso-season-finale-recap.html",
+        "source": "The New York Times"
       },
       {
-        "title": "Flu season didn’t start when or where it was expected. Get your shot now, health officials say",
-        "url": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
-        "source": "Los Angeles Times"
+        "title": "'Ted Lasso' Co-Creator & Star Brendan Hunt Explains Season 4 Ending",
+        "url": "https://deadline.com/2026/10/ted-lasso-season-4-ending-explained-brendan-hunt-1237149060/",
+        "source": "Deadline"
       },
       {
-        "title": "An early flu season means it might be time to think about a flu shot",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine",
-        "source": "NPR"
+        "title": "How Jason Sudeikis and 'Ted Lasso' became champions for women's soccer",
+        "url": "https://www.espn.com/soccer/story/_/id/50112795/ted-lasso-season-4-women-soccer",
+        "source": "ESPN"
       }
     ]
   }
