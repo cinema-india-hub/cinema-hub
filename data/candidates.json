@@ -1,24 +1,47 @@
 [
   {
     "geo": "US",
-    "title": "amanda seyfried",
-    "traffic": 200,
-    "pubDate": "Fri, 9 Oct 2026 19:10:00 -0700",
+    "title": "mirra andreeva",
+    "traffic": 500,
+    "pubDate": "Sat, 10 Oct 2026 00:30:00 -0700",
     "news": [
       {
-        "title": "Amanda Seyfried Calls Her Friendship with Ex Dominic Cooper ‘Familial’ 18 Years After First Mamma Mia! (Exclusive)",
-        "url": "https://people.com/amanda-seyfried-talks-friendship-with-dominic-cooper-18-years-after-mamma-mia-exclusive-12164518",
-        "source": "People.com"
+        "title": "Andreeva beats Bartunkova in straight sets to reach Beijing final",
+        "url": "https://www.wtatennis.com/videos/4589882/andreeva-beats-bartunkova-in-straight-sets-to-reach-beijing-final",
+        "source": "WTA Tennis"
       },
       {
-        "title": "Mamma Mia 3 Movie Gets Positive Update That’ll Please Fans Who Have Been Waiting Years for Sequel",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/mamma-mia-3-movie-gets-221545920.html",
-        "source": "Yahoo"
+        "title": "Andreeva, Bartunkova reach China Open semis with straight-set wins",
+        "url": "https://www.espn.com/tennis/story/_/id/50133019/andreeva-bartunkova-reach-china-open-semis-straight-set-wins",
+        "source": "ESPN"
       },
       {
-        "title": "Amanda Seyfried Reunites With Ex Dominic Cooper Amid Split With Husband Thomas Sadoski",
-        "url": "https://www.instyle.com/amanda-seyfried-reunites-ex-dominic-cooper-amid-split-thomas-sadoski-12164980",
-        "source": "InStyle"
+        "title": "How to watch the women’s China Open: Streaming options for the Semifinal",
+        "url": "https://www.nytimes.com/athletic/7676184/2026/10/09/womens-china-open-stream-how-to-watch-october-10/",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "grand theft auto",
+    "traffic": 200,
+    "pubDate": "Sat, 10 Oct 2026 00:10:00 -0700",
+    "news": [
+      {
+        "title": "Nintendo of America Chief Breaks Down Her First Year: ‘Zelda’ Live-Action Movie, ‘GTA 6,’ Third-Party Game Goals and More",
+        "url": "https://variety.com/2026/gaming/news/legend-of-zelda-movie-gta-6-nintendo-devon-pritchard-interview-1236906466/",
+        "source": "Variety"
+      },
+      {
+        "title": "Nintendo wants to ensure Switch 2 provides a diversity of content for \"ages 5 to 95\"",
+        "url": "https://gonintendo.com/contents/65938-nintendo-wants-to-ensure-switch-2-provides-a-diversity-of-content-for-ages-5-to-95",
+        "source": "GoNintendo"
+      },
+      {
+        "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
+        "url": "https://www.ign.com/articles/gta-6-switch-2-nintendo-president",
+        "source": "IGN"
       }
     ]
   }
