@@ -1,47 +1,24 @@
 [
   {
     "geo": "US",
-    "title": "quinyon mitchell",
-    "traffic": 2000,
-    "pubDate": "Sun, 11 Oct 2026 09:00:00 -0700",
+    "title": "trent williams",
+    "traffic": 1000,
+    "pubDate": "Sun, 11 Oct 2026 13:50:00 -0700",
     "news": [
       {
-        "title": "Quinyon Mitchell's first career regular-season interception comes against Lawrence in London",
-        "url": "https://www.nfl.com/videos/quinyon-mitchell-s-first-career-regular-season-interception-comes-against-lawrence-in-london",
-        "source": "NFL.com"
+        "title": "49ers Announce Roster Moves Ahead of #SFvsSEA",
+        "url": "https://www.49ers.com/news/49ers-announce-roster-moves-ahead-of-sfvssea",
+        "source": "San Francisco 49ers"
       },
       {
-        "title": "Quinyon Mitchell logs his first regular-season interception vs. Jaguars",
-        "url": "https://sports.yahoo.com/articles/quinyon-mitchell-logs-first-regular-161245457.html",
-        "source": "Yahoo Sports"
+        "title": "49ers DE Mykel Williams to make season debut vs. Seahawks",
+        "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks",
+        "source": "ESPN"
       },
       {
-        "title": "Eagles vs. Jaguars: Three must-know storylines for NFL Week 5 London game",
-        "url": "https://www.nfl.com/news/eagles-vs-jaguars-preview-week-5-london-game",
-        "source": "NFL.com"
-      }
-    ]
-  },
-  {
-    "geo": "IN",
-    "title": "dr stone",
-    "traffic": 200,
-    "pubDate": "Sun, 11 Oct 2026 09:30:00 -0700",
-    "news": [
-      {
-        "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
-        "url": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
-        "source": "Anime News Network"
-      },
-      {
-        "title": "Dr. Stone Creators Admit Finale Was a \"Lie\" - Anime to Get a Sequel",
-        "url": "https://ixbt.games/en/news/2026/10/11/sozdateli-doktora-stouna-priznalis-cto-final-byl-loziu-anime-polucit-prodolzenie.html",
-        "source": "iXBT.games"
-      },
-      {
-        "title": "Shonen Jump’s Smartest Anime to Return With New Sequel – Watch First Look Trailer",
-        "url": "https://comicbook.com/anime/news/shonen-jumps-smartest-anime-to-return-with-new-sequel-watch-first-look-trailer/",
-        "source": "ComicBook.com"
+        "title": "49ers inactive list: Ephesians Prysock will make his NFL debut",
+        "url": "https://www.ninersnation.com/san-francisco-49ers-injuries/164109/49ers-inactive-list-ephesians-prysock-will-make-his-nfl-debut",
+        "source": "Niners Nation"
       }
     ]
   }
