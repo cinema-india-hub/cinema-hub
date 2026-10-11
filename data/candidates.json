@@ -1,24 +1,47 @@
 [
   {
-    "geo": "US",
-    "title": "yaxel lendeborg",
-    "traffic": 1000,
-    "pubDate": "Sat, 10 Oct 2026 19:00:00 -0700",
+    "geo": "IN",
+    "title": "ranji",
+    "traffic": 200,
+    "pubDate": "Sun, 11 Oct 2026 01:20:00 -0700",
     "news": [
       {
-        "title": "The Warriors need Yaxel Lendeborg's fast-tracked development",
-        "url": "https://www.espn.com/nba/story/_/id/50125703/warriors-yaxel-lendeborg-training-camp-preseason-debut",
-        "source": "ESPN"
+        "title": "Arunachal set to miss Ranji, CK Nayudu Trophy openers amid administrative crisis",
+        "url": "https://www.cricbuzz.com/cricket-news/140465/arunachal-set-to-miss-ranji-ck-nayudu-trophy-openers-amid-administrative-crisis-cricbuzzcom",
+        "source": "Cricbuzz"
       },
       {
-        "title": "What Bruce Jenkins is watching in new NBA season starts with Warriors’ Yaxel Lendeborg",
-        "url": "https://www.sfchronicle.com/sports/jenkins/article/yaxel-lendeborg-warriors-nba-22469275.php",
-        "source": "San Francisco Chronicle"
+        "title": "Factionalism leaves Arunachal in danger of forfeiting Ranji season opener",
+        "url": "https://www.cricinfo.com/story/ranji-trophy-factionalism-leaves-arunachal-pradesh-in-danger-of-forfeiting-season-opener-against-nagaland-1557679",
+        "source": "Cricinfo"
       },
       {
-        "title": "Pacific Notes: Lendeborg, Podziemski, Bridges, Hachimura",
-        "url": "https://www.hoopsrumors.com/2026/10/pacific-notes-lendeborg-podziemski-bridges-hachimura.html",
-        "source": "Hoops Rumors"
+        "title": "Ranji Trophy: Arunachal Pradesh forfeit opener against Nagaland amid association crisis",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-arunachal-pradesh-forfeit-opener-against-nagaland-amid-association-crisis/articleshow/134866530.cms",
+        "source": "The Times of India"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "jakub mensik",
+    "traffic": 200,
+    "pubDate": "Sun, 11 Oct 2026 01:40:00 -0700",
+    "news": [
+      {
+        "title": "How to watch the men’s Rolex Shanghai Masters: Streaming options for the Round of 32",
+        "url": "https://www.nytimes.com/athletic/7678345/2026/10/10/mens-rolex-shanghai-masters-stream-how-to-watch-october-11/",
+        "source": "The New York Times"
+      },
+      {
+        "title": "ATP Shanghai Day 5 Predictions Including Francisco Cerundolo vs Jakub Mensik",
+        "url": "https://lastwordonsports.com/tennis/2026/10/10/atp-shanghai-day-5-predictions-cerundolo-vs-mensik/",
+        "source": "Last Word On Sports"
+      },
+      {
+        "title": "Cerundolo vs. Mensik Prediction at the Rolex Shanghai Masters – Sunday, October 11",
+        "url": "https://www.bleachernation.com/picks/2026/10/09/cerundolo-vs-mensik-prediction-at-the-rolex-shanghai-masters-sunday-october-11/",
+        "source": "Bleacher Nation"
       }
     ]
   }
