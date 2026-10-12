@@ -1,24 +1,47 @@
 [
   {
-    "geo": "IN",
-    "title": "south africa champions",
-    "traffic": 200,
-    "pubDate": "Sun, 11 Oct 2026 19:30:00 -0700",
+    "geo": "US",
+    "title": "sunday night football score",
+    "traffic": 50000,
+    "pubDate": "Mon, 12 Oct 2026 02:10:00 -0700",
     "news": [
       {
-        "title": "SACH 198/6 (18.5) vs INDCH 196/8 (Hardus Viljoen 9(4) Wayne Parnell 12(8)) | India Champions vs South Africa Champions, 11th Match, World Championship of Legends 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, new",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/175010/indch-vs-sach-11th-match-world-championship-of-legends-2026",
-        "source": "Cricbuzz"
+        "title": "2026 NFL season, Week 5: What We Learned from Sunday's games",
+        "url": "https://www.nfl.com/news/2026-nfl-season-week-5-what-we-learned-from-sunday-s-games",
+        "source": "NFL.com"
       },
       {
-        "title": "India Champions vs South Africa Champions Live Streaming: When And Where To Watch WCL 2026 Match",
-        "url": "https://sports.ndtv.com/cricket/india-champions-vs-south-africa-champions-live-streaming-when-and-where-to-watch-wcl-2026-match-12169927",
-        "source": "NDTV Sports"
+        "title": "NFL Week 5: Big takeaways, questions and fantasy spin from Sunday's games",
+        "url": "https://www.espn.com/nfl/story/_/id/50127290/week-5-sunday-games-takeaways-questions-2026",
+        "source": "ESPN"
       },
       {
-        "title": "WCL 2026: JP Duminy, bowlers star as South Africa Champions beat India to maintain unbeaten run",
-        "url": "https://www.livemint.com/sports/cricket-news/wcl-2026-jp-duminy-bowlers-star-as-south-africa-champions-beat-india-to-maintain-unbeaten-run-11791681589553.html",
-        "source": "Livemint"
+        "title": "NFL Week 5 grades for every team: Patriots, Packers earn 'A+' while two teams get failing marks",
+        "url": "https://www.cbssports.com/nfl/news/nfl-week-5-grades-for-every-team-patriots-packers-bears/",
+        "source": "CBS Sports"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "shane gillis snl monologue",
+    "traffic": 1000,
+    "pubDate": "Mon, 12 Oct 2026 02:20:00 -0700",
+    "news": [
+      {
+        "title": "Shane Gillis Bombs ‘SNL’ Monologue (Again): ‘You’re Either Gay or You’re Hitler’",
+        "url": "https://variety.com/2026/tv/news/snl-shane-gillis-bombs-monologue-again-hitler-misogyny-1236907937/",
+        "source": "Variety"
+      },
+      {
+        "title": "Shane Gillis apologizes for dropping F-bomb on SNL – but that’s not why he’s facing backlash",
+        "url": "https://www.the-independent.com/arts-entertainment/tv/news/snl-shane-gillis-f-word-backlash-b3065002.html",
+        "source": "The Independent"
+      },
+      {
+        "title": "‘Saturday Night Live’ season 52 recap: Shane Gillis drops F-bomb in Dr. Seuss sketch",
+        "url": "https://ew.com/snl-recap-season-52-shane-gillis-returns-to-host-for-third-time-12165026",
+        "source": "Entertainment Weekly"
       }
     ]
   }
