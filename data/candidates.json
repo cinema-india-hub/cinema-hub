@@ -1,47 +1,14 @@
 [
   {
     "geo": "US",
-    "title": "sunday night football score",
-    "traffic": 50000,
-    "pubDate": "Mon, 12 Oct 2026 02:10:00 -0700",
+    "title": "salma hayek",
+    "traffic": 200,
+    "pubDate": "Mon, 12 Oct 2026 13:10:00 -0700",
     "news": [
       {
-        "title": "2026 NFL season, Week 5: What We Learned from Sunday's games",
-        "url": "https://www.nfl.com/news/2026-nfl-season-week-5-what-we-learned-from-sunday-s-games",
-        "source": "NFL.com"
-      },
-      {
-        "title": "NFL Week 5: Big takeaways, questions and fantasy spin from Sunday's games",
-        "url": "https://www.espn.com/nfl/story/_/id/50127290/week-5-sunday-games-takeaways-questions-2026",
-        "source": "ESPN"
-      },
-      {
-        "title": "NFL Week 5 grades for every team: Patriots, Packers earn 'A+' while two teams get failing marks",
-        "url": "https://www.cbssports.com/nfl/news/nfl-week-5-grades-for-every-team-patriots-packers-bears/",
-        "source": "CBS Sports"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "shane gillis snl monologue",
-    "traffic": 1000,
-    "pubDate": "Mon, 12 Oct 2026 02:20:00 -0700",
-    "news": [
-      {
-        "title": "Shane Gillis Bombs ‘SNL’ Monologue (Again): ‘You’re Either Gay or You’re Hitler’",
-        "url": "https://variety.com/2026/tv/news/snl-shane-gillis-bombs-monologue-again-hitler-misogyny-1236907937/",
-        "source": "Variety"
-      },
-      {
-        "title": "Shane Gillis apologizes for dropping F-bomb on SNL – but that’s not why he’s facing backlash",
-        "url": "https://www.the-independent.com/arts-entertainment/tv/news/snl-shane-gillis-f-word-backlash-b3065002.html",
-        "source": "The Independent"
-      },
-      {
-        "title": "‘Saturday Night Live’ season 52 recap: Shane Gillis drops F-bomb in Dr. Seuss sketch",
-        "url": "https://ew.com/snl-recap-season-52-shane-gillis-returns-to-host-for-third-time-12165026",
-        "source": "Entertainment Weekly"
+        "title": "1996 Film, a Salma Hayek Classic, Named One of the Greatest Western Horror Movies of All Time",
+        "url": "https://www.mensjournal.com/news/1996-film-a-salma-hayek-classic-named-one-of-the-greatest-western-horror-movies-of-all-time",
+        "source": "Men's Journal"
       }
     ]
   }
