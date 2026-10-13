@@ -1,14 +1,47 @@
 [
   {
     "geo": "US",
-    "title": "salma hayek",
-    "traffic": 200,
-    "pubDate": "Mon, 12 Oct 2026 13:10:00 -0700",
+    "title": "linda blair",
+    "traffic": 2000,
+    "pubDate": "Mon, 12 Oct 2026 18:40:00 -0700",
     "news": [
       {
-        "title": "1996 Film, a Salma Hayek Classic, Named One of the Greatest Western Horror Movies of All Time",
-        "url": "https://www.mensjournal.com/news/1996-film-a-salma-hayek-classic-named-one-of-the-greatest-western-horror-movies-of-all-time",
-        "source": "Men's Journal"
+        "title": "Remember Linda Blair From The Exorcist? Here's What She Looks Like Now",
+        "url": "https://www.yahoo.com/entertainment/videos/remember-linda-blair-exorcist-heres-130000279.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "‘The Exorcist: Martyrs’ Trailer May Be Hiding a Huge ‘Exorcist III’ Connection",
+        "url": "https://www.imdb.com/news/ni66056376/?ref_=tt_nwr_1",
+        "source": "IMDb"
+      },
+      {
+        "title": "‘The Exorcist: Martyrs’ Trailer Radically Reboots Franchise With Scarlett Johansson",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/exorcist-martyrs-trailer-scarlett-johansson-1236724774/",
+        "source": "The Hollywood Reporter"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "street fighter 2026",
+    "traffic": 500,
+    "pubDate": "Mon, 12 Oct 2026 19:00:00 -0700",
+    "news": [
+      {
+        "title": "Street Fighter movie stunt coordinator researched \"every character\" to ensure each fight had their \"signature styles\"",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/street-fighter-movie-stunt-coordinator-110000950.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Noah Centineo Praises 'Street Fighter' Stunt Coordinator",
+        "url": "https://deadline.com/2026/10/noah-centineo-street-fighter-stunt-coordinator-fighting-style-1237154431/",
+        "source": "Deadline"
+      },
+      {
+        "title": "Round One, Fight! The Street Fighter Cast Choose Their Fighters & reveal who would win",
+        "url": "https://www.heyuguys.com/street-fighter-cast-interviews/",
+        "source": "HeyUGuys"
       }
     ]
   }
