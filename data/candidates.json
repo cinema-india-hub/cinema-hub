@@ -1,24 +1,93 @@
 [
   {
     "geo": "US",
-    "title": "inter vs club brugge",
-    "traffic": 500,
-    "pubDate": "Tue, 13 Oct 2026 11:10:00 -0700",
+    "title": "wild vs jets",
+    "traffic": 2000,
+    "pubDate": "Tue, 13 Oct 2026 16:20:00 -0700",
     "news": [
       {
-        "title": "Here's where to watch Inter vs. Club Brugge, including free live streaming options",
-        "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-inter-milan-vs-club-brugge-champions-league-2026-10",
-        "source": "Business Insider"
-      },
-      {
-        "title": "Inter vs Club Brugge Projected Lineup",
-        "url": "https://sempreinter.com/2026/10/13/inter-vs-club-brugge-lineup/",
-        "source": "SempreInter.com"
-      },
-      {
-        "title": "Akanji: “We want to win in front of our fans”",
-        "url": "https://sports.yahoo.com/articles/akanji-want-win-front-fans-130000828.html",
+        "title": "Nino Niederreiter Returns to Jets Lineup Tuesday, One Point Shy of 500 for His Career",
+        "url": "https://sports.yahoo.com/articles/nino-niederreiter-returns-jets-lineup-204658933.html",
         "source": "Yahoo Sports"
+      },
+      {
+        "title": "Game 6: Winnipeg Jets vs Minnesota Wild pre-game report",
+        "url": "https://illegalcurve.com/game-6-winnipeg-jets-vs-minnesota-wild-pre-game-report/",
+        "source": "Illegal Curve Hockey"
+      },
+      {
+        "title": "How to watch Wild vs. Jets: TV channel and streaming options for October 13",
+        "url": "https://www.nytimes.com/athletic/7687032/2026/10/13/wild-vs-jets-stream-how-to-watch-oct-13/",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "avalanche vs stars",
+    "traffic": 1000,
+    "pubDate": "Tue, 13 Oct 2026 16:40:00 -0700",
+    "news": [
+      {
+        "title": "Game Day Guide: Avalanche vs Stars",
+        "url": "https://www.nhl.com/stars/news/game-day-guide-colorado-avalanche-vs-dallas-stars-101326",
+        "source": "NHL.com"
+      },
+      {
+        "title": "Preview: Avs and Stars prepare for their first showdown of the 2026-27 season",
+        "url": "https://www.milehighhockey.com/colorado-avalanche-game-coverage/66920/preview-avs-and-stars-set-for-their-first-showdown-of-the-2026-27-season",
+        "source": "Mile High Hockey"
+      },
+      {
+        "title": "Avalanche vs Stars Prediction, Picks & Combo for Tonight’s NHL Game",
+        "url": "https://www.covers.com/nhl/avalanche-vs-stars-prediction-picks-oct-13-2026",
+        "source": "Covers.com"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "mike tyson",
+    "traffic": 1000,
+    "pubDate": "Tue, 13 Oct 2026 16:40:00 -0700",
+    "news": [
+      {
+        "title": "Tyson review – deeply icky … and that’s before Trump shows up",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/13/mike-tyson-review-boxing-superstar-trump-president",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Netflix’s grimly compelling Tyson offers an anatomy of a profoundly damaged man",
+        "url": "https://www.telegraph.co.uk/tv/0/tyson-netflix-review/",
+        "source": "The Telegraph"
+      },
+      {
+        "title": "‘Tyson’ Review: Netflix’s Docuseries Tells Mike Tyson’s Story as Only Mike Tyson Could, and Already Has Several Times",
+        "url": "https://www.hollywoodreporter.com/tv/tv-reviews/tyson-review-netflix-mike-tyson-documentary-1236728369/",
+        "source": "The Hollywood Reporter"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "kawhi leonard",
+    "traffic": 500,
+    "pubDate": "Tue, 13 Oct 2026 16:40:00 -0700",
+    "news": [
+      {
+        "title": "'Very special day': Kawhi Leonard receives warm welcome during Raptors' re-debut in pre-season",
+        "url": "https://www.cbc.ca/sports/basketball/nba/kawhi-leonard-raptors-return-preseason-9.7379697",
+        "source": "CBC"
+      },
+      {
+        "title": "Toronto Raptors Announce Good Kawhi Leonard News Ahead of Knicks Preseason Game",
+        "url": "https://sports.yahoo.com/articles/toronto-raptors-announce-good-kawhi-211831281.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Eastern Notes: Kawhi, Hezonja, Watson, Haliburton, Hornets",
+        "url": "https://www.hoopsrumors.com/2026/10/eastern-notes-kawhi-hezonja-watson-haliburton-hornets.html",
+        "source": "Hoops Rumors"
       }
     ]
   }
