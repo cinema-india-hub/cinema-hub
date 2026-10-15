@@ -1,24 +1,47 @@
 [
   {
-    "geo": "US",
-    "title": "emayatzy corinealdi",
-    "traffic": 200,
-    "pubDate": "Thu, 15 Oct 2026 05:40:00 -0700",
+    "geo": "IN",
+    "title": "alphadjo cisse",
+    "traffic": 1000,
+    "pubDate": "Thu, 15 Oct 2026 10:20:00 -0700",
     "news": [
       {
-        "title": "What’s Next For Jax & The Stewart Firm In Reasonable Doubt Season 4?",
-        "url": "https://www.disneyplus.com/en-sg/explore/articles/reasonable-doubt-season-4",
-        "source": "Disney Plus"
+        "title": "Ligue Europa : Alphadjo Cissé signe un triplé !",
+        "url": "https://africatopsports.com/football/ligue-europa-alphadjo-cisse-signe-un-triple/",
+        "source": "Africa Top Sports"
       },
       {
-        "title": "Video Emayatzy Corinealdi dishes on 'Reasonable Doubt'",
-        "url": "https://abcnews.com/video/137285904/",
-        "source": "ABC News - Breaking News, Latest News and Videos"
+        "title": "Salzbourg-AC Milan : Cissé met les Rossoneri devant à la pause",
+        "url": "https://africafootunited.com/salzbourg-ac-milan-cisse-met-les-rossoneri-devant-a-la-pause/",
+        "source": "AfricaFootUnited"
       },
       {
-        "title": "Reasonable Doubt Season 4 Episode 4 Recap And Ending Explained",
-        "url": "https://www.imdb.com/news/ni66062796/?ref_=ttnw_art_perm",
-        "source": "IMDb"
+        "title": "Football | Salzbourg - Milan : Chaîne, streaming, où voir le match et à quelle heure en France ?",
+        "url": "https://www.mediasportif.fr/2026/10/15/football-salzbourg-milan-chaine-streaming-ou-voir-le-match-et-a-quelle-heure-en-france/",
+        "source": "Mediasportif"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "uel",
+    "traffic": 200,
+    "pubDate": "Thu, 15 Oct 2026 10:30:00 -0700",
+    "news": [
+      {
+        "title": "NWSL End-of-Season Predictions: The Opta Supercomputer Projections",
+        "url": "https://theanalyst.com/articles/nwsl-end-of-season-predictions-2026-opta-supercomputer",
+        "source": "Opta Analyst"
+      },
+      {
+        "title": "Rifinitura Juventus alla vigilia della sfida col Celta",
+        "url": "https://onefootball.com/en/video/rifinitura-juventus-alla-vigilia-della-sfida-col-celta-43617348",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Spalletti and Conceicao speak ahead of Celta Vigo-Juventus",
+        "url": "https://www.juventus.com/en/news/articles/spalletti-and-conceicao-speak-ahead-of-celta-vigo-juventus-15-10-26",
+        "source": "Juventus.com"
       }
     ]
   }
