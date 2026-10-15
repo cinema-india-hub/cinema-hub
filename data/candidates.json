@@ -1,24 +1,24 @@
 [
   {
     "geo": "US",
-    "title": "chicago fire",
-    "traffic": 2000,
-    "pubDate": "Wed, 14 Oct 2026 18:40:00 -0700",
+    "title": "rachel weisz",
+    "traffic": 1000,
+    "pubDate": "Thu, 15 Oct 2026 00:10:00 -0700",
     "news": [
       {
-        "title": "Chicago Fire Season 15: Severide Faces Pressure as New Probies Cause Tension",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/chicago-fire-season-15-severide-152535417.html",
+        "title": "Brendan Fraser and Rachel Weisz Reunite on Set of New The Mummy 27 Years After Original Movie",
+        "url": "https://people.com/brendan-fraser-rachel-weisz-reunite-on-set-of-new-the-mummy-movie-12173205",
+        "source": "People.com"
+      },
+      {
+        "title": "The Mummy 4 Set Photos Offer First Look at Brendan Fraser & Rachel Weisz Reunion",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/mummy-4-set-photos-offer-164634759.html",
         "source": "Yahoo"
       },
       {
-        "title": "Chicago Fire offers first-look photos from “Rattle the Cage”",
-        "url": "https://reelchicago.com/article/chicago-fire-offers-first-look-photos-from-rattle-the-cage/",
-        "source": "Reel Chicago"
-      },
-      {
-        "title": "All of the Chicago Fire cast departures set up by the season 15 premiere",
-        "url": "https://onechicagocenter.com/chicago-fire-cast-departures-set-up-by-season-15-premiere",
-        "source": "One Chicago Center"
+        "title": "Brendan Fraser and Rachel Weisz reunite on ‘Mummy 4’ set after 25 years",
+        "url": "https://pagesix.com/2026/10/14/entertainment/brendan-fraser-and-rachel-weisz-reunite-on-mummy-4-set-after-25-years/",
+        "source": "Page Six"
       }
     ]
   }
