@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "bradley whitford",
+    "traffic": 1000,
+    "pubDate": "Fri, 16 Oct 2026 06:20:00 -0700",
+    "news": [
+      {
+        "title": "'The Diplomat’s Bradley Whitford Teases Todd’s \"Excruciating\" Decision in Season 5",
+        "url": "https://collider.com/the-diplomat-netflix-bradley-whitford-season-5-tease/",
+        "source": "Collider"
+      },
+      {
+        "title": "Watch: Aaron Sorkin, Bradley Whitford, and the Cast of A Few Good Men Talk New Broadway Revival",
+        "url": "https://www.theatermania.com/news/watch-aaron-sorkin-bradley-whitford-and-the-cast-of-a-few-good-men-talk-new-broadway-revival_1857133/",
+        "source": "TheaterMania"
+      },
+      {
+        "title": "Tom Blyth Is Your All-American British Boy",
+        "url": "https://www.vulture.com/article/tom-blyth-a-few-good-men-aaron-sorkin-james-bond.html",
+        "source": "Vulture"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "ryan gosling star wars: starfighter",
+    "traffic": 1000,
+    "pubDate": "Fri, 16 Oct 2026 05:30:00 -0700",
+    "news": [
+      {
+        "title": "Ryan Gosling's Star Wars Starfighter Trailer Breaks a 49-Year-Old Franchise Tradition",
+        "url": "https://thedirect.com/article/star-wars-starfighter-trailer-franchise-ryan-gosling",
+        "source": "The Direct"
+      },
+      {
+        "title": "Star Wars Starfighter Sets a New Speed Record for the Franchise",
+        "url": "https://suaragarut.id/en/starfighter-breaks-star-wars-speed-record",
+        "source": "SuaraGarut.ID"
+      },
+      {
+        "title": "It's the End of An Era for Star Wars Movies After 50 Years",
+        "url": "https://www.cbr.com/star-wars-starfighter-end-of-skywalker-era/",
+        "source": "Comic Book Resources"
+      }
+    ]
+  }
+]
