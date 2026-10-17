@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "grand theft auto vi",
+    "traffic": 2000,
+    "pubDate": "Sat, 17 Oct 2026 12:50:00 -0700",
+    "news": [
+      {
+        "title": "Grand Theft Auto VI Launch Trailer",
+        "url": "https://www.rockstargames.com/VI/launch-trailer",
+        "source": "Rockstar Games"
+      },
+      {
+        "title": "GTA 6 Launch Trailer Analysis: Has a Long-Standing Tech Issue Been Fixed?",
+        "url": "https://www.digitalfoundry.net/features/gta-6-launch-trailer-analysis-has-a-long-standing-tech-issue-been-fixed",
+        "source": "Digital Foundry"
+      },
+      {
+        "title": "GTA 6 PS5 Features Revealed by PlayStation Ahead of Launch",
+        "url": "https://www.vice.com/en/article/gta-6-ps5-features-ps5-pro-enhanced/",
+        "source": "VICE"
+      }
+    ]
+  }
+]
