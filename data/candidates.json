@@ -1,70 +1,24 @@
 [
   {
-    "geo": "US",
-    "title": "penguins vs golden knights",
-    "traffic": 1000,
-    "pubDate": "Sat, 17 Oct 2026 18:10:00 -0700",
-    "news": [
-      {
-        "title": "Game Preview: 10.17.26 at Vegas Golden Knights",
-        "url": "https://www.nhl.com/penguins/news/game-preview-10-17-26-at-vegas-golden-knights",
-        "source": "NHL.com"
-      },
-      {
-        "title": "Penguins Game 9, Ready to Bust: Lines, Goalies, & How to Watch vs. VGK",
-        "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-game-9-ready-to-bust-lines-goalies-how-to-watch-vs-vgk/",
-        "source": "Pittsburgh Hockey Now"
-      },
-      {
-        "title": "How to watch Penguins vs. Golden Knights: TV channel and streaming options for October 17",
-        "url": "https://www.nytimes.com/athletic/7699174/2026/10/17/penguins-vs-golden-knights-stream-how-to-watch-oct-17/",
-        "source": "The New York Times"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "oilers vs mammoth",
+    "geo": "IN",
+    "title": "spirit",
     "traffic": 200,
-    "pubDate": "Sat, 17 Oct 2026 18:10:00 -0700",
+    "pubDate": "Sun, 18 Oct 2026 00:10:00 -0700",
     "news": [
       {
-        "title": "Keller scores two, Mammoth hand Oilers first regulation loss of season",
-        "url": "https://www.nhl.com/news/utah-mammoth-edmonton-oilers-game-recap-october-15-2026",
-        "source": "NHL.com"
+        "title": "Spirit new release date out: Prabhas' film with Sandeep Reddy Vanga to clash with Ranbir Kapoor's Ramayana Part 2 in 2027 | Hindustan Times",
+        "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/spirit-new-release-date-out-prabhas-triptii-film-sandeep-reddy-vanga-clash-ranbir-kapoor-yash-sai-pallavi-ramayana-part-2-diwali-2027-101792305019631.html",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Mammoth 4-2 Oilers (Oct 15, 2026) Game Recap",
-        "url": "https://www.espn.com/nhl/recap/_/gameId/401892515",
-        "source": "ESPN"
+        "title": "Prabhas, Sandeep Vanga’s Spirit to blast worldwide next Diwali!",
+        "url": "https://www.telugu360.com/prabhas-sandeep-vangas-spirit-to-blast-worldwide-next-diwali/",
+        "source": "Telugu360"
       },
       {
-        "title": "Oilers run out of gas as Utah Mammoth deliver first regulation loss of the season to Edmonton",
-        "url": "https://sports.ksl.com/nhl/utah-mammoth/utah-mammoth-shock-edmonton-oilers/578211",
-        "source": "KSL Sports"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "liam neeson",
-    "traffic": 200,
-    "pubDate": "Sat, 17 Oct 2026 18:00:00 -0700",
-    "news": [
-      {
-        "title": "Liam Neeson's Near-Perfect 117-Minute Action Thriller Is Officially Being Cut From Streaming",
-        "url": "https://screenrant.com/liam-neeson-the-grey-movie-leaving-netflix-november-2026/",
-        "source": "ScreenRant"
-      },
-      {
-        "title": "Liam Neeson’s Stunt Double of Nearly 30 Years Steps Behind the Camera for ‘The Mongoose’",
-        "url": "https://www.imdb.com/fr/news/ni66062714/?ref_=nwc_art_perm",
-        "source": "IMDb"
-      },
-      {
-        "title": "The Real Star of ‘The Mongoose’ Has 830 Horsepower",
-        "url": "https://www.autoweek.com/car-life/a74144608/the-mongoose-shelby-super-snake-film-review/",
-        "source": "Autoweek"
+        "title": "Prabhas and Sandeep Reddy Vanga’s cop action drama ‘Spirit’ to be delayed form March 2027 release: Report",
+        "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-and-sandeep-reddy-vangas-cop-action-drama-spirit-to-be-delayed-form-march-2027-release-report/articleshow/134938147.cms",
+        "source": "The Times of India"
       }
     ]
   }
