@@ -1,24 +1,70 @@
 [
   {
-    "geo": "IN",
-    "title": "grand theft auto vi",
-    "traffic": 2000,
-    "pubDate": "Sat, 17 Oct 2026 12:50:00 -0700",
+    "geo": "US",
+    "title": "penguins vs golden knights",
+    "traffic": 1000,
+    "pubDate": "Sat, 17 Oct 2026 18:10:00 -0700",
     "news": [
       {
-        "title": "Grand Theft Auto VI Launch Trailer",
-        "url": "https://www.rockstargames.com/VI/launch-trailer",
-        "source": "Rockstar Games"
+        "title": "Game Preview: 10.17.26 at Vegas Golden Knights",
+        "url": "https://www.nhl.com/penguins/news/game-preview-10-17-26-at-vegas-golden-knights",
+        "source": "NHL.com"
       },
       {
-        "title": "GTA 6 Launch Trailer Analysis: Has a Long-Standing Tech Issue Been Fixed?",
-        "url": "https://www.digitalfoundry.net/features/gta-6-launch-trailer-analysis-has-a-long-standing-tech-issue-been-fixed",
-        "source": "Digital Foundry"
+        "title": "Penguins Game 9, Ready to Bust: Lines, Goalies, & How to Watch vs. VGK",
+        "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-game-9-ready-to-bust-lines-goalies-how-to-watch-vs-vgk/",
+        "source": "Pittsburgh Hockey Now"
       },
       {
-        "title": "GTA 6 PS5 Features Revealed by PlayStation Ahead of Launch",
-        "url": "https://www.vice.com/en/article/gta-6-ps5-features-ps5-pro-enhanced/",
-        "source": "VICE"
+        "title": "How to watch Penguins vs. Golden Knights: TV channel and streaming options for October 17",
+        "url": "https://www.nytimes.com/athletic/7699174/2026/10/17/penguins-vs-golden-knights-stream-how-to-watch-oct-17/",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "oilers vs mammoth",
+    "traffic": 200,
+    "pubDate": "Sat, 17 Oct 2026 18:10:00 -0700",
+    "news": [
+      {
+        "title": "Keller scores two, Mammoth hand Oilers first regulation loss of season",
+        "url": "https://www.nhl.com/news/utah-mammoth-edmonton-oilers-game-recap-october-15-2026",
+        "source": "NHL.com"
+      },
+      {
+        "title": "Mammoth 4-2 Oilers (Oct 15, 2026) Game Recap",
+        "url": "https://www.espn.com/nhl/recap/_/gameId/401892515",
+        "source": "ESPN"
+      },
+      {
+        "title": "Oilers run out of gas as Utah Mammoth deliver first regulation loss of the season to Edmonton",
+        "url": "https://sports.ksl.com/nhl/utah-mammoth/utah-mammoth-shock-edmonton-oilers/578211",
+        "source": "KSL Sports"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "liam neeson",
+    "traffic": 200,
+    "pubDate": "Sat, 17 Oct 2026 18:00:00 -0700",
+    "news": [
+      {
+        "title": "Liam Neeson's Near-Perfect 117-Minute Action Thriller Is Officially Being Cut From Streaming",
+        "url": "https://screenrant.com/liam-neeson-the-grey-movie-leaving-netflix-november-2026/",
+        "source": "ScreenRant"
+      },
+      {
+        "title": "Liam Neeson’s Stunt Double of Nearly 30 Years Steps Behind the Camera for ‘The Mongoose’",
+        "url": "https://www.imdb.com/fr/news/ni66062714/?ref_=nwc_art_perm",
+        "source": "IMDb"
+      },
+      {
+        "title": "The Real Star of ‘The Mongoose’ Has 830 Horsepower",
+        "url": "https://www.autoweek.com/car-life/a74144608/the-mongoose-shelby-super-snake-film-review/",
+        "source": "Autoweek"
       }
     ]
   }
