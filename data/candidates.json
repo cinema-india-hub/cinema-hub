@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "jim harbaugh",
+    "traffic": 1000,
+    "pubDate": "Sun, 18 Oct 2026 15:00:00 -0700",
+    "news": [
+      {
+        "title": "I have watched every snap of Justin Herbert’s NFL career. Something is off this season",
+        "url": "https://www.nytimes.com/athletic/7693602/2026/10/16/justin-herbert-chargers-struggles-2026-season/",
+        "source": "The New York Times"
+      },
+      {
+        "title": "New NFL Rumors on Jim Harbaugh's Hot Seat and Chargers Trade Calls amid Justin Herbert, LA 0-5 Start",
+        "url": "https://bleacherreport.com/articles/25512266-new-nfl-rumors-jim-harbaughs-hot-seat-and-chargers-trade-calls-amid-justin-herbert-la-0-5-start",
+        "source": "Bleacher Report"
+      },
+      {
+        "title": "Jim Harbaugh path back to college football is blocked: Massive NCAA penalties stand in Chargers coach's way",
+        "url": "https://www.cbssports.com/college-football/news/jim-harbaugh-college-ncaa-penalties-chargers/",
+        "source": "CBS Sports"
+      }
+    ]
+  }
+]
