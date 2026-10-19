@@ -1,24 +1,93 @@
 [
   {
-    "geo": "US",
-    "title": "jim harbaugh",
+    "geo": "IN",
+    "title": "jailer 2 box office collection worldwide",
     "traffic": 1000,
-    "pubDate": "Sun, 18 Oct 2026 15:00:00 -0700",
+    "pubDate": "Sun, 18 Oct 2026 18:30:00 -0700",
     "news": [
       {
-        "title": "I have watched every snap of Justin Herbert’s NFL career. Something is off this season",
-        "url": "https://www.nytimes.com/athletic/7693602/2026/10/16/justin-herbert-chargers-struggles-2026-season/",
-        "source": "The New York Times"
+        "title": "'Jailer 2' box office collection day 4: Rajinikanth, Mohanlal, Nelson Dilipkumar film sees Sunday jump; e",
+        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-4-rajinikanth-mohanlal-nelson-dilipkumar-film-sees-sunday-jump-earns-rs-55-85-cr-in-india-worldwide-gross-hits-rs-424-25-cr/articleshow/135037059.cms",
+        "source": "The Times of India"
       },
       {
-        "title": "New NFL Rumors on Jim Harbaugh's Hot Seat and Chargers Trade Calls amid Justin Herbert, LA 0-5 Start",
-        "url": "https://bleacherreport.com/articles/25512266-new-nfl-rumors-jim-harbaughs-hot-seat-and-chargers-trade-calls-amid-justin-herbert-la-0-5-start",
-        "source": "Bleacher Report"
+        "title": "Rajinikanth-starrer ‘Jailer 2’ hits Rs 300-crore milestone worldwide on Day 3",
+        "url": "https://www.telegraphindia.com/entertainment/rajinikanth-starrer-jailer-2-hits-rs-300-crore-milestone-worldwide-on-day-3/cid/2185282",
+        "source": "Telegraph India"
       },
       {
-        "title": "Jim Harbaugh path back to college football is blocked: Massive NCAA penalties stand in Chargers coach's way",
-        "url": "https://www.cbssports.com/college-football/news/jim-harbaugh-college-ncaa-penalties-chargers/",
-        "source": "CBS Sports"
+        "title": "South film producers in thrall to streaming deals",
+        "url": "https://m.economictimes.com/industry/media/entertainment/media/south-film-producers-in-thrall-to-streaming-deals/articleshow/135034775.cms",
+        "source": "The Economic Times"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "jamie lee curtis",
+    "traffic": 1000,
+    "pubDate": "Sun, 18 Oct 2026 18:20:00 -0700",
+    "news": [
+      {
+        "title": "Jamie Lee Curtis to receive inaugural Rob and Michele Reiner Champion for Change Award",
+        "url": "https://abc7.com/story/jamie-lee-curtis-receive-inaugural-rob-michele-reiner-champion-change-award/19942248/",
+        "source": "ABC7 Los Angeles"
+      },
+      {
+        "title": "The 1994 movie Jamie Lee Curtis was told she was “too beautiful” to star in",
+        "url": "https://faroutmagazine.co.uk/1994-movie-jamie-lee-curtis-too-beautiful-to-star-in/",
+        "source": "Far Out Magazine"
+      },
+      {
+        "title": "HALLOWEEN II Novelization: Less Myers, More Mundy",
+        "url": "https://www.fangoria.com/halloween-ii-novelization-less-myers-more-mundy/",
+        "source": "Fangoria"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "sacha baron cohen new movie",
+    "traffic": 1000,
+    "pubDate": "Sun, 18 Oct 2026 18:20:00 -0700",
+    "news": [
+      {
+        "title": "Sacha Baron Cohen on using characters to get real people to reveal their real beliefs",
+        "url": "https://www.cbsnews.com/news/sacha-baron-cohen-undercover-comedy-ali-g-60-minutes/",
+        "source": "CBS News"
+      },
+      {
+        "title": "’60 Minutes’ to Profile Sacha Baron Cohen (EXCLUSIVE)",
+        "url": "https://variety.com/2026/tv/news/60-minutes-sacha-baron-cohen-1236913487/",
+        "source": "Variety"
+      },
+      {
+        "title": "Sacha Baron Cohen names the greatest comedy actor of all time: “Managed to bridge the gap”",
+        "url": "https://faroutmagazine.co.uk/sacha-baron-cohen-greatest-comedy-actor-of-all-time/",
+        "source": "Far Out Magazine"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "kevin hart",
+    "traffic": 500,
+    "pubDate": "Sun, 18 Oct 2026 18:00:00 -0700",
+    "news": [
+      {
+        "title": "‘Lil Kev’ Bounces Back with Season 2 on Paramount+",
+        "url": "https://www.animationmagazine.net/2026/10/lil-kev-bounces-back-with-season-2-on-paramount/",
+        "source": "Animation Magazine"
+      },
+      {
+        "title": "Kevin Hart’s Animated Comedy ‘Lil Kev’ Moves to Paramount+ for Season 2",
+        "url": "https://www.bubbleblabber.com/2026/10/kevin-harts-animated-comedy-lil-kev-moves-to-paramount-for-season-2/",
+        "source": "Bubbleblabber"
+      },
+      {
+        "title": "Popular Kevin Hart & Wanda Sykes TV Show Sets Paramount+ Season 2 Release Date",
+        "url": "https://www.aol.com/articles/popular-kevin-hart-wanda-sykes-161039000.html",
+        "source": "AOL.com"
       }
     ]
   }
