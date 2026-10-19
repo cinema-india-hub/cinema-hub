@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "a i news",
+    "traffic": 5000,
+    "pubDate": "Mon, 19 Oct 2026 14:10:00 -0700",
+    "news": [
+      {
+        "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+        "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-amd-nvidia-meta-netflix-spacex-tesla/",
+        "source": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock Market Today: Nasdaq Rebounds at Open After Friday's Tech Selloff — Live Updates",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026",
+        "source": "WSJ"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "kobie turner",
+    "traffic": 500,
+    "pubDate": "Mon, 19 Oct 2026 14:10:00 -0700",
+    "news": [
+      {
+        "title": "Rams lose starting nose tackle for rest of season due to injury",
+        "url": "https://sports.yahoo.com/articles/rams-lose-starting-nose-tackle-211759362.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Rams star Kobie Turner likely going on IR due to groin injury",
+        "url": "https://sports.yahoo.com/articles/rams-star-kobie-turner-likely-212752280.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Poona Ford (biceps) sent to season-ending IR",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/poona-ford-biceps-sent-to-season-ending-ir",
+        "source": "NBC Sports"
+      }
+    ]
+  }
+]
