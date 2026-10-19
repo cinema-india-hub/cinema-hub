@@ -1,93 +1,70 @@
 [
   {
+    "geo": "US",
+    "title": "ocarina of time remake switch 2",
+    "traffic": 1000,
+    "pubDate": "Mon, 19 Oct 2026 00:50:00 -0700",
+    "news": [
+      {
+        "title": "The Legend of Zelda: Ocarina of Time Remake on Switch 2 is far from a 1:1 remake, instead adding depth and texture that makes this beloved adventure feel instantly fresh.",
+        "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-more-different-than-you-think-ign-preview",
+        "source": "IGN"
+      },
+      {
+        "title": "You have been summoned to watch the new Legend of Zelda: Ocarina of Time — Overview Trailer!",
+        "url": "https://www.nintendo.com/us/whatsnew/you-have-been-summoned-to-watch-the-new-legend-of-zelda-ocarina-of-time-overview-trailer/",
+        "source": "Nintendo"
+      },
+      {
+        "title": "The Legend of Zelda: Ocarina of Time (2026) Preview: A Beautiful Step Back In Time",
+        "url": "https://gameinformer.com/preview/2026/10/14/a-beautiful-step-back-in-time",
+        "source": "Game Informer"
+      }
+    ]
+  },
+  {
     "geo": "IN",
-    "title": "jailer 2 box office collection worldwide",
-    "traffic": 1000,
-    "pubDate": "Sun, 18 Oct 2026 18:30:00 -0700",
-    "news": [
-      {
-        "title": "'Jailer 2' box office collection day 4: Rajinikanth, Mohanlal, Nelson Dilipkumar film sees Sunday jump; e",
-        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-4-rajinikanth-mohanlal-nelson-dilipkumar-film-sees-sunday-jump-earns-rs-55-85-cr-in-india-worldwide-gross-hits-rs-424-25-cr/articleshow/135037059.cms",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Rajinikanth-starrer ‘Jailer 2’ hits Rs 300-crore milestone worldwide on Day 3",
-        "url": "https://www.telegraphindia.com/entertainment/rajinikanth-starrer-jailer-2-hits-rs-300-crore-milestone-worldwide-on-day-3/cid/2185282",
-        "source": "Telegraph India"
-      },
-      {
-        "title": "South film producers in thrall to streaming deals",
-        "url": "https://m.economictimes.com/industry/media/entertainment/media/south-film-producers-in-thrall-to-streaming-deals/articleshow/135034775.cms",
-        "source": "The Economic Times"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "jamie lee curtis",
-    "traffic": 1000,
-    "pubDate": "Sun, 18 Oct 2026 18:20:00 -0700",
-    "news": [
-      {
-        "title": "Jamie Lee Curtis to receive inaugural Rob and Michele Reiner Champion for Change Award",
-        "url": "https://abc7.com/story/jamie-lee-curtis-receive-inaugural-rob-michele-reiner-champion-change-award/19942248/",
-        "source": "ABC7 Los Angeles"
-      },
-      {
-        "title": "The 1994 movie Jamie Lee Curtis was told she was “too beautiful” to star in",
-        "url": "https://faroutmagazine.co.uk/1994-movie-jamie-lee-curtis-too-beautiful-to-star-in/",
-        "source": "Far Out Magazine"
-      },
-      {
-        "title": "HALLOWEEN II Novelization: Less Myers, More Mundy",
-        "url": "https://www.fangoria.com/halloween-ii-novelization-less-myers-more-mundy/",
-        "source": "Fangoria"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "sacha baron cohen new movie",
-    "traffic": 1000,
-    "pubDate": "Sun, 18 Oct 2026 18:20:00 -0700",
-    "news": [
-      {
-        "title": "Sacha Baron Cohen on using characters to get real people to reveal their real beliefs",
-        "url": "https://www.cbsnews.com/news/sacha-baron-cohen-undercover-comedy-ali-g-60-minutes/",
-        "source": "CBS News"
-      },
-      {
-        "title": "’60 Minutes’ to Profile Sacha Baron Cohen (EXCLUSIVE)",
-        "url": "https://variety.com/2026/tv/news/60-minutes-sacha-baron-cohen-1236913487/",
-        "source": "Variety"
-      },
-      {
-        "title": "Sacha Baron Cohen names the greatest comedy actor of all time: “Managed to bridge the gap”",
-        "url": "https://faroutmagazine.co.uk/sacha-baron-cohen-greatest-comedy-actor-of-all-time/",
-        "source": "Far Out Magazine"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "kevin hart",
+    "title": "ott release this week",
     "traffic": 500,
-    "pubDate": "Sun, 18 Oct 2026 18:00:00 -0700",
+    "pubDate": "Mon, 19 Oct 2026 00:30:00 -0700",
     "news": [
       {
-        "title": "‘Lil Kev’ Bounces Back with Season 2 on Paramount+",
-        "url": "https://www.animationmagazine.net/2026/10/lil-kev-bounces-back-with-season-2-on-paramount/",
-        "source": "Animation Magazine"
+        "title": "Latest OTT releases (October 19-October 25): 19 new movies and TV shows on Netflix, Prime Video, JioHotstar and more",
+        "url": "https://www.vogue.in/content/latest-ott-releases-streaming-netflix-prime-video-jiohotstar-october-19-october-25-2026",
+        "source": "Vogue India"
       },
       {
-        "title": "Kevin Hart’s Animated Comedy ‘Lil Kev’ Moves to Paramount+ for Season 2",
-        "url": "https://www.bubbleblabber.com/2026/10/kevin-harts-animated-comedy-lil-kev-moves-to-paramount-for-season-2/",
-        "source": "Bubbleblabber"
+        "title": "New OTT releases to watch this weekend: 13 new movies & shows on Netflix, JioHotstar, ZEE5 & more",
+        "url": "https://www.gqindia.com/content/new-ott-releases-to-watch-this-weekend-13-new-movies-and-shows-on-netflix-jiohotstar-zee5-and-more",
+        "source": "GQ India"
       },
       {
-        "title": "Popular Kevin Hart & Wanda Sykes TV Show Sets Paramount+ Season 2 Release Date",
-        "url": "https://www.aol.com/articles/popular-kevin-hart-wanda-sykes-161039000.html",
-        "source": "AOL.com"
+        "title": "OTT Releases This Week: DC, Enna Vilai, The Diplomat 4",
+        "url": "https://www.rediff.com/movies/report/ott-releases-this-week-dc-enna-vilai-the-diplomat-4/20261016.htm",
+        "source": "Rediff"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "hunter",
+    "traffic": 200,
+    "pubDate": "Mon, 19 Oct 2026 00:40:00 -0700",
+    "news": [
+      {
+        "title": "Travis Hunter stars in Jaguars' loss, is 1st with INT and TD catch since 2002",
+        "url": "https://www.espn.com/nfl/story/_/id/50212108/travis-hunter-interception-td-catch-jaguars-loss",
+        "source": "ESPN"
+      },
+      {
+        "title": "Travis Hunter is having his best offensive game, and worst defensive game, of the season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-is-having-his-best-offensive-game-and-worst-defensive-game-of-the-season",
+        "source": "NBC Sports"
+      },
+      {
+        "title": "Travis Hunter Makes Rare NFL History with Unique Stat in Breakout Game for Jaguars vs. Texans",
+        "url": "https://bleacherreport.com/articles/25512726-travis-hunter-makes-rare-nfl-history-unique-stat-breakout-game-jaguars-vs-texans",
+        "source": "Bleacher Report"
       }
     ]
   }
