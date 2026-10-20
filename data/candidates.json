@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "khvicha kvaratskhelia",
+    "traffic": 500,
+    "pubDate": "Tue, 20 Oct 2026 11:20:00 -0700",
+    "news": [
+      {
+        "title": "A ghost on the pitch or a trump card? The Kvaratskhelia riddle troubles Enrique ahead of the Barcelona clash",
+        "url": "https://www.goal.com/en-in/news/a-ghost-on-the-pitch-or-a-trump-card-the-kvaratskhelia-riddle-troubles-enrique-ahead-of-the-barcelona-clash/bltcc7ee1d11afec2de",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Concern grows around Kvaratskhelia, the German press takes a stand for Michael Olise",
+        "url": "https://frenchfootballweekly.com/2026/10/18/concern-grows-around-kvaratskhelia-the-german-press-takes-a-stand-for-michael-olise/",
+        "source": "French Football Weekly"
+      },
+      {
+        "title": "Kvaratskhelia seeks turnaround, Barcelona has the opportunity to return to last season's level",
+        "url": "https://www.gazetaexpress.com/en/Kvaratskhelia-seeks-Barcelona%27s-turnaround--the-opportunity-to-return-to-last-season%27s-level/",
+        "source": "Gazeta Express"
+      }
+    ]
+  }
+]
