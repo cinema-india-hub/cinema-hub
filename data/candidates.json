@@ -1,24 +1,70 @@
 [
   {
-    "geo": "IN",
-    "title": "khvicha kvaratskhelia",
-    "traffic": 500,
-    "pubDate": "Tue, 20 Oct 2026 11:20:00 -0700",
+    "geo": "US",
+    "title": "lebron james",
+    "traffic": 5000,
+    "pubDate": "Tue, 20 Oct 2026 16:00:00 -0700",
     "news": [
       {
-        "title": "A ghost on the pitch or a trump card? The Kvaratskhelia riddle troubles Enrique ahead of the Barcelona clash",
-        "url": "https://www.goal.com/en-in/news/a-ghost-on-the-pitch-or-a-trump-card-the-kvaratskhelia-riddle-troubles-enrique-ahead-of-the-barcelona-clash/bltcc7ee1d11afec2de",
-        "source": "Goal.com"
+        "title": "Bettors are heavily backing LeBron James' 76ers to win the title: 'The enthusiasm for betting this team doesn't seem to let up'",
+        "url": "https://sports.yahoo.com/nba/betting/article/bettors-are-heavily-backing-lebron-james-76ers-to-win-the-title-the-enthusiasm-for-betting-this-team-doesnt-seem-to-let-up-165549727.html",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "Concern grows around Kvaratskhelia, the German press takes a stand for Michael Olise",
-        "url": "https://frenchfootballweekly.com/2026/10/18/concern-grows-around-kvaratskhelia-the-german-press-takes-a-stand-for-michael-olise/",
-        "source": "French Football Weekly"
+        "title": "LeBron James' Special Jersey Patch Honoring Historic 24th NBA Season with 76ers Revealed in Photo",
+        "url": "https://bleacherreport.com/articles/25513579-lebron-james-special-jersey-patch-honoring-historic-24th-nba-season-76ers-revealed-photo",
+        "source": "Bleacher Report"
       },
       {
-        "title": "Kvaratskhelia seeks turnaround, Barcelona has the opportunity to return to last season's level",
-        "url": "https://www.gazetaexpress.com/en/Kvaratskhelia-seeks-Barcelona%27s-turnaround--the-opportunity-to-return-to-last-season%27s-level/",
-        "source": "Gazeta Express"
+        "title": "LeBron James, Philadelphia 76ers set to play New York Knicks in season opener",
+        "url": "https://www.cbsnews.com/philadelphia/video/lebron-james-philadelphia-76ers-set-to-play-new-york-knicks-in-season-opener/",
+        "source": "CBS News"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "julian sayin injury update",
+    "traffic": 500,
+    "pubDate": "Tue, 20 Oct 2026 16:10:00 -0700",
+    "news": [
+      {
+        "title": "2026 CFP bracket projection: How Julian Sayin's uncertain status could reshape Ohio State's playoff path",
+        "url": "https://www.cbssports.com/college-football/news/college-football-playoff-bracket-projection-2026-miami-ohio-state-julian-sayin/",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "Ohio State QB Julian Sayin out 'indefinitely,' potentially for season",
+        "url": "https://sports.yahoo.com/articles/ohio-state-qb-julian-sayin-225830537.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Ohio State waiting on testing on Julian Sayin's injury; Luke Fahey 'going to be thrust into a bigger role'",
+        "url": "https://247sports.com/college/ohio-state/article/ohio-state-waiting-testing-julian-sayin-injury-luke-fahey-bigger-role-291534147/",
+        "source": "247Sports"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "brittany snow",
+    "traffic": 200,
+    "pubDate": "Tue, 20 Oct 2026 16:10:00 -0700",
+    "news": [
+      {
+        "title": "The Hunting Wives Season 2 Trailer Will Get Your Cowboy Boots Extra Dirty",
+        "url": "https://www.netflix.com/tudum/articles/the-hunting-wives-season-2-trailer",
+        "source": "Netflix"
+      },
+      {
+        "title": "‘The Hunting Wives’ Are Playing With Fire in Spicy Season 2 Trailer",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/the-hunting-wives-season-2-trailer-margot-sophie-1236735968/",
+        "source": "The Hollywood Reporter"
+      },
+      {
+        "title": "The Hunting Wives ﻿Season 2 Trailer: 'Old Secrets And New Foes' Pull Sophie And Margo Back Together",
+        "url": "https://www.tvline.com/2291660/the-hunting-wives-season-2-full-trailer-netflix/",
+        "source": "TVLine"
       }
     ]
   }
