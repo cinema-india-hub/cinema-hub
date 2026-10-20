@@ -1,47 +1,47 @@
 [
   {
     "geo": "US",
-    "title": "a i news",
-    "traffic": 5000,
-    "pubDate": "Mon, 19 Oct 2026 14:10:00 -0700",
+    "title": "super bowl 2027",
+    "traffic": 2000,
+    "pubDate": "Mon, 19 Oct 2026 18:40:00 -0700",
     "news": [
       {
-        "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
-        "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
-        "source": "CNBC"
+        "title": "ESPN, Lucasfilm and the NFL to put Super Bowl LXI in ‘a galaxy far, far away’ with Star Wars Funday Football on Disney+, Disney Channel and Disney XD",
+        "url": "https://espnpressroom.com/press-release/espn-lucasfilm-and-the-nfl-to-put-super-bowl-lxi-in-a-galaxy-far-far-away-with-star-wars-funday-football-on-disney-disney-channel-and-disney-xd/",
+        "source": "ESPN Press Room"
       },
       {
-        "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-amd-nvidia-meta-netflix-spacex-tesla/",
-        "source": "Investor's Business Daily"
+        "title": "‘Star Wars’ Comes to 2027 Super Bowl With Animated ‘Alterna-Cast’ for Disney Channel, XD, Disney+",
+        "url": "https://variety.com/2026/tv/news/star-wars-super-bowl-disney-animated-alternacast-1236916766/",
+        "source": "Variety"
       },
       {
-        "title": "Stock Market Today: Nasdaq Rebounds at Open After Friday's Tech Selloff — Live Updates",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026",
-        "source": "WSJ"
+        "title": "‘Star Wars’ animated alt-cast latest addition for Disney/ESPN at Super Bowl LXI",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/10/19/star-wars-animated-alt-cast-latest-addition-for-disneyespn-at-super-bowl-lxi/",
+        "source": "Sports Business Journal"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "kobie turner",
-    "traffic": 500,
-    "pubDate": "Mon, 19 Oct 2026 14:10:00 -0700",
+    "title": "the diplomat cast",
+    "traffic": 1000,
+    "pubDate": "Mon, 19 Oct 2026 18:50:00 -0700",
     "news": [
       {
-        "title": "Rams lose starting nose tackle for rest of season due to injury",
-        "url": "https://sports.yahoo.com/articles/rams-lose-starting-nose-tackle-211759362.html",
-        "source": "Yahoo Sports"
+        "title": "Why ‘The Diplomat’ Season 4 Finale Is Surprisingly Sad",
+        "url": "https://www.elle.com/culture/movies-tv/a74160470/the-diplomat-season-4-finale-ending-explained/",
+        "source": "ELLE"
       },
       {
-        "title": "Rams star Kobie Turner likely going on IR due to groin injury",
-        "url": "https://sports.yahoo.com/articles/rams-star-kobie-turner-likely-212752280.html",
-        "source": "Yahoo Sports"
+        "title": "Netflix axes its PM to make show more realistic",
+        "url": "https://www.telegraph.co.uk/news/2026/10/19/netflix-axes-its-pm-to-make-show-more-realistic/",
+        "source": "The Telegraph"
       },
       {
-        "title": "Poona Ford (biceps) sent to season-ending IR",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/poona-ford-biceps-sent-to-season-ending-ir",
-        "source": "NBC Sports"
+        "title": "One Of Netflix’s Best Shows Is Back With A 100% Rotten Tomatoes Score",
+        "url": "https://www.forbes.com/sites/paultassi/2026/10/16/one-of-netflixs-best-shows-is-back-with-a-100-rotten-tomatoes-score/",
+        "source": "Forbes"
       }
     ]
   }
