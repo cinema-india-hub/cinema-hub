@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "pga tour",
+    "traffic": 1000,
+    "pubDate": "Wed, 21 Oct 2026 16:20:00 -0700",
+    "news": [
+      {
+        "title": "PGA Tour unveils 2027 Korn Ferry Tour schedule",
+        "url": "https://www.pgatour.com/korn-ferry-tour/article/news/latest/2026/10/21/kornferry-tour-2027-schedule-release",
+        "source": "PGA Tour"
+      },
+      {
+        "title": "Schedule released for greatest Korn Ferry Tour season ever; here's why it's being considered that",
+        "url": "https://www.golfchannel.com/korn-ferry-tour/news/schedule-released-for-greatest-korn-ferry-tour-season-ever-heres-why-its-being-considered-that",
+        "source": "Golf Channel"
+      },
+      {
+        "title": "PGA Tour unveils 2027 Korn Ferry Tour schedule with 40 Tour cards at stake",
+        "url": "https://golfweek.usatoday.com/story/sports/golf/pga/2026/10/21/pga-tour-announces-2027-korn-ferry-tour-schedule/92359290007/",
+        "source": "Golfweek"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "bam adebayo",
+    "traffic": 500,
+    "pubDate": "Wed, 21 Oct 2026 16:30:00 -0700",
+    "news": [
+      {
+        "title": "Miami Heat season preview: Opening schedule, win projection and what to know for 2026-27",
+        "url": "https://sports.yahoo.com/nba/article/miami-heat-season-preview-opening-schedule-win-projection-and-what-to-know-for-2026-27-143704379.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "On eve of debut, Giannis poised for breakout week for his Heat . . . and his Brewers",
+        "url": "https://www.sun-sentinel.com/2026/10/20/on-eve-of-debut-giannis-poised-for-a-breakout-week-for-his-heat-and-his-brewers/",
+        "source": "Sun Sentinel"
+      },
+      {
+        "title": "Heat has big goals on defense after adding Giannis: ‘The goal is to be No. 1 in defense’",
+        "url": "https://www.miamiherald.com/sports/nba/miami-heat/article317676158.html",
+        "source": "Miami Herald"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "franz wagner",
+    "traffic": 200,
+    "pubDate": "Wed, 21 Oct 2026 16:30:00 -0700",
+    "news": [
+      {
+        "title": "Orlando Magic remain optimistic despite early-season injury concerns",
+        "url": "https://orlandomagicdaily.com/orlando-magic-remain-optimistic-despite-early-season-injury-concerns",
+        "source": "Orlando Magic Daily"
+      },
+      {
+        "title": "Franz Wagner status for Magic opener vs. Hawks: Injuries, Odds & Preview",
+        "url": "https://www.si.com/nba/magic/onsi/franz-wagner-status-for-magic-opener-vs-hawks-injuries-odds-preview-01m5fv88jv86",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Penda frustrated by timing of injury as Magic continue to evaluate Wagner",
+        "url": "https://www.orlandosentinel.com/2026/10/18/orlando-magic-practice-franz-wagner-noah-penda-jonathan-isaac-anthony-black-injury-updates-nba-preseason-kia-center-sean-sweeney/",
+        "source": "Orlando Sentinel"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "wolves",
+    "traffic": 200,
+    "pubDate": "Wed, 21 Oct 2026 16:30:00 -0700",
+    "news": [
+      {
+        "title": "Wolverhampton Wanderers 1-1 Portsmouth: Terry Devlin scores late equaliser",
+        "url": "https://www.bbc.com/sport/football/live/c95ynk180zget",
+        "source": "BBC"
+      },
+      {
+        "title": "'There is now a belief and confidence about Pompey'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvze4652d8w4o",
+        "source": "BBC"
+      },
+      {
+        "title": "Wolverhampton vs. Portsmouth Lineups, Live Streaming, How and Where to Watch on TV",
+        "url": "https://sports.yahoo.com/articles/wolverhampton-vs-portsmouth-lineups-live-155500087.html",
+        "source": "Yahoo Sports"
+      }
+    ]
+  }
+]
