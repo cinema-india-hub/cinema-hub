@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "stephen graham",
+    "traffic": 1000,
+    "pubDate": "Thu, 22 Oct 2026 06:30:00 -0700",
+    "news": [
+      {
+        "title": "'Animol' review: Ashley Walters' tense and tender feature debut shines light on young offenders",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/animol-review-ashley-walters-tense-111515345.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Animol | 2026 London BFI Film Festival Review",
+        "url": "https://www.ioncinema.com/reviews/ashley-walters-animol-movie-review",
+        "source": "- IONCINEMA.com"
+      },
+      {
+        "title": "'Animol' review: Ashley Walters' tense and tender feature debut shines light on young offenders",
+        "url": "https://mashable.com/entertainment/animol-review",
+        "source": "Mashable"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "quinta brunson",
+    "traffic": 200,
+    "pubDate": "Thu, 22 Oct 2026 06:30:00 -0700",
+    "news": [
+      {
+        "title": "Quinta Brunson Teases Her Betty Boop Movie ‘Will Be Unlike Anything Anyone Expects’",
+        "url": "https://people.com/quinta-brunson-betty-boop-movie-will-be-unlike-anything-anyone-expects-12184620",
+        "source": "People.com"
+      },
+      {
+        "title": "Quinta Brunson Shares Update On Betty Boop Film Development: \"The Story Will Be Unlike Anything Anyone Expects\"",
+        "url": "https://deadline.com/2026/10/quinta-brunson-update-betty-boop-film-1237168312/",
+        "source": "Deadline"
+      },
+      {
+        "title": "Quinta Brunson Teases ‘Betty Boop’ Film Exploration Of Early Animation History And Cultural Origins",
+        "url": "https://movies.mxdwn.com/news/quinta-brunson-teases-betty-boop-film-exploration-of-early-animation-history-and-cultural-origins/",
+        "source": "mxdwn Movies"
+      }
+    ]
+  }
+]
