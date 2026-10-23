@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "constance wu",
+    "traffic": 2000,
+    "pubDate": "Fri, 23 Oct 2026 06:20:00 -0700",
+    "news": [
+      {
+        "title": "Inside Chris Pratt's 'Terminal List' fight with real Navy SEAL Jack Carr",
+        "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/22/chris-pratt-terminal-list-season-2-jack-carr-battle/92365188007/",
+        "source": "USA Today"
+      },
+      {
+        "title": "‘The Terminal List’ Season 2 Breaks Prime Video Tradition, So Here’s the Release Schedule",
+        "url": "https://www.cosmopolitan.com/entertainment/tv/a74183502/the-terminal-list-season-2-schedule/",
+        "source": "Cosmopolitan"
+      },
+      {
+        "title": "The Terminal List Season 3 Gets a Clear Answer From Chris Pratt",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/terminal-list-season-3-gets-114000538.html",
+        "source": "Yahoo"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "gladiator ii netflix release date",
+    "traffic": 2000,
+    "pubDate": "Fri, 23 Oct 2026 05:30:00 -0700",
+    "news": [
+      {
+        "title": "Pedro Pascal’s $462M Box Office Disappointment Is Suddenly Netflix’s No. 1 Movie",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/pedro-pascal-462m-box-office-125400746.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Netflix Scores Big With Ridley Scott's Long-Awaited 148-Minute Action Epic",
+        "url": "https://movieweb.com/gladiator-2-stream-netflix-october-2026/",
+        "source": "MovieWeb"
+      },
+      {
+        "title": "Denzel Washington's 148-Minute Historical Epic Is Officially Netflix's Biggest Streaming Hit",
+        "url": "https://www.slashfilm.com/2294578/denzel-washington-historical-epic-gladiator-2-streaming-netflix-october-2026/",
+        "source": "SlashFilm"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "avengers doomsday",
+    "traffic": 1000,
+    "pubDate": "Fri, 23 Oct 2026 06:00:00 -0700",
+    "news": [
+      {
+        "title": "Marvel Takes ‘Avengers: Doomsday’ to the World Series, and the Stormy Teaser Already Has Fans Excited",
+        "url": "https://www.imdb.com/news/ni66075357/",
+        "source": "IMDb"
+      },
+      {
+        "title": "Avengers: Doomsday's surprising main characters revealed ahead of new trailer",
+        "url": "https://bamsmackpow.com/marvel-avengers-doomsday-main-characters-revealed-ahead-new-trailer",
+        "source": "Bam Smack Pow"
+      },
+      {
+        "title": "New Avengers: Doomsday Preview Will Release Tomorrow During the World Series",
+        "url": "https://www.ign.com/articles/new-look-at-avengers-doomsday-to-premiere-during-mlb-world-series",
+        "source": "IGN"
+      }
+    ]
+  }
+]
