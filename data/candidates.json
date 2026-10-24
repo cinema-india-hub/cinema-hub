@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "steve sarkisian",
+    "traffic": 1000,
+    "pubDate": "Sat, 24 Oct 2026 10:10:00 -0700",
+    "news": [
+      {
+        "title": "Can Steve Sarkisian and Arch Manning save Texas' season?",
+        "url": "https://www.espn.com/college-football/story/_/id/50240573/arch-manning-steve-sarkisian-texas-pressure",
+        "source": "ESPN"
+      },
+      {
+        "title": "Steve Sarkisian could face college football's hardest call as Arch Manning invokes much higher stakes | OutKick",
+        "url": "https://www.foxnews.com/outkick-sports/steve-sarkisian-face-college-footballs-hardest-call-arch-manning-invokes-much-higher-stakes",
+        "source": "Fox News"
+      },
+      {
+        "title": "Sarkisian sees ‘edgy’ Arch Manning as Texas looks to bounce back against Ole Miss",
+        "url": "https://www.kxan.com/sports-general/horns-report/sarkisian-sees-edgy-arch-manning-as-texas-looks-to-bounce-back-against-ole-miss/",
+        "source": "KXAN Austin"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "east tn st vs vmi",
+    "traffic": 500,
+    "pubDate": "Sat, 24 Oct 2026 10:00:00 -0700",
+    "news": [
+      {
+        "title": "ETSU vows to stay hungry against the winless VMI Keydets on Saturday",
+        "url": "https://www.wjhl.com/sports/college-sports-2/etsu-bucs/etsu-vows-to-stay-hungry-against-the-winless-vmi-keydets-on-saturday/",
+        "source": "WJHL"
+      },
+      {
+        "title": "Looking back and looking ahead at ETSU's season",
+        "url": "https://johnsoncitypress.com/news/419956/looking-back-and-looking-ahead-at-etsus-season/",
+        "source": "Johnson City Press"
+      },
+      {
+        "title": "ETSU football returns from bye week to prepare for VMI",
+        "url": "https://wcyb.com/sports/local-college/etsu-football-returns-from-bye-week-to-prepare-for-vmi",
+        "source": "WCYB"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "sandeep reddy vanga",
+    "traffic": 200,
+    "pubDate": "Sat, 24 Oct 2026 10:10:00 -0700",
+    "news": [
+      {
+        "title": "Ranbir Kapoor tipped off Sandeep Reddy Vanga about ‘Ramayana 2’ delay, helping Prabhas’ ‘Spirit’ lock Diw",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-tipped-off-sandeep-reddy-vanga-about-ramayana-2-delay-helping-prabhas-spirit-lock-diwali-2027-release-report/articleshow/135172493.cms",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Prabhas gets a special birthday wish from Sandeep Reddy Vanga as director shares new picture from Spirit",
+        "url": "https://www.moneycontrol.com/entertainment/prabhas-gets-a-special-birthday-wish-from-sandeep-reddy-vanga-as-director-shares-new-picture-from-spirit-article-14058789.html",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Prabhas's Spirit Gets Diwali 2027 Release Date, To Clash With Ramayana Part 2",
+        "url": "https://www.ndtv.com/entertainment/prabhass-spirit-gets-diwali-2027-release-date-to-clash-with-ramayana-part-2-12202282",
+        "source": "NDTV"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "montréal vs nashville",
+    "traffic": 200,
+    "pubDate": "Sat, 24 Oct 2026 10:00:00 -0700",
+    "news": [
+      {
+        "title": "CF Montreal vs Nashville Soccer Club: Lineups, Prediction, Odds & Bet Builder Tip",
+        "url": "https://www.whoscored.com/articles/0K148-SRMUudX7nMMjd-Pw/show/cng111-20261024-cf-montreal-vs-nashville-soccer-club-prediction-1792834561",
+        "source": "WhoScored.com"
+      },
+      {
+        "title": "Nashville boss Callaghan demands focus during Supporters' Shield chase",
+        "url": "https://www.beinsports.com/en-us/soccer/mls/articles/nashville-boss-callaghan-demands-focus-during-supporters-shield-chase-2026-10-22",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "GEODIS Preview: Nashville SC aims for Supporters’ Shield title, season sweep in midday kick at CF Montréal",
+        "url": "https://www.nashvillesc.com/news/geodis-preview-nashville-sc-supporters-shield-cf-montreal-prince-owusu-alexis-sanchez-mls",
+        "source": "Nashville SC"
+      }
+    ]
+  }
+]
