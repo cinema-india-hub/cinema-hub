@@ -1,47 +1,47 @@
 [
   {
-    "geo": "IN",
-    "title": "wildwood",
-    "traffic": 500,
-    "pubDate": "Sun, 25 Oct 2026 10:10:00 -0700",
+    "geo": "US",
+    "title": "harrison smith",
+    "traffic": 2000,
+    "pubDate": "Sun, 25 Oct 2026 12:40:00 -0700",
     "news": [
       {
-        "title": "Box Office: 'Clayface' No 1 With $24M+, 'You Can See Everything' At Near $20M",
-        "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
-        "source": "Deadline"
+        "title": "Harrison Smith isn't leaving Vikings fans guessing about his future anymore",
+        "url": "https://thevikingage.com/harrison-smith-isnt-leaving-minnesota-vikings-fans-guessing-about-future",
+        "source": "The Viking Age"
       },
       {
-        "title": "You Can See Everything Box Office Huge Second Weekend, Clayface Leads",
-        "url": "https://variety.com/2026/film/box-office/you-can-see-everything-box-office-huge-second-weekend-clayface-leads-1236930604/",
-        "source": "Variety"
+        "title": "Vikings legend and six-time Pro Bowler announces NFL retirement decision after 15 seasons",
+        "url": "https://talksport.com/nfl/4662463/harrison-smith-retirement-minnesota-vikings-hall-of-fame/",
+        "source": "talkSPORT"
       },
       {
-        "title": "'Clayface' is underbaked body horror",
-        "url": "https://www.npr.org/2026/10/23/nx-s1-6010511/clayface-review",
-        "source": "NPR"
+        "title": "Vikings Legend Harrison Smith Announces Retirement Stance After Returning for 15th NFL Season",
+        "url": "https://www.essentiallysports.com/nfl-active-news-vikings-legend-harrison-smith-announces-retirement-stance-after-returning-for-fifteenth-nfl-season/",
+        "source": "EssentiallySports"
       }
     ]
   },
   {
-    "geo": "IN",
-    "title": "matargashti series",
+    "geo": "US",
+    "title": "eddy pineiro",
     "traffic": 200,
-    "pubDate": "Sun, 25 Oct 2026 10:00:00 -0700",
+    "pubDate": "Sun, 25 Oct 2026 12:40:00 -0700",
     "news": [
       {
-        "title": "‘Matargashti’ Series Review: A Warm and Watchable Father-Daughter Comedy",
-        "url": "https://www.hollywoodreporterindia.com/reviews/streaming/matargashti-series-review-a-warm-and-watchable-father-daughter-comedy",
-        "source": "The Hollywood Reporter India"
+        "title": "Kyle Shanahan's Eddy Pineiro comments will bring back unwanted memories of Jake Moody",
+        "url": "https://ninernoise.com/kyle-shanahans-eddy-pineiro-comments-bring-back-memories-jake-moody",
+        "source": "Niner Noise"
       },
       {
-        "title": "Matargashti Ending Explained And Series Recap: What Reunites Dhara And Prakash?",
-        "url": "https://fugitives.com/matargashti-season-1-recap-ending-explained-2026/",
-        "source": "Film Fugitives"
+        "title": "49ers overreactions: Are Eddy Piñeiro's misses creating another kicker problem?",
+        "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/eddy-pineiro-mike-evans-injury/1972644/",
+        "source": "NBC Sports Bay Area & California"
       },
       {
-        "title": "Matargashti Streaming on Netflix – Cast, Crew, Episodes and Story Details, Featuring Rajesh Kumar, Adrija Sinha, and Saumya Uniyal",
-        "url": "https://www.keralatv.in/matargashti-netflix-series-cast-episodes/",
-        "source": "Kerala TV"
+        "title": "49ers’ Kyle Shanahan calls out player who almost ruined undefeated season with another failure",
+        "url": "https://sports.yahoo.com/articles/49ers-kyle-shanahan-calls-player-141836326.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
