@@ -1,24 +1,47 @@
 [
   {
     "geo": "IN",
-    "title": "kerala blasters vs mumbai city",
-    "traffic": 2000,
-    "pubDate": "Sun, 25 Oct 2026 06:00:00 -0700",
+    "title": "wildwood",
+    "traffic": 500,
+    "pubDate": "Sun, 25 Oct 2026 10:10:00 -0700",
     "news": [
       {
-        "title": "Kerala Blasters Look to Rebound at Home as Mumbai City Chase First Win",
-        "url": "https://www.indiansuperleague.com/news/kerala-blasters-look-to-rebound-at-home-as-mumbai-city-chase-first-win",
-        "source": "Indian Super League | Official Website"
+        "title": "Box Office: 'Clayface' No 1 With $24M+, 'You Can See Everything' At Near $20M",
+        "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
+        "source": "Deadline"
       },
       {
-        "title": "Kerala Blasters get Kochi stadium for ISL home matches at Rs 3.5 lakh per game",
-        "url": "https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/kerala-blasters-get-kochi-stadium-for-isl-home-matches-at-rs-3-5-lakh-per-game/articleshow/135172678.cms",
-        "source": "The Times of India"
+        "title": "You Can See Everything Box Office Huge Second Weekend, Clayface Leads",
+        "url": "https://variety.com/2026/film/box-office/you-can-see-everything-box-office-huge-second-weekend-clayface-leads-1236930604/",
+        "source": "Variety"
       },
       {
-        "title": "Keralam govt clears path for Blasters’ first home game this season",
-        "url": "https://www.newindianexpress.com/cities/kochi/2026/Oct/25/keralam-govt-clears-path-for-blasters-first-home-game-this-season",
-        "source": "The New Indian Express"
+        "title": "'Clayface' is underbaked body horror",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6010511/clayface-review",
+        "source": "NPR"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "matargashti series",
+    "traffic": 200,
+    "pubDate": "Sun, 25 Oct 2026 10:00:00 -0700",
+    "news": [
+      {
+        "title": "‘Matargashti’ Series Review: A Warm and Watchable Father-Daughter Comedy",
+        "url": "https://www.hollywoodreporterindia.com/reviews/streaming/matargashti-series-review-a-warm-and-watchable-father-daughter-comedy",
+        "source": "The Hollywood Reporter India"
+      },
+      {
+        "title": "Matargashti Ending Explained And Series Recap: What Reunites Dhara And Prakash?",
+        "url": "https://fugitives.com/matargashti-season-1-recap-ending-explained-2026/",
+        "source": "Film Fugitives"
+      },
+      {
+        "title": "Matargashti Streaming on Netflix – Cast, Crew, Episodes and Story Details, Featuring Rajesh Kumar, Adrija Sinha, and Saumya Uniyal",
+        "url": "https://www.keralatv.in/matargashti-netflix-series-cast-episodes/",
+        "source": "Kerala TV"
       }
     ]
   }
