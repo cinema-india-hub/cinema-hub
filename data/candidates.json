@@ -1,47 +1,24 @@
 [
   {
-    "geo": "US",
-    "title": "kirill kaprizov",
-    "traffic": 200,
-    "pubDate": "Sun, 25 Oct 2026 21:40:00 -0700",
+    "geo": "IN",
+    "title": "beparwah ahaan panday",
+    "traffic": 1000,
+    "pubDate": "Mon, 26 Oct 2026 08:00:00 -0700",
     "news": [
       {
-        "title": "Kirill Kaprizov scores goal for Wild",
-        "url": "https://www.espn.com/video/clip/_/id/50284677/kirill-kaprizov-scores-goal-wild",
-        "source": "ESPN"
+        "title": "'Saiyaara' Star Ahaan Panday, Sharvari's Ali Abbas Zafar Film Titled",
+        "url": "https://variety.com/2026/film/news/saiyaara-star-ahaan-panday-sharvari-ali-abbas-zafar-film-title-1236930643/",
+        "source": "Variety"
       },
       {
-        "title": "Kaprizov | Postgame at EDM",
-        "url": "https://www.nhl.com/wild/video/kaprizov-postgame-at-edm-6407183575112",
-        "source": "NHL.com"
+        "title": "‘Beparwah’: Ahaan Panday and Sharvari’s upcoming romantic-actioner gets title and release date",
+        "url": "https://www.thehindu.com/entertainment/movies/beparwah-ahaan-panday-and-sharvaris-upcoming-romantic-actioner-gets-title-and-release-date/article71626200.ece",
+        "source": "The Hindu"
       },
       {
-        "title": "Kirill Kaprizov Joins Connor McDavid In Exclusive NHL Company With Historic Start To Season",
-        "url": "https://thehockeynews.com/nhl/minnesota-wild/latest-news/kirill-kaprizov-joins-connor-mcdavid-in-exclusive-nhl-company-with-historic-start-to-season",
-        "source": "The Hockey News"
-      }
-    ]
-  },
-  {
-    "geo": "US",
-    "title": "laika studios",
-    "traffic": 200,
-    "pubDate": "Sun, 25 Oct 2026 21:30:00 -0700",
-    "news": [
-      {
-        "title": "‘Wildwood’ Is Nike Founder Son’s Latest Unprofitable Masterpiece",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-23/-wildwood-is-nike-founder-son-s-latest-unprofitable-masterpiece",
-        "source": "Bloomberg.com"
-      },
-      {
-        "title": "‘Wildwood’ Director Travis Knight on Spending 16 Years to Create His Stop-Motion “Masterpiece”",
-        "url": "https://www.hollywoodreporter.com/movies/movie-features/wildwood-director-travis-knight-films-journey-interview-1236736246/",
-        "source": "The Hollywood Reporter"
-      },
-      {
-        "title": "Stop-motion movie Wildwood is a staggering masterpiece. It's a miracle it exists at all",
-        "url": "https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321",
-        "source": "CBC"
+        "title": "‘Beparwah’ poster release: Ahaan Panday and Sharvari team up for Ali Abbas Zafar’s romantic action drama,",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/beparwah-poster-release-ahaan-panday-and-sharvari-team-up-for-ali-abbas-zafars-romantic-action-drama-film-set-for-march-26-2027-release/articleshow/135206427.cms",
+        "source": "The Times of India"
       }
     ]
   }
