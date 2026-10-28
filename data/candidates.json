@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "what time does vision quest come out",
+    "traffic": 2000,
+    "pubDate": "Tue, 27 Oct 2026 16:40:00 -0700",
+    "news": [
+      {
+        "title": "VisionQuest is what happens when AI really goes rogue",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+        "source": "The Verge"
+      },
+      {
+        "title": "VisionQuest has forever changed the way you'll watch one Avengers: Infinity War moment",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/visionquest-forever-changed-way-youll-151903352.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'",
+        "url": "https://www.ign.com/articles/marvels-visionquest-episodes-3-and-4-review-recap-reboot-malware",
+        "source": "IGN"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "julius randle",
+    "traffic": 500,
+    "pubDate": "Tue, 27 Oct 2026 16:50:00 -0700",
+    "news": [
+      {
+        "title": "The colliding forces sabotaging the Nets’ attempt to play defense",
+        "url": "https://nypost.com/2026/10/27/sports/the-colliding-forces-sabotaging-the-nets-attempt-to-play-defense/",
+        "source": "New York Post"
+      },
+      {
+        "title": "Nets rank 28th in NBA.com power rankings after 0-3 start to season",
+        "url": "https://sports.yahoo.com/articles/nets-rank-28th-nba-com-193919589.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Julius Randle calls for Nets to get on the same page defensively",
+        "url": "https://www.nydailynews.com/2026/10/27/nets-julius-randle-nba-mo-wagner-jordi-fernandez/",
+        "source": "New York Daily News"
+      }
+    ]
+  }
+]
