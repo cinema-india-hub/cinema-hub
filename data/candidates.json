@@ -1,24 +1,47 @@
 [
   {
-    "geo": "IN",
-    "title": "obsession",
-    "traffic": 200,
-    "pubDate": "Thu, 29 Oct 2026 01:50:00 -0700",
+    "geo": "US",
+    "title": "mama bear curry barker",
+    "traffic": 500,
+    "pubDate": "Thu, 29 Oct 2026 10:00:00 -0700",
     "news": [
       {
-        "title": "'Obsession': Varun Dhawan, Kriti Sanon lend voices to Hindi version of horror blockbuster",
-        "url": "https://www.thehindu.com/entertainment/movies/obsession-varun-dhawan-kriti-sanon-lend-voices-to-hindi-version-of-horror-blockbuster/article71634536.ece",
-        "source": "The Hindu"
+        "title": "‘Obsession’ Director Curry Barker Debuts Shocking New Short Film ‘Mama Bear,’ Just in Time for Halloween",
+        "url": "https://variety.com/2026/film/news/curry-barker-mama-bear-short-film-obsession-1236932639/",
+        "source": "Variety"
       },
       {
-        "title": "Amid Bhediya 2 Buzz, Varun Dhawan And Kriti Sanon Reunite To Voice Hollywood Horror Film Obsession",
-        "url": "https://www.ndtv.com/entertainment/amid-bhediya-2-buzz-varun-dhawan-and-kriti-sanon-reunite-to-voice-hollywood-horror-film-obsession-12243202",
-        "source": "NDTV"
+        "title": "OBSESSION Director Curry Barker Is Back Just In Time For Halloween",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/obsession-director-curry-barker-back-155640538.html",
+        "source": "Yahoo"
       },
       {
-        "title": "Varun Dhawan, Kriti Sanon team up for Hindi-dubbed version of ‘Obsession’",
-        "url": "https://www.aninews.in/news/entertainment/bollywood/varun-dhawan-kriti-sanon-team-up-for-hindi-dubbed-version-of-8216obsession821720261027124034",
-        "source": "ANI News"
+        "title": "‘Mama Bear’ – Watch Curry Barker’s Brand New Horror Short",
+        "url": "https://bloody-disgusting.com/movie/3973905/mama-bear-watch-curry-barkers-brand-new-horror-short/",
+        "source": "Bloody Disgusting"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "arthur kaliyev",
+    "traffic": 200,
+    "pubDate": "Thu, 29 Oct 2026 10:10:00 -0700",
+    "news": [
+      {
+        "title": "Wild Organization Adds Former Second-Round Pick Coming Off 40-Goal AHL Season",
+        "url": "https://sports.yahoo.com/articles/wild-organization-adds-former-second-165145912.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "AHL: 2025-26 AHL Goals Leader Signing PTO with Iowa",
+        "url": "https://insidetherink.com/ahl-2025-26-ahl-goals-leader-signing-pto-with-iowa/",
+        "source": "Inside The Rink"
+      },
+      {
+        "title": "Wild Organization Adds Former Second-Round Pick Coming Off 40-Goal AHL Season",
+        "url": "https://thehockeynews.com/nhl/minnesota-wild/latest-news/wild-organization-adds-former-second-round-pick-coming-off-40-goal-ahl-season",
+        "source": "The Hockey News"
       }
     ]
   }
