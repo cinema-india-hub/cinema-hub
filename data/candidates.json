@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "obsession",
+    "traffic": 200,
+    "pubDate": "Thu, 29 Oct 2026 01:50:00 -0700",
+    "news": [
+      {
+        "title": "'Obsession': Varun Dhawan, Kriti Sanon lend voices to Hindi version of horror blockbuster",
+        "url": "https://www.thehindu.com/entertainment/movies/obsession-varun-dhawan-kriti-sanon-lend-voices-to-hindi-version-of-horror-blockbuster/article71634536.ece",
+        "source": "The Hindu"
+      },
+      {
+        "title": "Amid Bhediya 2 Buzz, Varun Dhawan And Kriti Sanon Reunite To Voice Hollywood Horror Film Obsession",
+        "url": "https://www.ndtv.com/entertainment/amid-bhediya-2-buzz-varun-dhawan-and-kriti-sanon-reunite-to-voice-hollywood-horror-film-obsession-12243202",
+        "source": "NDTV"
+      },
+      {
+        "title": "Varun Dhawan, Kriti Sanon team up for Hindi-dubbed version of ‘Obsession’",
+        "url": "https://www.aninews.in/news/entertainment/bollywood/varun-dhawan-kriti-sanon-team-up-for-hindi-dubbed-version-of-8216obsession821720261027124034",
+        "source": "ANI News"
+      }
+    ]
+  }
+]
