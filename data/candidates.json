@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "rick hendrick",
+    "traffic": 500,
+    "pubDate": "Fri, 30 Oct 2026 09:50:00 -0700",
+    "news": [
+      {
+        "title": "“We Want to Make Him Happy”- HMS President Reveals Internal Pain of Letting Rick Hendrick Down That Rescued Collapsing Season",
+        "url": "https://sports.yahoo.com/articles/want-him-happy-hms-president-144534619.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "As motorsports changes, Hendrick’s campus adapts",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/11/02/as-motorsports-changes-hendricks-campus-adapts/",
+        "source": "Sports Business Journal"
+      },
+      {
+        "title": "Rick Hendrick Stunned as Ailing Darrell Waltrip Hands Emotional Gift Complementing $75,000 Auction Bid",
+        "url": "https://sports.yahoo.com/articles/rick-hendrick-stunned-ailing-darrell-173127060.html",
+        "source": "Yahoo Sports"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "vijay sethupathi new movie",
+    "traffic": 200,
+    "pubDate": "Fri, 30 Oct 2026 09:40:00 -0700",
+    "news": [
+      {
+        "title": "Inji Vellam: Vijay Sethupathi-Sai Pallavi's film with Mani Ratnam gets release date",
+        "url": "https://www.indiatoday.in/movies/regional-cinema/story/inji-vellam-release-date-mani-ratnam-vijay-sethupathi-sai-pallavi-january-2027-3027467-2026-10-29",
+        "source": "India Today"
+      },
+      {
+        "title": "Inji Vellam: Vijay Sethupathi and Sai Pallavi’s romantic film to release on January 29, 2027? Here’s what we know",
+        "url": "https://www.pinkvilla.com/entertainment/south/inji-vellam-vijay-sethupathi-and-sai-pallavis-romantic-film-to-release-on-january-29-2027-heres-what-we-know-1406152",
+        "source": "Pinkvilla"
+      },
+      {
+        "title": "Vijay Sethupathi And Sai Pallavi’s Inji Vellam Reportedly Eyeing 2027 Release",
+        "url": "https://www.zoomtventertainment.com/south/vijay-sethupathi-sai-pallavi-inji-vellam-release-date-report-article-156422634",
+        "source": "Zoom TV | Entertainment"
+      }
+    ]
+  }
+]
