@@ -1,24 +1,70 @@
 [
   {
     "geo": "IN",
-    "title": "aadarsha kutumbam ak 47",
-    "traffic": 2000,
-    "pubDate": "Sat, 31 Oct 2026 07:30:00 -0700",
+    "title": "spurs",
+    "traffic": 200,
+    "pubDate": "Sat, 31 Oct 2026 11:30:00 -0700",
     "news": [
       {
-        "title": "‘Aadarsha Kutumbam-House No.47’ movie review: Venkatesh, Trivikram's film is predictable yet entertaining",
-        "url": "https://www.thehindu.com/entertainment/movies/aadarsha-kutumbam-house-no47-movie-review-venkatesh-anchors-trivikrams-family-drama/article71641841.ece",
-        "source": "The Hindu"
+        "title": "How to watch Timberwolves vs. Spurs: TV channel and streaming options for October 31",
+        "url": "https://www.nytimes.com/athletic/7741705/2026/10/31/timberwolves-vs-spurs-stream-how-to-watch-oct-31/",
+        "source": "The New York Times"
       },
       {
-        "title": "Aadarsha Kutumbam Review: Trivikram Srinivas's Film Is A Tried-And-Tested Story Sans Surprises",
-        "url": "https://www.ndtv.com/entertainment/aadarsha-kutumbam-review-trivikram-srinivass-film-is-a-tried-and-tested-story-sans-surprises-12259004",
+        "title": "San Antonio hosts Minnesota after overtime win against Utah",
+        "url": "https://www.foxsports.com/articles/nba/san-antonio-hosts-minnesota-after-overtime-win-against-utah",
+        "source": "FOX Sports"
+      },
+      {
+        "title": "Game Preview #7: Wolves vs Spurs Game Thread",
+        "url": "https://www.canishoopus.com/timberwolves-game-previews/71283/nba-thread-san-antonio-spurs-rudy-gobert",
+        "source": "Canis Hoopus"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "srk",
+    "traffic": 200,
+    "pubDate": "Sat, 31 Oct 2026 11:30:00 -0700",
+    "news": [
+      {
+        "title": "Phars Film acquires overseas distribution rights for Shah Rukh Khan’s ‘King’",
+        "url": "https://www.telegraphindia.com/entertainment/phars-film-acquires-overseas-distribution-rights-for-shah-rukh-khans-king/cid/2187186",
+        "source": "Telegraph India"
+      },
+      {
+        "title": "Shah Rukh Khan's King Sells Overseas Rights For Staggering Rs 175 Crore: Report",
+        "url": "https://www.ndtv.com/entertainment/shah-rukh-khan-s-king-sells-overseas-rights-for-rs-175-crore-highest-in-indian-history-report-12262951",
         "source": "NDTV"
       },
       {
-        "title": "'Aadarsha Kutumbam – House No. 47' box office collection day 1: Venkatesh and Srinidhi Shetty's film reco",
-        "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/aadarsha-kutumbam-house-no-47-box-office-collection-day-1-venkatesh-and-srinidhi-shettys-film-records-impressive-worldwide-opening-mints-rs-16-65-cr/articleshow/135385067.cms",
+        "title": "Shah Rukh Khan’s 'King' breaks overseas rights record at Rs 175 crore; eyes to top 'Pathaan', 'Jawan' col",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-king-breaks-overseas-rights-record-at-rs-175-crore-eyes-to-top-pathaan-jawan-collections-to-turn-profitable/articleshow/135389731.cms",
         "source": "The Times of India"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "keerthy suresh",
+    "traffic": 200,
+    "pubDate": "Sat, 31 Oct 2026 11:20:00 -0700",
+    "news": [
+      {
+        "title": "‘Akka’ series review: Sisters in arms, Keerthy Suresh and Radhika Apte hold a mirror to absolute power",
+        "url": "https://www.thehindu.com/entertainment/movies/akka-series-review-sisters-in-arms-keerthy-suresh-and-radhika-apte-hold-a-mirror-to-absolute-power/article71645081.ece",
+        "source": "The Hindu"
+      },
+      {
+        "title": "Two Powerful Women. One Unforgiving Rivalry. A Legacy at Stake: Netflix Unveils the Trailer of 'Akka'",
+        "url": "https://about.netflix.com/news/two-powerful-women-one-unforgiving-rivalry-a-legacy-at-stake-netflix-unveils-the-trailer-of-akka",
+        "source": "About Netflix"
+      },
+      {
+        "title": "Akka Series Review: Keerthy Suresh shines in an ambitious, partly successful crime-drama",
+        "url": "https://www.newindianexpress.com/entertainment/review/2026/Oct/31/ottreview2026oct30akka-series-review-a-stellar-keerthy-suresh-in-an-ambitious-partly-successful-crime-drama",
+        "source": "The New Indian Express"
       }
     ]
   }
