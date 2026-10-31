@@ -1,24 +1,47 @@
 [
   {
     "geo": "IN",
-    "title": "ramayana movie reviews",
-    "traffic": 2000,
-    "pubDate": "Fri, 30 Oct 2026 13:40:00 -0700",
+    "title": "india vs uae",
+    "traffic": 500000,
+    "pubDate": "Fri, 30 Oct 2026 19:10:00 -0700",
     "news": [
       {
-        "title": "'Ramayana': Ranbir Kapoor, Yash, and Sai Pallavi attend the film’s world premiere in US ahead of theatrical release",
-        "url": "https://www.thehindu.com/entertainment/movies/ramayana-ranbir-kapoor-yash-and-sai-pallavi-attend-the-films-world-premiere-in-us-ahead-of-theatrical-release/article71634857.ece",
-        "source": "The Hindu"
+        "title": "India vs UAE, Hong Kong Sixes LIVE score: IND to bat first; Match start time, team news, squad details",
+        "url": "https://sportstar.thehindu.com/cricket/india-vs-uae-hong-kong-sixes-live-score-updates-highlights-commentary/article71648091.ece",
+        "source": "Sportstar"
       },
       {
-        "title": "Anupam Kher, The Voice Of Jatayu In Ramayana, Gets Emotional Over LA Premiere Reactions",
-        "url": "https://www.ndtv.com/entertainment/anupam-kher-the-voice-of-jatayu-in-ramayana-gets-emotional-over-la-premiere-reactions-our-legend-is-reaching-the-world-12254341/amp/1",
-        "source": "NDTV"
+        "title": "India Vs UAE Live Score, Hong Kong Sixes 2026: Krunal Pandya & Co. Asked To Bat First",
+        "url": "https://www.outlookindia.com/sports/cricket/india-vs-united-arab-emirates-live-score-hong-kong-sixes-2026-ind-vs-uae-match-commentary-scorecard-latest-updates",
+        "source": "Outlook India"
       },
       {
-        "title": "Yash and Radhika Pandit's children Ayra and Yatharv watch 'Ramayana' at LA premiere for their first big-s",
-        "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-and-radhika-pandits-children-ayra-and-yatharv-watch-ramayana-at-la-premiere-for-their-first-big-screen-experience/articleshow/135362143.cms",
-        "source": "The Times of India"
+        "title": "India vs UAE Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+        "url": "https://www.ndtvprofit.com/sports/india-vs-uae-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12260007",
+        "source": "NDTV Profit"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "klay thompson",
+    "traffic": 2000,
+    "pubDate": "Fri, 30 Oct 2026 19:30:00 -0700",
+    "news": [
+      {
+        "title": "“How Do You Lose Your Shot?”: Gilbert Arenas Baffled by Klay Thompson’s Three-Year Slump as Heat Struggles Continue",
+        "url": "https://sports.yahoo.com/articles/lose-shot-gilbert-arenas-baffled-021154003.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "ASK IRA: Are Heat not OK with Klay as Thompson’s minutes dwindle?",
+        "url": "https://www.sun-sentinel.com/2026/10/29/ask-ira-is-heat-not-ok-with-klay-as-thompsons-minutes-dwindle/",
+        "source": "Sun Sentinel"
+      },
+      {
+        "title": "Klay Thompson's Struggles Addressed By Heat's Erik Spoelstra Amid 1-4 Start to NBA Season",
+        "url": "https://bleacherreport.com/articles/25527377-klay-thompsons-struggles-addressed-heats-erik-spoelstra-amid-1-4-start-nba-season",
+        "source": "Bleacher Report"
       }
     ]
   }
