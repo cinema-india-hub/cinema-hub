@@ -1,47 +1,70 @@
 [
   {
-    "geo": "IN",
-    "title": "दृश्यम",
-    "traffic": 500,
-    "pubDate": "Mon, 2 Nov 2026 01:10:00 -0800",
+    "geo": "US",
+    "title": "invincible",
+    "traffic": 1000,
+    "pubDate": "Mon, 2 Nov 2026 11:40:00 -0800",
     "news": [
       {
-        "title": "दृश्यम 3 का एक महीना पूरा, 110 करोड़ के बजट में कमाया 241% प्रॉफिट, जानें टोटल कलेक्शन",
-        "url": "https://www.abplive.com/entertainment/bollywood/drishyam-3-box-office-collection-earns-241-percent-profit-in-110cr-budget-in-one-month-ajay-devgn-3209628",
-        "source": "ABP News"
+        "title": "Suit Up in Style with Fira X Wear’s New ‘Invincible’ Collection",
+        "url": "https://thepopinsider.com/fra-x-wear-invincible-apparel-launch/",
+        "source": "The Pop Insider"
       },
       {
-        "title": "Drishyam 3 Box Office Collection Day 27: अजय देवगन की फिल्म का लाखों में सिमटा कलेक्शन, जानें 27वें दिन कितनी कमाई की",
-        "url": "https://hindi.moneycontrol.com/entertainment/drishyam-3-box-office-collection-day-27-ajay-devgn-film-earned-0-90-crore-article-2451666.html",
-        "source": "Moneycontrol Hindi"
+        "title": "Prime Video’s 2-Part Superhero Thriller Is a Better Watch Than ‘The Boys’ or ‘Invincible’",
+        "url": "https://collider.com/the-boys-invincible-better-series-the-tick-superhero-thriller/",
+        "source": "Collider"
       },
       {
-        "title": "Box Office: अजय की 'दृश्यम 3' ने 25वें दिन 'टाइगर जिंदा है' का तोड़ा रिकॉर्ड, 'हनुमान अंश' से आगे 'नई नवेली'",
-        "url": "https://navbharattimes.indiatimes.com/entertainment/box-office/ajay-devgn-drishyam-3-the-conclusion-beats-tiger-zinda-hai-on-day-25-hanuman-ansh-vs-nayyi-navelli-collection/articleshow/135228994.cms",
-        "source": "Navbharat Times"
+        "title": "It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's the Same as the Previous Season, Confirms Comic Book Artist Ryan Ottley",
+        "url": "https://thedirect.com/article/invincible-season-5-release-amazon-prime-video-streaming-ryan-ottley-comic-book",
+        "source": "The Direct"
       }
     ]
   },
   {
-    "geo": "IN",
-    "title": "scam 2010",
+    "geo": "US",
+    "title": "gta 6 ps5 pre load date",
     "traffic": 500,
-    "pubDate": "Mon, 2 Nov 2026 00:50:00 -0800",
+    "pubDate": "Mon, 2 Nov 2026 12:20:00 -0800",
     "news": [
       {
-        "title": "First look of Hansal Mehta's ‘Scam 2010’ unveiled, series to premiere in January 2027",
-        "url": "https://www.telegraphindia.com/entertainment/first-look-of-hansal-mehtas-scam-2010-unveiled-series-to-premiere-in-january-2027/cid/2187478",
-        "source": "Telegraph India"
+        "title": "How To Prepare For Grand Theft Auto VI: Release Date, Platforms, And Pre-Orders",
+        "url": "https://girlsunited.essence.com/entertainment/how-to-prepare-for-grand-theft-auto-vi/",
+        "source": "Girls United"
       },
       {
-        "title": "'Scam 2010': Sony LIV announces official streaming window for Season 3 of Hansal Mehta's series",
-        "url": "https://www.theweek.in/news/entertainment/2026/11/02/scam-2010-hansal-mehta-sony-liv-streaming-window.html",
-        "source": "The Week"
+        "title": "‘GTA 6’ Enormous Map Size Confirmed, Enormous File Size Reported",
+        "url": "https://www.forbes.com/sites/paultassi/2026/10/29/gta-6-enormous-map-size-confirmed-enormous-file-size-reported/",
+        "source": "Forbes"
       },
       {
-        "title": "Siddharth Bodke on playing Subrata Roy in 'Scam 2010': Wanted to explore the man behind the image",
-        "url": "https://www.thehawk.in/news/showbiz/siddharth-bodke-on-playing-subrata-roy-in-scam-2010-wanted-to-explore-the-man-behind-the-image",
-        "source": "The Hawk"
+        "title": "Grand Theft Auto VI Reportedly Requires A 210GB Download",
+        "url": "https://www.engadget.com/2298872/gta-6-download-size-reportedly-210-gb/",
+        "source": "Engadget"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "oklahoma vs unc",
+    "traffic": 500,
+    "pubDate": "Mon, 2 Nov 2026 12:10:00 -0800",
+    "news": [
+      {
+        "title": "No. 12 WBB Begins Season In Paris Monday Vs. No. 21 Oklahoma",
+        "url": "https://goheels.com/news/2026/10/31/womens-basketball-no-12-wbb-begins-season-in-paris-monday-vs-no-21-oklahoma",
+        "source": "University of North Carolina Athletics"
+      },
+      {
+        "title": "OU Opens Season in Paris Against No. 12 North Carolina - University of Oklahoma",
+        "url": "https://soonersports.com/news/2026/11/1/womens-basketball-ou-opens-season-in-paris-against-no-12-north-carolina",
+        "source": "Soonersports.com"
+      },
+      {
+        "title": "What channel is Oklahoma vs North Carolina on today? Time, TV schedule",
+        "url": "https://sports.yahoo.com/articles/channel-oklahoma-vs-north-carolina-164021547.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
