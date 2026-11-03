@@ -1,70 +1,93 @@
 [
   {
     "geo": "US",
-    "title": "invincible",
+    "title": "jonbenet ramsey",
     "traffic": 1000,
-    "pubDate": "Mon, 2 Nov 2026 11:40:00 -0800",
+    "pubDate": "Mon, 2 Nov 2026 18:20:00 -0800",
     "news": [
       {
-        "title": "Suit Up in Style with Fira X Wear’s New ‘Invincible’ Collection",
-        "url": "https://thepopinsider.com/fra-x-wear-invincible-apparel-launch/",
-        "source": "The Pop Insider"
+        "title": "JonBenét Ramsey Murder Reexamined in New Diane Sawyer Investigation: Watch the Exclusive Trailer",
+        "url": "https://people.com/jonbenet-ramsey-murder-reexamined-in-new-diane-sawyer-investigation-watch-the-exclusive-trailer-12208013",
+        "source": "People.com"
       },
       {
-        "title": "Prime Video’s 2-Part Superhero Thriller Is a Better Watch Than ‘The Boys’ or ‘Invincible’",
-        "url": "https://collider.com/the-boys-invincible-better-series-the-tick-superhero-thriller/",
-        "source": "Collider"
+        "title": "‘JONBENÈT RAMSEY: RACE AGAINST TIME’ – A Diane Sawyer Investigation - Nov. 6th on ABC",
+        "url": "https://www.modernghana.com/videonews/abc/1/746275",
+        "source": "Modern Ghana"
       },
       {
-        "title": "It's Official: Invincible Season 5 Will Release On Amazon Prime Video During the TV Streaming Window That's the Same as the Previous Season, Confirms Comic Book Artist Ryan Ottley",
-        "url": "https://thedirect.com/article/invincible-season-5-release-amazon-prime-video-streaming-ryan-ottley-comic-book",
-        "source": "The Direct"
+        "title": "‘JONBENÈT RAMSEY: RACE AGAINST TIME’ – A Diane Sawyer Investigation - Nov. 6th on ABC",
+        "url": "https://www.centraloregondaily.com/news/nation-world/jonben-t-ramsey-race-against-time-a-diane-sawyer-investigation---nov-6th-on/video_06d71bd2-f725-5b0c-b8c7-447592d6c1dc.html",
+        "source": "Central Oregon Daily"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "gta 6 ps5 pre load date",
-    "traffic": 500,
-    "pubDate": "Mon, 2 Nov 2026 12:20:00 -0800",
+    "title": "arnold schwarzenegger",
+    "traffic": 1000,
+    "pubDate": "Mon, 2 Nov 2026 18:20:00 -0800",
     "news": [
       {
-        "title": "How To Prepare For Grand Theft Auto VI: Release Date, Platforms, And Pre-Orders",
-        "url": "https://girlsunited.essence.com/entertainment/how-to-prepare-for-grand-theft-auto-vi/",
-        "source": "Girls United"
+        "title": "‘The Man With The Bag’ Trailer: Arnold Schwarzenegger & Alan Ritchson Star In Amazon MGM’s Christmas Heist Caper",
+        "url": "https://deadline.com/2026/11/the-man-bag-trailer-arnold-schwarzenegger-santa-amazon-1237211272/",
+        "source": "Deadline"
       },
       {
-        "title": "‘GTA 6’ Enormous Map Size Confirmed, Enormous File Size Reported",
-        "url": "https://www.forbes.com/sites/paultassi/2026/10/29/gta-6-enormous-map-size-confirmed-enormous-file-size-reported/",
-        "source": "Forbes"
+        "title": "Arnold Schwarzenegger & Alan Ritchson Pull Off a Naughty Heist in New Christmas Movie Trailer",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/arnold-schwarzenegger-alan-ritchson-pull-153759581.html",
+        "source": "Yahoo"
       },
       {
-        "title": "Grand Theft Auto VI Reportedly Requires A 210GB Download",
-        "url": "https://www.engadget.com/2298872/gta-6-download-size-reportedly-210-gb/",
-        "source": "Engadget"
+        "title": "Santa Arnold enlists Reacher to save Christmas in The Man With The Bag trailer",
+        "url": "https://www.avclub.com/alan-ritchson-arnold-schwarzenegger-the-man-with-the-bag-trailer",
+        "source": "A.V. Club"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "వెబ్ సిరీస్",
+    "traffic": 200,
+    "pubDate": "Mon, 2 Nov 2026 18:10:00 -0800",
+    "news": [
+      {
+        "title": "akka web series review: రివ్యూ: మరో బాహుబలిలా.. కీర్తి, రాధికల ‘అక్క’ వెబ్ సిరీస్.. ఎలా ఉందంటే?",
+        "url": "https://www.eenadu.net/telugu-news/movies/akka-web-series-review-in-telugu/0203/126198712",
+        "source": "Eenadu"
+      },
+      {
+        "title": "‘అక్క’ వెబ్‌సిరీస్‌ రిలీజ్... ట్రెండింగ్ హీరోయిన్ కీర్తి సురేశ్‌ (ఫోటోలు)",
+        "url": "https://www.sakshi.com/photos/movies/actress-keerthy-suresh-akka-web-series-trending-now-2947360",
+        "source": "Sakshi"
+      },
+      {
+        "title": "Akka Review in Telugu: అక్క వెబ్‌సిరీస్ రివ్యూ & రేటింగ్!",
+        "url": "https://telugu.filmyfocus.com/akka-web-series-review-and-rating-in-telugu",
+        "source": "Filmy Focus"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "oklahoma vs unc",
-    "traffic": 500,
-    "pubDate": "Mon, 2 Nov 2026 12:10:00 -0800",
+    "title": "kenpom",
+    "traffic": 200,
+    "pubDate": "Mon, 2 Nov 2026 18:20:00 -0800",
     "news": [
       {
-        "title": "No. 12 WBB Begins Season In Paris Monday Vs. No. 21 Oklahoma",
-        "url": "https://goheels.com/news/2026/10/31/womens-basketball-no-12-wbb-begins-season-in-paris-monday-vs-no-21-oklahoma",
-        "source": "University of North Carolina Athletics"
+        "title": "The KenPom Numbers I'll Be Watching for Alabama This Season",
+        "url": "https://www.si.com/college/alabama/basketball/kenpom-numbers-ill-be-watching-alabama-this-season",
+        "source": "Sports Illustrated"
       },
       {
-        "title": "OU Opens Season in Paris Against No. 12 North Carolina - University of Oklahoma",
-        "url": "https://soonersports.com/news/2026/11/1/womens-basketball-ou-opens-season-in-paris-against-no-12-north-carolina",
-        "source": "Soonersports.com"
+        "title": "Mountaineers welcome Niagara to start Hodge’s second season as head coach",
+        "url": "https://wvmetronews.com/2026/11/01/mountaineers-welcome-niagara-to-start-hodges-second-season-as-head-coach/",
+        "source": "WV MetroNews"
       },
       {
-        "title": "What channel is Oklahoma vs North Carolina on today? Time, TV schedule",
-        "url": "https://sports.yahoo.com/articles/channel-oklahoma-vs-north-carolina-164021547.html",
-        "source": "Yahoo Sports"
+        "title": "WVU-Niagara: TV, radio, stream, Vegas odds and more",
+        "url": "https://247sports.com/college/west-virginia/article/wvu-niagara-tv-radio-stream-vegas-odds-and-more-292063890/",
+        "source": "247Sports"
       }
     ]
   }
