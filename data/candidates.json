@@ -1,24 +1,93 @@
 [
   {
-    "geo": "US",
-    "title": "rob lowe",
-    "traffic": 500,
-    "pubDate": "Wed, 4 Nov 2026 16:40:00 -0800",
+    "geo": "IN",
+    "title": "imdb",
+    "traffic": 200,
+    "pubDate": "Thu, 5 Nov 2026 01:40:00 -0800",
     "news": [
       {
-        "title": "Rob Lowe reflects on ‘completely bananas’ life in ‘The Outsider’ doc trailer (exclusive)",
-        "url": "https://ew.com/rob-lowe-the-outsider-documentary-first-look-trailer-exclusive-12208089",
-        "source": "Entertainment Weekly"
+        "title": "Exclusive | Rajinikanth's 'Jailer 2' Locks November 12 As Global Streaming Premiere on Prime Video",
+        "url": "https://www.imdb.com/news/ni66095465/?ref_=nmnw_art_perm",
+        "source": "IMDb"
       },
       {
-        "title": "The Outsider trailer gives Rob Lowe's tumultuous life the documentary treatment",
-        "url": "https://www.avclub.com/the-outsider-netflix-rob-lowe-documentary-trailer",
-        "source": "A.V. Club"
+        "title": "Exclusive | Rajinikanth's 'Jailer 2' Locks November 12 As Global Streaming Premiere on Prime Video",
+        "url": "https://www.hollywoodreporterindia.com/features/insight/exclusive-rajinikanths-jailer-2-locks-november-12-as-global-streaming-premiere-on-prime-video",
+        "source": "The Hollywood Reporter India"
       },
       {
-        "title": "Netflix slates Rob Lowe doc from Chris Smith",
-        "url": "https://realscreen.com/2026/11/03/netflix-slates-rob-lowe-doc-from-chris-smith/",
-        "source": "Realscreen"
+        "title": "‘Jailer 2’ OTT release: When and where to watch Rajinikanth-starrer action drama",
+        "url": "https://www.telegraphindia.com/entertainment/jailer-2-ott-release-when-and-where-to-watch-rajinikanth-starrer-action-drama/cid/2187797",
+        "source": "Telegraph India"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "एक्शन थ्रिलर",
+    "traffic": 200,
+    "pubDate": "Thu, 5 Nov 2026 01:00:00 -0800",
+    "news": [
+      {
+        "title": "OTT: 8.2 रेटिंग वाली साउथ की ये एक्शन थ्रिलर फिल्म देखी क्या? सोशल मीडिया पर लोग कर रहे हैं रीकमंड",
+        "url": "https://www.livehindustan.com/entertainment/web-series/ott-action-crime-thriller-film-on-amazon-prime-video-with-more-than-8-imdb-rating-theeran-adhigaaram-ondru-201793843279903.html",
+        "source": "Hindustan"
+      },
+      {
+        "title": "Gunmaaster G9 Poster: Emraan Hashmi हाथ में Gun लेकर दिखे खतरनाक अंदाज में",
+        "url": "https://cinematalk.in/gunmaaster-g9-poster-emraan-hashmi-action-movie/",
+        "source": "cinematalk.in"
+      },
+      {
+        "title": "इमरान हाशमी की 'गनमास्टर G9' का मोशन-पोस्टर जारी, जेनेलिया संग जमेगी जोड़ी",
+        "url": "https://hindi.newsbytesapp.com/news/entertainment/emraan-hashmi-gunmaster-g9-new-motion-poster-unveiled/story",
+        "source": "NewsBytes"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "perth scorchers vs sydney thunder",
+    "traffic": 200,
+    "pubDate": "Thu, 5 Nov 2026 00:50:00 -0800",
+    "news": [
+      {
+        "title": "Sydney Thunder name unchanged squad for WBBL clash with Perth Scorchers",
+        "url": "https://www.cricketworld.com/sydney-thunder-name-unchanged-squad-for-wbbl-clash-with-perth-scorchers/114189.htm",
+        "source": "Cricket World"
+      },
+      {
+        "title": "Where to Watch Match 11 – Sydney Thunder Women vs Perth Scorchers Women? Live Streaming Details",
+        "url": "https://femalecricket.com/wbbl12/99572-where-to-watch-match-11-sydney-thunder-women-vs-perth-scorchers-women-live-streaming-details.html",
+        "source": "Female Cricket"
+      },
+      {
+        "title": "ST-W vs PS-W 11th Match: Pitch Report, Player Stats & Form",
+        "url": "https://www.ai11.in/cricket/series/women-s-big-bash-league-2026-27/match/sydney-thunder-women-vs-perth-scorchers-women-11th-match-2026",
+        "source": "AI11"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "pluto tv",
+    "traffic": 200,
+    "pubDate": "Thu, 5 Nov 2026 01:10:00 -0800",
+    "news": [
+      {
+        "title": "Pluto TV Adds 4 New Channels to Start November 2026",
+        "url": "https://cordcuttersnews.com/pluto-tv-adds-4-new-channels-to-start-november-2026/",
+        "source": "| Cord Cutters News"
+      },
+      {
+        "title": "Interview: Emily Curl Talks Pluto TV’s Double Feature Fridays, Horror Favorites and Bringing Back Movie Night",
+        "url": "https://www.thetvcave.com/post/interview-emily-curl-talks-pluto-tv-s-double-feature-fridays-horror-favorites-and-bringing-back-mo",
+        "source": "The TV Cave"
+      },
+      {
+        "title": "Pluto TV is adding 14 new free live TV channels",
+        "url": "https://www.pocket-lint.com/pluto-tv-adding-14-new-free-live-tv-channels/",
+        "source": "Pocket-lint"
       }
     ]
   }
