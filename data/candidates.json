@@ -1,24 +1,47 @@
 [
   {
-    "geo": "IN",
-    "title": "im game",
-    "traffic": 200,
-    "pubDate": "Thu, 5 Nov 2026 10:40:00 -0800",
+    "geo": "US",
+    "title": "pitt basketball",
+    "traffic": 500,
+    "pubDate": "Thu, 5 Nov 2026 16:40:00 -0800",
     "news": [
       {
-        "title": "Friday OTT releases (November 6, 2026): 7 new movies & shows on Netflix, ZEE5 & more",
-        "url": "https://www.gqindia.com/content/friday-ott-releases-november-6-2026-7-new-movies-and-shows-on-netflix-zee5-and-more",
-        "source": "GQ India"
+        "title": "Matchup preview: Pitt battles Buffalo in second game of the season",
+        "url": "https://247sports.com/college/pittsburgh/article/pitt-panthers-basketball-buffalo-bulls-matchup-preview-jeff-capel-naithan-george-jj-starling-292215519/",
+        "source": "247Sports"
       },
       {
-        "title": "Meesaya Murukku 2 to I'm Game to Anakapalli: Watch these latest Tamil, Malayalam, Telugu and Kannada OTT r",
-        "url": "https://m.economictimes.com/magazines/panache/meesaya-murukku-2-to-im-game-to-anakapalli-watch-these-latest-tamil-malayalam-telugu-and-kannada-ott-releases-on-netflix-jiohotstar-prime-video-and-more/articleshow/135529821.cms",
-        "source": "The Economic Times"
+        "title": "Buffalo vs Pittsburgh Prediction, Picks & Odds | 05 Nov 2026",
+        "url": "https://www.sportsgambler.com/betting-tips/basketball/buffalo-bulls-vs-pittsburgh-panthers-prediction-odds-2026-11-05/",
+        "source": "Sportsgambler"
       },
       {
-        "title": "South movies to watch on OTT this week: From Dulquer Salmaan's 'I'm Game' to Fahadh Faasil's 'Don't Troub",
-        "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/south-movies-to-watch-on-ott-this-week-from-dulquer-salmaans-im-game-to-fahadh-faasils-dont-trouble-the-trouble/articleshow/135517779.cms",
-        "source": "The Times of India"
+        "title": "PHOTO GALLERY | TIME Dealer of the Year Nomination | Matt Smith",
+        "url": "https://www.tribdem.com/gallery/photo-gallery-time-dealer-of-the-year-nomination-matt-smith/collection_d6ccf73a-3b50-4691-9d45-9e5a0be54a24.html",
+        "source": "The Tribune-Democrat"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "columbus blue jackets",
+    "traffic": 500,
+    "pubDate": "Thu, 5 Nov 2026 16:40:00 -0800",
+    "news": [
+      {
+        "title": "Game Day Guide: Stars at Blue Jackets",
+        "url": "https://www.nhl.com/stars/news/game-day-guide-dallas-stars-at-columbus-blue-jackets-110526",
+        "source": "NHL.com"
+      },
+      {
+        "title": "Stars vs Blue Jackets Prediction, Pick, NHL Odds for Thursday, November 5",
+        "url": "https://sports.yahoo.com/articles/stars-vs-blue-jackets-prediction-163151251.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "How to watch Stars vs. Blue Jackets: TV channel and streaming options for November 5",
+        "url": "https://www.nytimes.com/athletic/7756489/2026/11/05/stars-vs-blue-jackets-stream-how-to-watch-nov-5/",
+        "source": "The New York Times"
       }
     ]
   }
