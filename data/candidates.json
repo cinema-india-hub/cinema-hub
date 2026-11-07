@@ -1,24 +1,70 @@
 [
   {
-    "geo": "US",
-    "title": "gta release date",
-    "traffic": 1000,
-    "pubDate": "Sat, 7 Nov 2026 00:40:00 -0800",
+    "geo": "IN",
+    "title": "shanaya kapoor",
+    "traffic": 2000,
+    "pubDate": "Sat, 7 Nov 2026 08:30:00 -0800",
     "news": [
       {
-        "title": "Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig",
-        "url": "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto",
-        "source": "Charter Communications"
+        "title": "With Student of the Year: After Dark, director Reema Maya explores the pressures of competition on young minds",
+        "url": "https://indianexpress.com/article/express-sunday-eye/with-student-of-the-year-after-dark-director-reema-maya-explores-the-pressures-of-competition-on-young-minds-10951969/",
+        "source": "The Indian Express"
       },
       {
-        "title": "Grand Theft Auto VI pre-download begins November 10",
-        "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
-        "source": "PlayStation.Blog"
+        "title": "Shanaya Kapoor is not sleeping due to nerves for Student of the Year After Dark, why watching murder mysteries gives her 'calm and peace' | Interview | Web Series",
+        "url": "https://www.hindustantimes.com/entertainment/web-series/shanaya-kapoor-is-not-sleeping-due-to-nerves-for-student-of-the-year-after-dark-why-watching-murder-mysteries-gives-her-calm-and-peace-interview-101793962030230.html",
+        "source": "Hindustan Times"
       },
       {
-        "title": "GTA 6 Preload and Global Release Times Confirmed by Rockstar Games",
-        "url": "https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
-        "source": "IGN"
+        "title": "Student of the Year: After Dark director Reema Maya Interview: Shanaya Kapoor worked really hard and was very prepared",
+        "url": "https://www.pinkvilla.com/entertainment/exclusives/student-of-the-year-after-dark-director-reema-maaya-interview-shanaya-kapoor-worked-really-hard-and-was-very-prepared-1406309",
+        "source": "Pinkvilla"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "karan johar",
+    "traffic": 500,
+    "pubDate": "Sat, 7 Nov 2026 08:10:00 -0800",
+    "news": [
+      {
+        "title": "In pics: Janhvi Kapoor, Ananya Panday attend Diwali Puja at Karan Johar's office",
+        "url": "https://www.aninews.in/news/entertainment/bollywood/in-pics-janhvi-kapoor-ananya-panday-attend-diwali-puja-at-karan-johars-office20261107175359",
+        "source": "ANI News"
+      },
+      {
+        "title": "Celebs At Karan Johar Office For Diwali Puja | Ananya Panday, Janhvi Kapoor, Shanaya Kapoor & More",
+        "url": "https://mayapuri.com/videos/lifestyle/celebs-at-karan-johar-office-for-diwali-puja-ananya-panday-janhvi-kapoor-shanaya-kapoor-more-12792447",
+        "source": "mayapuri.com"
+      },
+      {
+        "title": "Bollywood Stars Including Janhvi Kapoor and Ananya Panday Gather at Dharma Productions Office for Annual Diwali Puja Celebrations",
+        "url": "https://www.zoomtventertainment.com/bollywood/bollywood-stars-attend-dharma-productions-diwali-puja-article-156479592",
+        "source": "Zoom TV"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "television show",
+    "traffic": 200,
+    "pubDate": "Sat, 7 Nov 2026 08:40:00 -0800",
+    "news": [
+      {
+        "title": "Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more",
+        "url": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows",
+        "source": "Space"
+      },
+      {
+        "title": "Marvel's 2027 Release Schedule: All 8 Movies And TV Shows Explained",
+        "url": "https://www.slashfilm.com/2308020/marvel-movies-tv-shows-2027-release-schedule-explained/",
+        "source": "SlashFilm"
+      },
+      {
+        "title": "Marvel Confirms 4 MCU Films Releasing After Avengers: Doomsday At Disney Upfront 27 Event",
+        "url": "https://thedirect.com/article/marvel-mcu-films-after-doomsday-disney-upfront-27",
+        "source": "The Direct"
       }
     ]
   }
