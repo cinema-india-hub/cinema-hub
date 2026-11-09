@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "gilded age cast",
+    "traffic": 1000,
+    "pubDate": "Sun, 8 Nov 2026 18:30:00 -0800",
+    "news": [
+      {
+        "title": "Meet ‘The Gilded Age’ Season 4 Cast’s Real-Life Partners",
+        "url": "https://people.com/meet-the-real-life-loves-the-gilded-age-season-4-cast-12236988",
+        "source": "People.com"
+      },
+      {
+        "title": "10 Real-Life Historical Figures in HBO’s 'The Gilded Age'",
+        "url": "https://www.mentalfloss.com/entertainment/tv/real-historical-figures-gilded-ag",
+        "source": "Mental Floss"
+      },
+      {
+        "title": "'The Gilded Age' Cast Real-Life Relationships Revealed: Who's Married, Divorced or Single?",
+        "url": "https://www.justjared.com/2026/11/08/the-gilded-age-cast-real-life-relationships-married-divorced-single/",
+        "source": "Just Jared"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "godzilla minus zero box office",
+    "traffic": 500,
+    "pubDate": "Sun, 8 Nov 2026 18:30:00 -0800",
+    "news": [
+      {
+        "title": "‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office",
+        "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-ramayana-nternational-box-office-1236942760/",
+        "source": "Variety"
+      },
+      {
+        "title": "Film Critic Review: ‘Godzilla Minus Zero’",
+        "url": "https://www.forbes.com/sites/markhughes/2026/11/06/film-critic-review-godzilla-minus-zero-is-the-best-film-of-the-year/",
+        "source": "Forbes"
+      },
+      {
+        "title": "‘Godzilla Minus Zero’ Powers $31M in Historic Box Office Launch Against Subdued ‘Cat in the Hat’",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/",
+        "source": "The Hollywood Reporter"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "cairo santos",
+    "traffic": 500,
+    "pubDate": "Sun, 8 Nov 2026 18:30:00 -0800",
+    "news": [
+      {
+        "title": "Patrick Mannelly talks heart health, Bears season, Cairo Santos & more",
+        "url": "https://sports.yahoo.com/articles/patrick-mannelly-talks-heart-health-162428053.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Get Ahead of the Game: Patrick Mannelly on His Mom, His Heart, and What Former Players Can't See Coming",
+        "url": "https://ontapsportsnet.com/nfl/chicago-bears/patrick-mannelly-heartflow-gamefilm-bears/",
+        "source": "On Tap Sports Net"
+      },
+      {
+        "title": "Bucs-Bears game today: Bucky Irving and Tampa Bay Buccaneers visit D'Andre Swift and Chicago Bears at Soldier Field",
+        "url": "https://abc7chicago.com/post/bucs-bears-game-today-bucky-irving-tampa-bay-buccaneers-visit-dandre-swift-chicago-soldier-field/20024649/",
+        "source": "ABC7 Chicago"
+      }
+    ]
+  }
+]
