@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "ayesha curry",
+    "traffic": 5000,
+    "pubDate": "Wed, 11 Nov 2026 12:30:00 -0800",
+    "news": [
+      {
+        "title": "Stephen Curry Calls Out Gilbert Arenas, Nick Young in Video After Criticism of Wife Ayesha",
+        "url": "https://bleacherreport.com/articles/25532341-stephen-curry-calls-out-gilbert-arenas-nick-young-video-after-criticism-wife-ayesha",
+        "source": "Bleacher Report"
+      },
+      {
+        "title": "Steph Curry goes off on former NBA players for criticizing Ayesha Curry",
+        "url": "https://sports.yahoo.com/articles/steph-curry-goes-off-former-205035251.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Ayesha Curry says husband Steph Curry's NBA pregame habits inspired her movie character, responds to backlash",
+        "url": "https://www.foxnews.com/outkick-sports/ayesha-curry-says-husband-steph-curry-nba-pregame-habits-inspired-movie-character-responds-backlash",
+        "source": "Fox News"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "weather chicago",
+    "traffic": 200,
+    "pubDate": "Wed, 11 Nov 2026 12:30:00 -0800",
+    "news": [
+      {
+        "title": "Chicago, IL-area weather forecast this week could include 1st snowfall of season",
+        "url": "https://abc7chicago.com/post/chicago-il-area-weather-forecast-week-could-include-1st-snowfall-season/20030999/",
+        "source": "ABC7 Chicago"
+      },
+      {
+        "title": "Wednesday forecast: Showers, isolated thunderstorms develop as coldest air of season moves into Chicagoland",
+        "url": "https://wgntv.com/weather/chicago-weather-wednesday-11112026/",
+        "source": "WGN-TV"
+      },
+      {
+        "title": "Chicago weather: Colder stretch ahead as snow chances shift toward 'Michiana'",
+        "url": "https://www.fox32chicago.com/weather/chicago-weather-forecast-cold-snow-chance",
+        "source": "FOX 32 Chicago"
+      }
+    ]
+  }
+]
