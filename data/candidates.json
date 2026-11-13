@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "stefon diggs",
+    "traffic": 2000,
+    "pubDate": "Thu, 12 Nov 2026 19:10:00 -0800",
+    "news": [
+      {
+        "title": "Dan Quinn addresses Stefon Diggs' costly decision and Commanders' fight to save season",
+        "url": "https://www.wusa9.com/article/sports/nfl/washington-commanders/dan-quinn-stefon-diggs-out-of-bounds-rams-loss/65-6973ee9a-b34a-4fc3-809b-27d3345c36f9",
+        "source": "WUSA9"
+      },
+      {
+        "title": "Commanders' Stefon Diggs explains late-game decision in Week 10 vs Rams",
+        "url": "https://sports.yahoo.com/articles/commanders-stefon-diggs-explains-game-200120602.html",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Stefon Diggs has 51 yards in loss",
+        "url": "https://www.fantasypros.com/nfl/news/618861/stefon-diggs-has-51-yards-loss.php",
+        "source": "FantasyPros"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "hollywood brown",
+    "traffic": 1000,
+    "pubDate": "Thu, 12 Nov 2026 19:10:00 -0800",
+    "news": [
+      {
+        "title": "Eagles To Waive WR Marquise Brown",
+        "url": "https://www.profootballrumors.com/2026/11/eagles-to-waive-wr-marquise-brown",
+        "source": "NFL Rumors - ProFootballRumors.com"
+      },
+      {
+        "title": "Hollywood Brown Reportedly Waived by Eagles, Top Landing Spots for WR After NFL Trade Rumors",
+        "url": "https://bleacherreport.com/articles/25532802-hollywood-brown-reportedly-waived-eagles-top-landing-spots-wr-after-nfl-trade-rumors",
+        "source": "Bleacher Report"
+      },
+      {
+        "title": "Marquise 'Hollywood' Brown: Eagles waive ex-Chiefs WR in Week 10",
+        "url": "https://sports.yahoo.com/articles/marquise-hollywood-brown-eagles-waive-031109750.html",
+        "source": "Yahoo Sports"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "high potential",
+    "traffic": 200,
+    "pubDate": "Thu, 12 Nov 2026 19:20:00 -0800",
+    "news": [
+      {
+        "title": "‘High Potential’ Fans Are Losing It Over the Show’s Epic Announcement About Season 3",
+        "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/high-potential-fans-losing-over-151600860.html",
+        "source": "Yahoo"
+      },
+      {
+        "title": "'Bachelor' Moves To Sunday; ABC Sets Winter Dates For Dramas, Comedies, Reality",
+        "url": "https://deadline.com/2026/11/abc-midseason-2027-premiere-dates-1237215142/",
+        "source": "Deadline"
+      },
+      {
+        "title": "ABC's 2027 Midseason Premiere Dates: See the Schedule",
+        "url": "https://abc.com/news/555def93-aaa1-481a-b981-61865c6724ba/category/1138628",
+        "source": "ABC Network"
+      }
+    ]
+  }
+]
