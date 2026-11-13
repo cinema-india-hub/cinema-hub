@@ -1,24 +1,47 @@
 [
   {
     "geo": "US",
-    "title": "steve miner",
-    "traffic": 200,
-    "pubDate": "Fri, 13 Nov 2026 05:10:00 -0800",
+    "title": "nintendo black friday sale",
+    "traffic": 5000,
+    "pubDate": "Fri, 13 Nov 2026 12:40:00 -0800",
     "news": [
       {
-        "title": "'Friday The 13th' New Movie In Works; Steve Miner Directing",
-        "url": "https://deadline.com/2026/11/new-friday-the-13th-movie-steve-miner-1237220585/",
-        "source": "Deadline"
+        "title": "Nintendo announces Black Friday offers to help spread joy this holiday season - News - Nintendo Official Site",
+        "url": "https://www.nintendo.com/us/whatsnew/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/",
+        "source": "Nintendo"
       },
       {
-        "title": "Producer Robbie Barsamian Talks New ‘Friday the 13th’ Entry and Getting Jason Back on the Big Screen | Exclusive",
-        "url": "https://www.thewrap.com/creative-content/movies/friday-the-13th-producer-robbie-barsamian-interview-new-movie/",
-        "source": "TheWrap"
+        "title": "The Nintendo Switch 2 gets a rare deal way ahead of Black Friday",
+        "url": "https://mashable.com/tech/nov-9-nintendo-switch-2-deal",
+        "source": "Mashable"
       },
       {
-        "title": "Jason Returns With Steve Miner Directing a New Jason Universe Film",
-        "url": "https://www.dreadcentral.com/news/597607/jason-returns-with-steve-miner-directing-a-new-jason-universe-film/",
-        "source": "Dread Central"
+        "title": "Nintendo's Black Friday Deals Are Actually Pretty Good",
+        "url": "https://lifehacker.com/tech/best-nintendo-deals-black-friday-2026",
+        "source": "Lifehacker"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "chris hemsworth",
+    "traffic": 500,
+    "pubDate": "Fri, 13 Nov 2026 12:30:00 -0800",
+    "news": [
+      {
+        "title": "Chris Hemsworth, Elsa Pataky's 3 cars stolen from Australian home",
+        "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/13/chris-hemsworth-elsa-pataky-home-burglary-cars/92751835007/",
+        "source": "USA Today"
+      },
+      {
+        "title": "Police investigate break in and theft at Hollywood actor Chris Hemsworth’s Northern Rivers home",
+        "url": "https://7news.com.au/entertainment/police-investigate-break-in-and-theft-at-hollywood-actor-chris-hemsworths-northern-rivers-home-c-23152107",
+        "source": "7NEWS"
+      },
+      {
+        "title": "Chris Hemsworth’s Home Burglarized as Masked Thieves Carrying Knives Steal 3 of His Vehicles",
+        "url": "https://people.com/chris-hemsworth-home-burglarized-masked-thieves-carrying-knifes-steal-3-of-his-vehicles-12252410",
+        "source": "People.com"
       }
     ]
   }
