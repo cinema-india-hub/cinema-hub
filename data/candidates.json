@@ -1,47 +1,88 @@
 [
   {
     "geo": "US",
-    "title": "nintendo black friday sale",
-    "traffic": 5000,
-    "pubDate": "Fri, 13 Nov 2026 12:40:00 -0800",
+    "title": "nba cup standings",
+    "traffic": 1000,
+    "pubDate": "Fri, 13 Nov 2026 19:10:00 -0800",
     "news": [
       {
-        "title": "Nintendo announces Black Friday offers to help spread joy this holiday season - News - Nintendo Official Site",
-        "url": "https://www.nintendo.com/us/whatsnew/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/",
-        "source": "Nintendo"
+        "title": "NBA Cup Live updates: scores, highlights for November 13",
+        "url": "https://www.nba.com/news/emirates-nba-cup-live-updates-november-13",
+        "source": "NBA.com"
       },
       {
-        "title": "The Nintendo Switch 2 gets a rare deal way ahead of Black Friday",
-        "url": "https://mashable.com/tech/nov-9-nintendo-switch-2-deal",
-        "source": "Mashable"
+        "title": "What’s at stake in Friday’s NBA Cup slate with Warriors-Spurs, Cavs-Heat and other games?",
+        "url": "https://www.nytimes.com/athletic/7776476/2026/11/13/nba-cup-standings-cavs-heat-spurs-warriors/",
+        "source": "The New York Times"
       },
       {
-        "title": "Nintendo's Black Friday Deals Are Actually Pretty Good",
-        "url": "https://lifehacker.com/tech/best-nintendo-deals-black-friday-2026",
-        "source": "Lifehacker"
+        "title": "Projected NBA Cup Bracket After Second Night of In-Season Tournament Action",
+        "url": "https://www.si.com/nba/projected-nba-cup-bracket-after-second-night-in-season-tournament-action",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "chris hemsworth",
-    "traffic": 500,
-    "pubDate": "Fri, 13 Nov 2026 12:30:00 -0800",
+    "title": "the body netflix cast",
+    "traffic": 1000,
+    "pubDate": "Fri, 13 Nov 2026 19:10:00 -0800",
     "news": [
       {
-        "title": "Chris Hemsworth, Elsa Pataky's 3 cars stolen from Australian home",
-        "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/13/chris-hemsworth-elsa-pataky-home-burglary-cars/92751835007/",
-        "source": "USA Today"
+        "title": "Netflix’s Best New Show Deserves Its 98% Rotten Tomatoes Audience Score",
+        "url": "https://www.forbes.com/sites/paultassi/2026/11/13/netflixs-best-new-show-deserves-its-98-rotten-tomatoes-audience-score/",
+        "source": "Forbes"
       },
       {
-        "title": "Police investigate break in and theft at Hollywood actor Chris Hemsworth’s Northern Rivers home",
-        "url": "https://7news.com.au/entertainment/police-investigate-break-in-and-theft-at-hollywood-actor-chris-hemsworths-northern-rivers-home-c-23152107",
-        "source": "7NEWS"
+        "title": "The Body review – this sexy retro high school drama is like Cruel Intentions … with added Satanic rituals",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/13/the-body-coming-of-age-review-netflix",
+        "source": "The Guardian"
       },
       {
-        "title": "Chris Hemsworth’s Home Burglarized as Masked Thieves Carrying Knives Steal 3 of His Vehicles",
-        "url": "https://people.com/chris-hemsworth-home-burglarized-masked-thieves-carrying-knifes-steal-3-of-his-vehicles-12252410",
-        "source": "People.com"
+        "title": "84,000 Signed Petition for Netflix to Cancel ‘The Body,’ Yet It’s Surging Up Charts After 100% Rotten Tomatoes Debut",
+        "url": "https://www.imdb.com/news/ni66109843/?ref_=ttnw_art_perm",
+        "source": "IMDb"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "james franco",
+    "traffic": 1000,
+    "pubDate": "Fri, 13 Nov 2026 19:10:00 -0800",
+    "news": [
+      {
+        "title": "'Confession' Review: Rob Lowe, James Franco in Ben Shapiro-Penned Film",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/confession-review-rob-lowe-james-franco-nick-nolte-1236751013/",
+        "source": "The Hollywood Reporter"
+      },
+      {
+        "title": "Ben Shapiro’s Screenwriting Debut Is Here. It’s … a Movie, All Right.",
+        "url": "https://slate.com/culture/2026/11/confession-movie-2026-daily-wire-ben-shapiro-rob-lowe-james-franco.html",
+        "source": "Slate Magazine"
+      },
+      {
+        "title": "'Confession' Review: James Franco and Rob Lowe in a Sluggish Drama",
+        "url": "https://variety.com/2026/film/news/confession-review-1236945904/",
+        "source": "Variety"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "hyderabad vs mumbai",
+    "traffic": 200,
+    "pubDate": "Fri, 13 Nov 2026 19:20:00 -0800",
+    "news": [
+      {
+        "title": "Hyderabad vs Mumbai SMAT 2026 Live Streaming: Where to Watch on TV & Online?",
+        "url": "https://www.sportsdunia.com/cricket-news/hyderabad-vs-mumbai-smat-live-streaming-elite-group-d-2026",
+        "source": "Sportsdunia"
+      },
+      {
+        "title": "Hyderabad vs Mumbai Live Scorecard: Live Cricket Score HYD vs MUM, Match 3, Syed Mushtaq Ali Trophy, 2026",
+        "url": "https://www.indiatoday.in/live-score/cricket/hyderabad-mumbai-live-cricket-scorecard-272925",
+        "source": "India Today"
       }
     ]
   }
