@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "grand theft auto vi",
+    "traffic": 2000,
+    "pubDate": "Mon, 16 Nov 2026 01:30:00 -0800",
+    "news": [
+      {
+        "title": "The Global Story | GTA 6: A mirror of America?",
+        "url": "https://www.bbc.com/audio/play/w3ct8m9q",
+        "source": "BBC"
+      },
+      {
+        "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+        "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+        "source": "The Guardian"
+      },
+      {
+        "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+        "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+        "source": "CNBC"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "syed mushtaq ali trophy scorecard",
+    "traffic": 1000,
+    "pubDate": "Mon, 16 Nov 2026 01:00:00 -0800",
+    "news": [
+      {
+        "title": "Syed Mushtaq Ali Trophy 2026: Know where to watch live streaming and telecast in India",
+        "url": "https://www.olympics.com/en/news/syed-mushtaq-ali-trophy-2026-cricket-live-streaming-telecast-india",
+        "source": "Olympics"
+      },
+      {
+        "title": "Big Names, Bigger Challenges, Intense Action: SMAT 2026-27 is Here",
+        "url": "https://www.bcci.tv/news/article/big-names-bigger-challenges-intense-action-smat-2026-27-is-here",
+        "source": "BCCI"
+      },
+      {
+        "title": "Playing SMAT with IPL on the mind: ten players with a lot to gain (and lose)",
+        "url": "https://www.cricinfo.com/story/syed-mushtaq-ali-trophy-to-ipl-2027-suryakumar-yadav-mohammed-shami-shardul-thakur-yash-dayal-in-focus-1562187",
+        "source": "Cricinfo"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "sharad kapoor",
+    "traffic": 500,
+    "pubDate": "Sun, 15 Nov 2026 23:40:00 -0800",
+    "news": [
+      {
+        "title": "Sonu Sood Meets Sharad Kapoor After Josh Actor Appeals For Financial Help In Viral Video",
+        "url": "https://www.ndtv.com/entertainment/sharad-kapoor-meets-sonu-sood-days-after-he-sought-help-from-bollywood-fraternity-12332971",
+        "source": "NDTV"
+      },
+      {
+        "title": "Shah Rukh Khan’s co-star, who became popular as antagonist after 2000 hit film, now seen begging for work",
+        "url": "https://m.economictimes.com/magazines/panache/shah-rukh-khans-co-star-who-became-popular-as-antagonist-after-2000-hit-film-now-seen-begging-for-work-in-viral-video-money-is-not-the-issue-who-is-sharad-kapoor/articleshow/135850044.cms",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Sharad Kapoor’s fresh appeal: Asks film industry for financial, emotional support",
+        "url": "https://www.telegraphindia.com/entertainment/sharad-kapoors-fresh-appeal-asks-film-industry-for-financial-emotional-support/cid/2189638",
+        "source": "Telegraph India"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "netflix amazon prime november ott releases",
+    "traffic": 200,
+    "pubDate": "Mon, 16 Nov 2026 01:40:00 -0800",
+    "news": [
+      {
+        "title": "Latest OTT releases (November 16-22): 15 new movies and TV shows on Netflix, Prime Video, JioHotstar and more",
+        "url": "https://www.vogue.in/content/latest-ott-releases-november-16-22-15-new-movies-and-tv-shows-on-netflix-prime-video-jiohotstar-and-more",
+        "source": "Vogue India"
+      },
+      {
+        "title": "November 2026, Week 3: New Buzzing OTT Titles",
+        "url": "https://www.digitalstudioindia.com/video/ott/november-2026-3",
+        "source": "Digital Studio India"
+      },
+      {
+        "title": "Everything We Are Watching This Week (November 16-22): Suryaa, Ebenezer & More | Filmfare.com",
+        "url": "https://www.filmfare.com/news/bollywood/everything-we-are-watching-this-week-november-16-22-suryaa-ebenezer-more-87171.html",
+        "source": "Filmfare"
+      }
+    ]
+  }
+]
