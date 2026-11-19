@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "geo": "US",
+    "title": "dermot mulroney",
+    "traffic": 1000,
+    "pubDate": "Thu, 19 Nov 2026 06:30:00 -0800",
+    "news": [
+      {
+        "title": "Diane Keaton’s ‘Memory Is Honored in Everything‘ in ‘Family Stone’ Sequel, Says Star Dermot Mulroney",
+        "url": "https://variety.com/2026/film/news/dermot-mulroney-diane-keaton-family-stone-sequel-1236950731/",
+        "source": "Variety"
+      },
+      {
+        "title": "‘The Family Stone’ Sequel to Film Holiday Scenes in Rye",
+        "url": "https://ryerecord.com/the-family-stone-sequel-to-film-holiday-scenes-in-rye/",
+        "source": "Rye Record"
+      },
+      {
+        "title": "Dermot Mulroney Says ‘The Family Stone’ Sequel Honors Diane Keaton’s Memory",
+        "url": "https://mezha.net/eng/news/mezha-809d0f324dafea08ac447066_dermot_mulroney_says/",
+        "source": "Mezha.net"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "the altruists",
+    "traffic": 200,
+    "pubDate": "Thu, 19 Nov 2026 06:10:00 -0800",
+    "news": [
+      {
+        "title": "The Altruists review – two of TV’s best actors light up this chaotic crypto tale",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner",
+        "source": "The Guardian"
+      },
+      {
+        "title": "'An extraordinary piece of storytelling': Propagate Content's CEO on Sam Bankman-Fried docu series",
+        "url": "https://www.cnbc.com/video/2026/11/18/an-extraordinary-piece-of-storytelling-propagate-contents-ceo-on-sam-bankman-fried-docu-series.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "\"Twisty\" and \"chaotic\" 8-part drama with House of Guinness star is streaming now on Netflix",
+        "url": "https://www.digitalspy.com/tv/a74474921/the-altruists-netflix/",
+        "source": "Digital Spy"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "finn wittrock",
+    "traffic": 200,
+    "pubDate": "Thu, 19 Nov 2026 06:20:00 -0800",
+    "news": [
+      {
+        "title": "‘Hershey’ movie has its red carpet premiere at Hershey Theatre",
+        "url": "https://www.abc27.com/hershey/hershey-movie-has-its-red-carpet-premiere-at-hershey-theatre/",
+        "source": "ABC27"
+      },
+      {
+        "title": "From Ligonier to the red carpet, ‘Hershey’ biopic makes its debut",
+        "url": "https://triblive.com/local/westmoreland/from-ligonier-to-the-red-carpet-hershey-biopic-makes-its-debut/",
+        "source": "TribLIVE.com"
+      },
+      {
+        "title": "‘Hershey’ Review: Finn Wittrock Plays the American Chocolate Titan in a Sickly Sweet Biopic",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/hershey-review-finn-wittrock-alexandra-daddario-chocolate-1236757233/",
+        "source": "The Hollywood Reporter"
+      }
+    ]
+  }
+]
