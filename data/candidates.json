@@ -1,70 +1,47 @@
 [
   {
     "geo": "US",
-    "title": "notre dame basketball",
-    "traffic": 2000,
-    "pubDate": "Thu, 19 Nov 2026 14:00:00 -0800",
+    "title": "tarleton state basketball",
+    "traffic": 200,
+    "pubDate": "Thu, 19 Nov 2026 20:10:00 -0800",
     "news": [
       {
-        "title": "Auburn vs. Notre Dame live updates: Score, highlights, analysis",
-        "url": "https://sports.yahoo.com/articles/auburn-vs-notre-dame-live-210049658.html",
+        "title": "USC gets 2 unfortunate injury updates for Tarleton State clash",
+        "url": "https://sports.yahoo.com/articles/usc-gets-2-unfortunate-injury-220638977.html",
         "source": "Yahoo Sports"
       },
       {
-        "title": "Game thread: Auburn vs. Notre Dame",
-        "url": "https://247sports.com/college/auburn/article/auburn-basketball-score-notre-dame-292985278/",
-        "source": "247Sports"
+        "title": "USC men’s basketball looks to continue undefeated season",
+        "url": "https://dailytrojan.com/2026/11/19/usc-mens-basketball-looks-to-continue-undefeated-season/",
+        "source": "Daily Trojan"
       },
       {
-        "title": "How to watch Auburn basketball vs Notre Dame: TV, streaming for today's game",
-        "url": "https://www.miamiherald.com/sports/article318157199.html",
-        "source": "Miami Herald"
+        "title": "No. 18 Southern California riding high ahead of Tarleton State visit",
+        "url": "https://lufkindailynews.com/news_reuters/sports/no-18-southern-california-riding-high-ahead-of-tarleton-state-visit/article_cead7f67-1483-5569-a9d3-25cf97fa6998.html",
+        "source": "The Lufkin Daily News"
       }
     ]
   },
   {
     "geo": "US",
-    "title": "liv hewson",
-    "traffic": 500,
-    "pubDate": "Thu, 19 Nov 2026 13:50:00 -0800",
-    "news": [
-      {
-        "title": "Warren Kole Says Yellowjackets Creators ‘Did the Right Thing’ with How They Ended the Series (Exclusive)",
-        "url": "https://people.com/warren-kole-says-yellowjackets-creators-did-the-right-thing-for-series-finale-exclusive-12250842",
-        "source": "People.com"
-      },
-      {
-        "title": "Where to Watch Yellowjackets Season 4 Online Streaming",
-        "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/where-to-watch-yellowjackets-season-4-online-streaming-1235661472/",
-        "source": "Rolling Stone"
-      },
-      {
-        "title": "‘Yellowjackets’ Season 4 Review: Mystery Stumbles to the End With Small Glimpses of Promise",
-        "url": "https://www.thewrap.com/creative-content/reviews/yellowjackets-season-4-review/",
-        "source": "TheWrap"
-      }
-    ]
-  },
-  {
-    "geo": "IN",
-    "title": "sydney sweeney",
+    "title": "lea seydoux",
     "traffic": 200,
-    "pubDate": "Thu, 19 Nov 2026 12:10:00 -0800",
+    "pubDate": "Thu, 19 Nov 2026 20:00:00 -0800",
     "news": [
       {
-        "title": "Sydney Sweeney Films Scenes for ‘The Housemaid’s Secret’ in Jersey City with Michele Morrone (Photos)",
-        "url": "https://www.imdb.com/es/news/ni66119500/?ref_=nwc_art_perm",
-        "source": "IMDb"
+        "title": "Léa Seydoux Video Interview On 'Gentle Monster,' The Oscars & Her Career",
+        "url": "https://deadline.com/video/lea-seydoux-video-interview-oscar-gentle-monster/",
+        "source": "Deadline"
       },
       {
-        "title": "Sydney Sweeney Fans Can Watch The Housemaid’s Secret Trailer Before Anyone Else, Here’s How",
-        "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/sydney-sweeney-fans-watch-housemaid-184637298.html",
+        "title": "Léa Seydoux Doesn’t Really Care About the Bond Franchise (Anymore)",
+        "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/l-seydoux-doesn-t-really-144625791.html",
         "source": "Yahoo"
       },
       {
-        "title": "Film \"The Housemaid's Secret,\" Starring Sydney Sweeney and Michele Morrone, Returns To Shoot In Hoboken NJ",
-        "url": "https://patch.com/new-jersey/hoboken/film-housemaids-secret-starring-sydney-sweeney-michele-morrone-returns-shoot",
-        "source": "Patch"
+        "title": "Ex-Bond girl has no interest in her successor: ‘I don’t really care, guys’",
+        "url": "https://ew.com/lea-seydoux-doesnt-care-next-bond-girl-robert-pattinson-12264817",
+        "source": "Entertainment Weekly"
       }
     ]
   }
