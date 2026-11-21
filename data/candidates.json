@@ -1,24 +1,70 @@
 [
   {
     "geo": "US",
-    "title": "anya taylor-joy",
-    "traffic": 200,
-    "pubDate": "Fri, 20 Nov 2026 19:50:00 -0800",
+    "title": "the body netflix",
+    "traffic": 5000,
+    "pubDate": "Sat, 21 Nov 2026 05:20:00 -0800",
     "news": [
       {
-        "title": "Anya Taylor-Joy’s 148-Minute Sci-Fi Blockbuster Officially Wins Over Fans on Streaming",
-        "url": "https://www.imdb.com/news/ni66105492/",
-        "source": "IMDb"
+        "title": "The Body is a hit – and every lesbian I know is obsessed. Why aren’t there more sapphic stories on screen?",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/every-lesbian-i-know-is-obsessed-with-the-body-on-netflix",
+        "source": "The Guardian"
       },
       {
-        "title": "Anya Taylor-Joy’s 127-Minute Gritty Sci-Fi Thriller Returns as a Global Sensation",
-        "url": "https://www.cbr.com/anya-taylor-joy-the-gorge-global-success-november-2026/",
-        "source": "Comic Book Resources"
+        "title": "Netflix’s ‘The Body’ Sparks 126K-Strong Petition To Remove “Blasphemous Anti-Christian” Show",
+        "url": "https://deadline.com/2026/11/netflix-the-body-petition-remove-blasphemous-anti-christian-1237229570/",
+        "source": "Deadline"
       },
       {
-        "title": "Anya Taylor-Joy’s $1.3B Fantasy Blockbuster Is Officially a 2026 Streaming Smash",
-        "url": "https://collider.com/anya-taylor-joy-the-super-mario-bros-movie-streaming-success-prime-video-apple-tv-november-2026/",
-        "source": "Collider"
+        "title": "Petition asks Netflix to cancel The Body for 'blasphemous' and 'anti-Christian' content",
+        "url": "https://www.cbc.ca/news/entertainment/the-body-petition-netflix-9.7428453",
+        "source": "CBC"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "northeast united vs goa",
+    "traffic": 1000,
+    "pubDate": "Sat, 21 Nov 2026 05:10:00 -0800",
+    "news": [
+      {
+        "title": "New-Look FC Goa Test Unbeaten NorthEast United In Guwahati",
+        "url": "https://www.indiansuperleague.com/news/new-look-fc-goa-test-unbeaten-northeast-united-in-guwahati",
+        "source": "Indian Super League | Official Website"
+      },
+      {
+        "title": "NorthEast United vs Goa: Indian Super League stats & head-to-head",
+        "url": "https://www.bbc.com/sport/football/live/c6gm394mm47lt",
+        "source": "BBC"
+      },
+      {
+        "title": "NorthEast United FC vs FC Goa, ISL 2026-27: Preview and live streaming - All you need to know",
+        "url": "https://www.india.com/sports/football/northeast-united-fc-vs-fc-goa-isl-2026-27-preview-and-live-streaming-all-you-need-to-know-8546761/",
+        "source": "India.com"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "the blue road",
+    "traffic": 500,
+    "pubDate": "Sat, 21 Nov 2026 05:30:00 -0800",
+    "news": [
+      {
+        "title": "The Blue Road – Review | Netflix Series",
+        "url": "https://www.heavenofhorror.com/reviews/the-blue-road-netflix-series/",
+        "source": "Heaven of Horror"
+      },
+      {
+        "title": "Meet the Cast of Netflix’s 'The Blue Road,' Led by Son Suk-ku",
+        "url": "https://www.sweetyhigh.com/read/the-blue-road-netflix-details",
+        "source": "Sweety High"
+      },
+      {
+        "title": "S. Korea actor says 'The Blue Road' helped him break out of acting rut",
+        "url": "https://english.kyodonews.net/articles/-/91954",
+        "source": "Japan Wire by Kyodo News"
       }
     ]
   }
