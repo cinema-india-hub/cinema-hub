@@ -1,70 +1,24 @@
 [
   {
-    "geo": "US",
-    "title": "the body netflix",
-    "traffic": 5000,
-    "pubDate": "Sat, 21 Nov 2026 05:20:00 -0800",
-    "news": [
-      {
-        "title": "The Body is a hit – and every lesbian I know is obsessed. Why aren’t there more sapphic stories on screen?",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/every-lesbian-i-know-is-obsessed-with-the-body-on-netflix",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Netflix’s ‘The Body’ Sparks 126K-Strong Petition To Remove “Blasphemous Anti-Christian” Show",
-        "url": "https://deadline.com/2026/11/netflix-the-body-petition-remove-blasphemous-anti-christian-1237229570/",
-        "source": "Deadline"
-      },
-      {
-        "title": "Petition asks Netflix to cancel The Body for 'blasphemous' and 'anti-Christian' content",
-        "url": "https://www.cbc.ca/news/entertainment/the-body-petition-netflix-9.7428453",
-        "source": "CBC"
-      }
-    ]
-  },
-  {
     "geo": "IN",
-    "title": "northeast united vs goa",
+    "title": "game gta6",
     "traffic": 1000,
-    "pubDate": "Sat, 21 Nov 2026 05:10:00 -0800",
+    "pubDate": "Sat, 21 Nov 2026 12:00:00 -0800",
     "news": [
       {
-        "title": "New-Look FC Goa Test Unbeaten NorthEast United In Guwahati",
-        "url": "https://www.indiansuperleague.com/news/new-look-fc-goa-test-unbeaten-northeast-united-in-guwahati",
-        "source": "Indian Super League | Official Website"
-      },
-      {
-        "title": "NorthEast United vs Goa: Indian Super League stats & head-to-head",
-        "url": "https://www.bbc.com/sport/football/live/c6gm394mm47lt",
+        "title": "'I'm hit with a feeling of self-healing': The moment I realised GTA 6 was one of the greatest games ever",
+        "url": "https://www.bbc.com/culture/article/20261120-the-moment-i-realised-gta-6-was-a-masterpiece",
         "source": "BBC"
       },
       {
-        "title": "NorthEast United FC vs FC Goa, ISL 2026-27: Preview and live streaming - All you need to know",
-        "url": "https://www.india.com/sports/football/northeast-united-fc-vs-fc-goa-isl-2026-27-preview-and-live-streaming-all-you-need-to-know-8546761/",
-        "source": "India.com"
-      }
-    ]
-  },
-  {
-    "geo": "IN",
-    "title": "the blue road",
-    "traffic": 500,
-    "pubDate": "Sat, 21 Nov 2026 05:30:00 -0800",
-    "news": [
-      {
-        "title": "The Blue Road – Review | Netflix Series",
-        "url": "https://www.heavenofhorror.com/reviews/the-blue-road-netflix-series/",
-        "source": "Heaven of Horror"
+        "title": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
+        "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+        "source": "Take-Two Interactive Software, Inc."
       },
       {
-        "title": "Meet the Cast of Netflix’s 'The Blue Road,' Led by Son Suk-ku",
-        "url": "https://www.sweetyhigh.com/read/the-blue-road-netflix-details",
-        "source": "Sweety High"
-      },
-      {
-        "title": "S. Korea actor says 'The Blue Road' helped him break out of acting rut",
-        "url": "https://english.kyodonews.net/articles/-/91954",
-        "source": "Japan Wire by Kyodo News"
+        "title": "Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day",
+        "source": "The Guardian"
       }
     ]
   }
