@@ -1,47 +1,70 @@
 [
   {
     "geo": "US",
-    "title": "hulu black friday deal 2026",
+    "title": "tom holland",
     "traffic": 2000,
-    "pubDate": "Mon, 23 Nov 2026 03:00:00 -0800",
+    "pubDate": "Mon, 23 Nov 2026 13:50:00 -0800",
     "news": [
       {
-        "title": "Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More",
-        "url": "https://www.billboard.com/culture/product-recommendations/prime-video-black-friday-cyber-monday-streaming-deals-2026-1236385908/",
-        "source": "Billboard"
+        "title": "Rosario Dawson Back as Night Nurse in Spider-Man Brand New Day Re-Release",
+        "url": "https://variety.com/2026/film/news/rosario-dawson-night-nurse-spider-man-brand-new-day-1236953529/",
+        "source": "Variety"
       },
       {
-        "title": "Best Black Friday streaming deals 2026: Paramount+, Apple TV, HBO Max, and more already live",
-        "url": "https://mashable.com/entertainment/best-early-black-friday-streaming-deals-2026",
-        "source": "Mashable"
+        "title": "Tom Holland’s Spider-Man Is Back in New Marvel Release as Avengers: Doomsday Trailer Debuts",
+        "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/tom-holland-spider-man-back-164907957.html",
+        "source": "Yahoo"
       },
       {
-        "title": "Black Friday streaming deals cut Apple TV to $6.99/mo, Paramount Plus to $2.99/mo",
-        "url": "https://appleinsider.com/articles/26/11/20/black-friday-streaming-deals-cut-apple-tv-to-699mo-paramount-plus-to-299mo",
-        "source": "AppleInsider"
+        "title": "Tom Holland Officially Returns as Spider-Man in Stunning New Look",
+        "url": "https://collider.com/spider-man-brand-new-day-screenx-exclusive-variant-posters/",
+        "source": "Collider"
       }
     ]
   },
   {
     "geo": "IN",
-    "title": "latest ott releases",
+    "title": "rockstar gta vi",
     "traffic": 1000,
-    "pubDate": "Mon, 23 Nov 2026 02:30:00 -0800",
+    "pubDate": "Mon, 23 Nov 2026 14:00:00 -0800",
     "news": [
       {
-        "title": "Latest OTT releases (November 23-November 29): 17 new movies and TV shows on Netflix, Prime Video, JioHotstar and more",
-        "url": "https://www.vogue.in/content/latest-ott-releases-streaming-netflix-prime-video-jiohotstar-november-23-november-29-2026",
-        "source": "Vogue India"
+        "title": "These are the films you should watch before GTA VI finally arrives",
+        "url": "https://www.empireonline.com/movies/features/grand-theft-auto-6-films-that-inspired-game/",
+        "source": "Empire"
       },
       {
-        "title": "What to Watch This Weekend: The Altruists, Dhindora 2 and More",
-        "url": "https://www.mensxp.com/entertainment/web-series/186918-ott-releases-november-2026-the-altruists.html",
-        "source": "MensXP"
+        "title": "8 Classic Crime Movies That Helped Shape Grand Theft Auto, Ranked",
+        "url": "https://screenrant.com/movies-that-inspired-grand-theft-auto-ranked/",
+        "source": "ScreenRant"
       },
       {
-        "title": "OTT Releases This Week: The Vvaan, The Odyssey, Anbil Avan & More",
-        "url": "https://www.newsbricks.com/entertainment/ott-releases-this-week-the-odyssey-anbil-avan-418",
-        "source": "NewsBricks"
+        "title": "1983 Classic Named the ‘Best Crime Movie to Watch Before Playing GTA 6’",
+        "url": "https://www.mensjournal.com/entertainment/1983-classic-named-the-best-crime-movie-to-watch-before-playing-gta-6",
+        "source": "Men's Journal"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "hunger games",
+    "traffic": 500,
+    "pubDate": "Mon, 23 Nov 2026 12:30:00 -0800",
+    "news": [
+      {
+        "title": "Weekend Box Office: The Hunger Games Dominates with $120 Million Debut",
+        "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-the-hunger-games-sunrise-on-the-reaping-week-1/",
+        "source": "Rotten Tomatoes"
+      },
+      {
+        "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut",
+        "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061/",
+        "source": "Variety"
+      },
+      {
+        "title": "Box Office: How Lionsgate Marketing Reignited 'Hunger Games: Sunrise on Reaping'",
+        "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-marketing-1237231246/",
+        "source": "Deadline"
       }
     ]
   }
