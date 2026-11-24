@@ -1,47 +1,24 @@
 [
   {
-    "geo": "IN",
-    "title": "cyberpunk 2",
-    "traffic": 500,
-    "pubDate": "Mon, 23 Nov 2026 21:50:00 -0800",
-    "news": [
-      {
-        "title": "'Cyberpunk 2 Is Cancelled': CD Projekt Red Developer After GTA 6 Success",
-        "url": "https://www.ndtv.com/offbeat/cyberpunk-2-is-cancelled-cd-projekt-red-developer-after-gta-6-success-12368673",
-        "source": "NDTV"
-      },
-      {
-        "title": "Is Cyberpunk 2 cancelled? CD Projekt Red director jokes about scrapping sequel after GTA 6, but there's a",
-        "url": "https://m.economictimes.com/world/us/is-cyberpunk-2-cancelled-cd-projekt-red-director-jokes-about-scrapping-sequel-after-gta-6-but-theres-a-bigger-story/articleshow/136119554.cms",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
-        "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
-        "source": "Push Square"
-      }
-    ]
-  },
-  {
     "geo": "US",
-    "title": "adam driver",
+    "title": "ole miss basketball",
     "traffic": 500,
-    "pubDate": "Mon, 23 Nov 2026 21:50:00 -0800",
+    "pubDate": "Tue, 24 Nov 2026 11:10:00 -0800",
     "news": [
       {
-        "title": "Adam Driver and Steven Soderbergh Worked for Free on Scrapped 'Star Wars' Ben Solo Movie",
-        "url": "https://www.thewrap.com/creative-content/movies/adam-driver-steven-soderbergh-worked-for-free-ben-solo-star-wars-movie/",
-        "source": "TheWrap"
+        "title": "How to watch No. 19 BYU play Ole Miss in the Maui Invitational",
+        "url": "https://www.deseret.com/sports/2026/11/24/byu-basketball-ole-miss-maui-invitational-2026-how-to-watch/",
+        "source": "Deseret News"
       },
       {
-        "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
-        "url": "https://variety.com/2026/film/news/adam-driver-never-paid-hunt-for-ben-solo-development-star-wars-1236955936/",
-        "source": "Variety"
+        "title": "College basketball rankings: Keep an eye on the 5-0 Ole Miss Rebels scratching right outside the Top 25 And 1",
+        "url": "https://www.cbssports.com/college-basketball/news/rankings-top-25-and-1-ole-miss-rebels/",
+        "source": "CBS Sports"
       },
       {
-        "title": "Major Star Wars Character’s Fate Revealed Amid Cancellation Controversy",
-        "url": "https://screenrant.com/star-wars-the-hunt-for-ben-solo-adam-driver-character-fate-revealed/",
-        "source": "ScreenRant"
+        "title": "BYU vs Ole Miss Preview: BYU Faces Toughest Test in Early Season",
+        "url": "https://www.vanquishthefoe.com/byu-basketball/28182/byu-basketball-vs-ole-miss-preview-byu-faces-toughest-test-in-young-season-maui-invitational",
+        "source": "Vanquish The Foe"
       }
     ]
   }
