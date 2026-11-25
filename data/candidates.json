@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "geo": "IN",
+    "title": "grand theft auto gta vi",
+    "traffic": 500,
+    "pubDate": "Wed, 25 Nov 2026 07:00:00 -0800",
+    "news": [
+      {
+        "title": "Grand Theft Auto VI Now Available",
+        "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
+        "source": "Rockstar Games"
+      },
+      {
+        "title": "The unexpected joy hiding in Grand Theft Auto VI’s chaos? A little routine",
+        "url": "https://www.theguardian.com/games/2026/nov/25/the-secret-to-grand-theft-auto-vi-routine-rockstar-games",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
+        "url": "http://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+        "source": "Take-Two Interactive Software, Inc."
+      }
+    ]
+  }
+]
