@@ -1,24 +1,93 @@
 [
   {
-    "geo": "US",
-    "title": "myles garrett",
+    "geo": "IN",
+    "title": "ramandeep singh",
     "traffic": 2000,
-    "pubDate": "Wed, 25 Nov 2026 16:40:00 -0800",
+    "pubDate": "Thu, 26 Nov 2026 03:20:00 -0800",
     "news": [
       {
-        "title": "Myles Garrett admits his knee probably won't be 'even 90% this season'",
-        "url": "https://sports.yahoo.com/nfl/articles/myles-garrett-admits-knee-probably-002746729.html",
-        "source": "Yahoo Sports"
+        "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+        "url": "https://www.cricbuzz.com/player-match-performance/match/165281/player/1431889/bowling",
+        "source": "Cricbuzz"
       },
       {
-        "title": "Myles Garrett’s Knee Injury Remains a Concern as Rams Enter Critical Stretch",
-        "url": "https://www.si.com/nfl/rams/onsi/rams-myles-garrett-knee-injury-concerns-playoff-push",
-        "source": "Sports Illustrated"
+        "title": "Punjab vs Bihar SMAT 2026 Live Streaming: Will Ramandeep Take His Team To Next Round?",
+        "url": "https://www.sportsdunia.com/cricket-news/punjab-vs-bihar-smat-live-streaming-elite-group-b-2026",
+        "source": "Sportsdunia"
       },
       {
-        "title": "Myles Garrett Active Sunday",
-        "url": "https://www.thefantasyfootballers.com/news/647917/-active-sunday/",
-        "source": "Fantasy Footballers Podcast"
+        "title": "Punjab vs Bihar Live Scorecard: Live Cricket Score PUN vs BIH, Match 122, Syed Mushtaq Ali Trophy, 2026",
+        "url": "https://www.indiatoday.in/live-score/cricket/punjab-bihar-live-cricket-scorecard-273323",
+        "source": "India Today"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "नेटफ्लिक्स",
+    "traffic": 1000,
+    "pubDate": "Thu, 26 Nov 2026 03:00:00 -0800",
+    "news": [
+      {
+        "title": "'जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?",
+        "url": "https://www.bbc.com/hindi/articles/cm93r9d9ypx0o",
+        "source": "BBC"
+      },
+      {
+        "title": "भारत में पाकिस्तानी शो पर सरकार सख्त, Netflix को दो टूक; बौखलाए PAK मंत्री, बोले- पहले क्रिकेट अब...",
+        "url": "https://www.aajtak.in/entertainment/news/story/fawad-khan-mahira-khan-show-jo-bache-hain-controversy-row-govt-orders-netflix-india-pakistani-minister-lashes-out-tmova-dskc-2706588-2026-11-26",
+        "source": "AajTak"
+      },
+      {
+        "title": "4 दिसंबर को रिलीज से पहले फवाद-माहिरा की सीरीज पर बड़ा संकट, सूचना एवं प्रसारण मंत्रालय ने नेटफ्लिक्स को या",
+        "url": "https://www.indiatv.in/entertainment/ott/major-hurdle-for-fawad-mahira-series-ahead-of-its-december-4-release-ministry-of-information-and-broadcasting-reminds-netflix-of-2025-advisory-2026-11-26-1256536",
+        "source": "India TV Hindi"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "sunrise",
+    "traffic": 500,
+    "pubDate": "Thu, 26 Nov 2026 03:10:00 -0800",
+    "news": [
+      {
+        "title": "‘Sunrise On The Reaping’ Firing Up Thanksgiving With $85M+ 5-Day, 2nd Best Holiday Haul For Franchise – Update",
+        "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/",
+        "source": "Deadline"
+      },
+      {
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "url": "https://www.mediaversityreviews.com/film-reviews/2026/11/25/the-hunger-games-sunrise-on-the-reaping",
+        "source": "Mediaversity Reviews"
+      },
+      {
+        "title": "‘Hunger Games: Sunrise on the Reaping’ to Dominate Thanksgiving Box Office as ‘Focker In-Law,’ ‘Hexed’ Join Fray",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/",
+        "source": "The Hollywood Reporter"
+      }
+    ]
+  },
+  {
+    "geo": "IN",
+    "title": "hail mary movie malayalam",
+    "traffic": 200,
+    "pubDate": "Thu, 26 Nov 2026 03:00:00 -0800",
+    "news": [
+      {
+        "title": "‘ഞാൻ ഇങ്ങോട്ട് വന്നത് പൊലീസിനെ പേടിച്ചിട്ടല്ല’; ആകാംക്ഷയുണർത്തി ചാക്കോച്ചൻ ചിത്രം ‘ഹെയ്ൽ മേരി’ ട്രെയിലര്‍",
+        "url": "https://www.manoramaonline.com/movies/movie-news/2026/11/26/hail-mary-malayalam-movie-release.html",
+        "source": "Manorama Online"
+      },
+      {
+        "title": "Hail Mary Movie Review: അഭിനയ മികവില്‍ കുഞ്ചാക്കോ ബോബനും സുരാജ് വെഞ്ഞാറമ്മൂടും",
+        "url": "https://malayalam.samayam.com/malayalam-cinema/movie-review/hail-mary-movie-review-and-rating/moviereview/136185068.cms",
+        "source": "Samayam Malayalam"
+      },
+      {
+        "title": "സാധാരണക്കാരുടെ ജീവിതം നയിച്ചിട്ടുള്ള ആളാണ് ഞാൻ, സിനിമയിലുള്ളതുപോലെയുള്ള ഗ്ലാമർ ജീവിതമല്ല എന്റേത്: കുഞ്ചാക്കോ..",
+        "url": "https://www.doolnews.com/actor-kunchacko-boban-states-that-the-perception-held-by-many-that-he-lived-a-life-detached-from-the-circumstances-of-ordinary-people-is-incorrect-64-175.html",
+        "source": "DoolNews"
       }
     ]
   }
