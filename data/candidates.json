@@ -1,24 +1,47 @@
 [
   {
-    "geo": "US",
-    "title": "harrison butker",
-    "traffic": 2000,
-    "pubDate": "Thu, 26 Nov 2026 18:50:00 -0800",
+    "geo": "IN",
+    "title": "marcus stoinis",
+    "traffic": 200,
+    "pubDate": "Fri, 27 Nov 2026 07:20:00 -0800",
     "news": [
       {
-        "title": "Harrison Butker's miserable season has produced another ridiculous statistic",
-        "url": "https://arrowheadaddict.com/harrison-butker-miserable-season-has-produced-another-ridiculous-statistic",
-        "source": "Arrowhead Addict"
+        "title": "DCP vs DV, 6th Match, International League T20 2026 - Commentary",
+        "url": "https://www.cricbuzz.com/live-cricket-scores/175263/dcp-vs-dv-6th-match-international-league-t20-2026",
+        "source": "Cricbuzz"
       },
       {
-        "title": "Harrison Butker Week 12 Outlook for Fantasy Football (2026)",
-        "url": "https://www.rotoballer.com/player-news/harrison-butker-will-look-to-contribute-in-week-12/2004508",
-        "source": "RotoBaller"
+        "title": "6th Match (N), International League T20 at Dubai, Nov 25 2026",
+        "url": "https://www.espn.in/cricket/series/20921/scorecard/1557448/dubai-capitals-vs-desert-vipers-6th-match-international-league-t20-2026-27",
+        "source": "ESPN India"
       },
       {
-        "title": "Chiefs' pressure on Harrison Butker may have finally paid off",
-        "url": "https://kckingdom.com/chiefs-pressure-on-harrison-butker-may-have-finally-paid-off-01m87cghm93r",
-        "source": "KC Kingdom"
+        "title": "ILT20: Dubai Capitals beat Desert Vipers by 45 runs, register first win of season 5",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-dubai-capitals-beat-desert-vipers-by-45-runs-register-first-win-of-season-5/articleshow/136176112.cms",
+        "source": "The Times of India"
+      }
+    ]
+  },
+  {
+    "geo": "US",
+    "title": "college games today",
+    "traffic": 200,
+    "pubDate": "Fri, 27 Nov 2026 06:30:00 -0800",
+    "news": [
+      {
+        "title": "What rivalries have the biggest stakes? Connelly looks at the end of the season",
+        "url": "https://www.espn.com/college-football/story/_/id/50595179/connelly-rivalry-week-stakes-preview",
+        "source": "ESPN"
+      },
+      {
+        "title": "College football odds, picks, predictions for Rivalry Week, 2026: Computer likes North Carolina, Arizona",
+        "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-lines-best-bets-today-rivalry-week-2026/",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "Week 13 college football odds, storylines: Best bets for Michigan-Ohio State and the weekend's other big games",
+        "url": "https://sports.yahoo.com/college-football/betting/article/week-13-college-football-odds-storylines-best-bets-for-michigan-ohio-state-and-the-weekends-other-big-games-151948923.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
